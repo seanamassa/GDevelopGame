@@ -3425,7 +3425,7 @@
               "parameters": [
                 "",
                 "Player.X()-1000",
-                "Player.X()-1000",
+                "Player.Y()-1000",
                 "Player.X()+1000",
                 "Boundary.Y()",
                 "",
