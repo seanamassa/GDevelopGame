@@ -868,6 +868,20 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": true
+      },
+      {
+        "file": "assets/Halloween Theme 1.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "5a4090e69f77a0e9c3d5c48043175cd1d322a52c702428a784878cf9e946bd86_Halloween Theme 1.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Music/Horror/5a4090e69f77a0e9c3d5c48043175cd1d322a52c702428a784878cf9e946bd86_Halloween Theme 1.aac",
+          "name": "gdevelop-asset-store"
+        }
       }
     ],
     "resourceFolders": []
@@ -2270,7 +2284,7 @@
               "directions": [
                 {
                   "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.05,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
@@ -3493,6 +3507,18 @@
                 "",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "5a4090e69f77a0e9c3d5c48043175cd1d322a52c702428a784878cf9e946bd86_Halloween Theme 1.aac",
+                "yes",
+                "60",
+                ""
+              ]
             }
           ]
         },
@@ -3734,7 +3760,7 @@
               },
               "parameters": [
                 "",
-                "PIckup",
+                "Pickup",
                 "",
                 "50",
                 ""
