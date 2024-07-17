@@ -202,6 +202,154 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Pixel art items/Pixel Mart/Food/13a9101b7b0f7e7a37b9e427e075ef29b9f996ce9ba42930d89fc98d8f6d00cd_Dry Dog Food.png",
           "name": "gdevelop-asset-store"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Orange Grass 9Patch_all_16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "3a3a78f6934ffc19ea65f93bd09e4e3d83d3c3d5fd73331bdeedd8b133d90d94_9patch_Orange Grass 9Patch_all_16.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Terrain/3a3a78f6934ffc19ea65f93bd09e4e3d83d3c3d5fd73331bdeedd8b133d90d94_9patch_Orange Grass 9Patch_all_16.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Redwood Background_south.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "a26e4ade90f4ff8d5fd2edf76e9ef1733328d92af2a1ef34f7f8b5c70c0d281b_9patch_Redwood Background_south.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Tile Sets/Redwood Background/a26e4ade90f4ff8d5fd2edf76e9ef1733328d92af2a1ef34f7f8b5c70c0d281b_9patch_Redwood Background_south.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Wood Background_center.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "967a48a99dfb809bdb9735ad0877185990527ff08b888460817c16600b24750f_9patch_Wood Background_center.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Tile Sets/Wood Background/967a48a99dfb809bdb9735ad0877185990527ff08b888460817c16600b24750f_9patch_Wood Background_center.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Redwood Background_center.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "370817a0abf6ff23a68eda703e562b778e540a055b7cb34f9a48a7dcf5b53d7c_9patch_Redwood Background_center.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Tile Sets/Redwood Background/370817a0abf6ff23a68eda703e562b778e540a055b7cb34f9a48a7dcf5b53d7c_9patch_Redwood Background_center.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Redwood Background_north.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "f156229a9213a04199ea23a078aaa565fd865b8dcbc608709a222bec59599cc2_9patch_Redwood Background_north.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Tile Sets/Redwood Background/f156229a9213a04199ea23a078aaa565fd865b8dcbc608709a222bec59599cc2_9patch_Redwood Background_north.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Redwood Background_southeast.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "b21a8f93abda6262b8422be90914af333ded321831ec1da4c3905a1d8cddb1d5_9patch_Redwood Background_southeast.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Tile Sets/Redwood Background/b21a8f93abda6262b8422be90914af333ded321831ec1da4c3905a1d8cddb1d5_9patch_Redwood Background_southeast.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Grass.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "f0fcdea023107dc7c4263d38d52d5f6f74a5b779887760a1580a613f7f4b2af0_tiled_Grass.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Breakable Physics/Background/f0fcdea023107dc7c4263d38d52d5f6f74a5b779887760a1580a613f7f4b2af0_tiled_Grass.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Sand.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/tiled_Sand.png\",\"extension\":\".png\",\"pskl\":{}}",
+        "name": "b172907f8ae6c3d132b1c25b821256087a7834824973892dbb092bc41adfbb63_tiled_Sand.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Breakable Physics/Background/b172907f8ae6c3d132b1c25b821256087a7834824973892dbb092bc41adfbb63_tiled_Sand.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Beige background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "f67fd7c8e77a3a456c9b12fae0480436866ed2ffff8076aa7ae2fc9554fa7b2e_tiled_Beige background.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Abstract Platformer Pack (370 assets)/PNG/Backgrounds/f67fd7c8e77a3a456c9b12fae0480436866ed2ffff8076aa7ae2fc9554fa7b2e_tiled_Beige background.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Platform_Dirt2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Platform_Dirt2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/b172907f8ae6c3d132b1c25b821256087a7834824973892dbb092bc41adfbb63_tiled_Sand.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "b172907f8ae6c3d132b1c25b821256087a7834824973892dbb092bc41adfbb63_tiled_Sand.png2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Wood Background_all_64.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cde7121802cd226997240e3941fbaf9193a225e5ffff40cc849e918047959711_9patch_Wood Background_all_64.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Tile Sets/Wood Background/cde7121802cd226997240e3941fbaf9193a225e5ffff40cc849e918047959711_9patch_Wood Background_all_64.png",
+          "name": "gdevelop-asset-store"
+        }
       }
     ],
     "resourceFolders": []
@@ -226,14 +374,14 @@
       "uiSettings": {
         "grid": true,
         "gridType": "rectangular",
-        "gridWidth": 32,
-        "gridHeight": 32,
+        "gridWidth": 64,
+        "gridHeight": 64,
         "gridOffsetX": 0,
         "gridOffsetY": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.43357743047023806,
+        "zoomFactor": 0.4335774304702383,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -248,9 +396,26 @@
           "name": "Player",
           "persistentUuid": "996a17b8-5b35-4fec-b843-978981d9fa4f",
           "width": 0,
-          "x": 784,
-          "y": 471,
+          "x": 247,
+          "y": 448,
           "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "PlatformDogFood",
+          "persistentUuid": "fe7868f6-4641-4b35-9470-13bfa8b15db2",
+          "width": 320,
+          "x": 192,
+          "y": 160,
+          "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -262,12 +427,97 @@
           "height": 64,
           "keepRatio": true,
           "layer": "",
-          "name": "PlatformDogFood",
-          "persistentUuid": "fe7868f6-4641-4b35-9470-13bfa8b15db2",
-          "width": 320,
-          "x": 672,
-          "y": 608,
-          "zOrder": 4,
+          "name": "PlatformWood",
+          "persistentUuid": "01bd2123-9993-441c-92e8-59fe27fe5635",
+          "width": 576,
+          "x": 704,
+          "y": 576,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "GrassPlatform",
+          "persistentUuid": "2fa61de6-c267-4847-9442-097db5067edc",
+          "width": 576,
+          "x": 192,
+          "y": 768,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "GrassPlatform2",
+          "persistentUuid": "82fcd866-3c37-4401-be28-7e929a73f6b8",
+          "width": 448,
+          "x": 256,
+          "y": 576,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 128,
+          "keepRatio": true,
+          "layer": "",
+          "name": "PlatformDirt",
+          "persistentUuid": "c461d090-1aad-48b3-b658-17d2bf881966",
+          "width": 448,
+          "x": 256,
+          "y": 640,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 128,
+          "keepRatio": true,
+          "layer": "",
+          "name": "PlaformWood2",
+          "persistentUuid": "1e9cad2e-6bd4-4bc1-aeec-ae8dceb23a06",
+          "width": 576,
+          "x": 704,
+          "y": 640,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "PlatformGrass",
+          "persistentUuid": "0387ef72-f6dd-4f48-85dd-5590b648103e",
+          "width": 448,
+          "x": 256,
+          "y": 576,
+          "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -284,6 +534,8 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "acceleration": 1500,
               "canGoDownFromJumpthru": true,
               "canGrabPlatforms": false,
@@ -296,9 +548,7 @@
               "ladderClimbingSpeed": 150,
               "maxFallingSpeed": 1000,
               "maxSpeed": 318,
-              "name": "PlatformerObject",
               "slopeMaxAngle": 60,
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "useLegacyTrajectory": false,
               "xGrabTolerance": 10,
               "yGrabOffset": 0
@@ -654,6 +904,82 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "PlatformWood",
+          "texture": "f156229a9213a04199ea23a078aaa565fd865b8dcbc608709a222bec59599cc2_9patch_Redwood Background_north.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "PlatformDirt",
+          "texture": "b172907f8ae6c3d132b1c25b821256087a7834824973892dbb092bc41adfbb63_tiled_Sand.png2",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "PlatformGrass",
+          "texture": "f0fcdea023107dc7c4263d38d52d5f6f74a5b779887760a1580a613f7f4b2af0_tiled_Grass.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "PlaformWood2",
+          "texture": "cde7121802cd226997240e3941fbaf9193a225e5ffff40cc849e918047959711_9patch_Wood Background_all_64.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
               "canBeGrabbed": true,
               "name": "Platform",
               "platformType": "NormalPlatform",
@@ -671,6 +997,18 @@
           },
           {
             "objectName": "PlatformDogFood"
+          },
+          {
+            "objectName": "PlatformWood"
+          },
+          {
+            "objectName": "PlaformWood2"
+          },
+          {
+            "objectName": "PlatformGrass"
+          },
+          {
+            "objectName": "PlatformDirt"
           }
         ]
       },
