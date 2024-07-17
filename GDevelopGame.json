@@ -72,6 +72,136 @@
         "name": "Platform_Dirt1.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "2f82af75a20bfa22d7a2f9d5b5e161f9217f4c482a904d7a7f67ce634e63b095_Dog_Idle_1.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Dog/2f82af75a20bfa22d7a2f9d5b5e161f9217f4c482a904d7a7f67ce634e63b095_Dog_Idle_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "a73d19258cfee7726053e658fd70d017a930619b2a43f86399d43f8c52cc140c_Dog_Idle_2.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Dog/a73d19258cfee7726053e658fd70d017a930619b2a43f86399d43f8c52cc140c_Dog_Idle_2.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ff67c38b39ec0cf6f620dd35ff5187e9e6f3f869bed088b0b5c70e8b5807a0cd_Dog_Idle_3.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Dog/ff67c38b39ec0cf6f620dd35ff5187e9e6f3f869bed088b0b5c70e8b5807a0cd_Dog_Idle_3.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "7472aa9ecc1a7bacf04c45a015a0742b9531c2f206ac240f0cd9d2c93fbed681_Dog_Idle_4.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Dog/7472aa9ecc1a7bacf04c45a015a0742b9531c2f206ac240f0cd9d2c93fbed681_Dog_Idle_4.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Idle_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ca0fb6a512b0d421a34b0ad7671598ef4fc17f9449bcc182ffd15168cb25e69e_Dog_Idle_5.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Dog/ca0fb6a512b0d421a34b0ad7671598ef4fc17f9449bcc182ffd15168cb25e69e_Dog_Idle_5.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Idle_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "168cc9ad9f5823b99e42ae7c9bff024b12ff72ba4b381eb478fce71c8202638e_Dog_Idle_6.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Dog/168cc9ad9f5823b99e42ae7c9bff024b12ff72ba4b381eb478fce71c8202638e_Dog_Idle_6.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Idle_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "944c76c6bdaf2bf5dfab82c73fbad2a79c4e5218070b8dc90c97131137ef283b_Dog_Idle_7.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Dog/944c76c6bdaf2bf5dfab82c73fbad2a79c4e5218070b8dc90c97131137ef283b_Dog_Idle_7.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Idle_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "c89af5324c6ea2eb2e944e577998c9104d61f2402e699e277240bd4bab0a1a3e_Dog_Idle_8.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Dog/c89af5324c6ea2eb2e944e577998c9104d61f2402e699e277240bd4bab0a1a3e_Dog_Idle_8.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dog_Idle_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4ff36e6ce19127f2d5a05b4f0bd6939deada712a033bdf294f5a6d3992cdea71_Dog_Idle_9.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Dog/4ff36e6ce19127f2d5a05b4f0bd6939deada712a033bdf294f5a6d3992cdea71_Dog_Idle_9.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dry Dog Food.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "13a9101b7b0f7e7a37b9e427e075ef29b9f996ce9ba42930d89fc98d8f6d00cd_Dry Dog Food.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Pixel art items/Pixel Mart/Food/13a9101b7b0f7e7a37b9e427e075ef29b9f996ce9ba42930d89fc98d8f6d00cd_Dry Dog Food.png",
+          "name": "gdevelop-asset-store"
+        }
       }
     ],
     "resourceFolders": []
@@ -103,7 +233,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.546875,
+        "zoomFactor": 0.43357743047023806,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -111,17 +241,33 @@
       "instances": [
         {
           "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 16,
+          "customSize": false,
+          "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "NewSprite",
-          "persistentUuid": "52554ad0-c8c4-4421-8416-91e3073c8626",
-          "width": 64,
-          "x": 704,
-          "y": 672,
-          "zOrder": 1,
+          "name": "Player",
+          "persistentUuid": "996a17b8-5b35-4fec-b843-978981d9fa4f",
+          "width": 0,
+          "x": 784,
+          "y": 471,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "PlatformDogFood",
+          "persistentUuid": "fe7868f6-4641-4b35-9470-13bfa8b15db2",
+          "width": 320,
+          "x": 672,
+          "y": 608,
+          "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -131,32 +277,45 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "NewSprite",
+          "name": "Player",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
-              "name": "Platform",
-              "platformType": "NormalPlatform",
-              "type": "PlatformBehavior::PlatformBehavior",
+              "acceleration": 1500,
+              "canGoDownFromJumpthru": true,
+              "canGrabPlatforms": false,
+              "canGrabWithoutMoving": true,
+              "deceleration": 1500,
+              "gravity": 600,
+              "ignoreDefaultControls": false,
+              "jumpSpeed": 500,
+              "jumpSustainTime": 0.1,
+              "ladderClimbingSpeed": 150,
+              "maxFallingSpeed": 1000,
+              "maxSpeed": 318,
+              "name": "PlatformerObject",
+              "slopeMaxAngle": 60,
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "useLegacyTrajectory": false,
+              "xGrabTolerance": 10,
               "yGrabOffset": 0
             }
           ],
           "animations": [
             {
-              "name": "",
+              "name": "Idle",
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
+                  "looping": true,
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Platform_Dirt1.png",
+                      "image": "2f82af75a20bfa22d7a2f9d5b5e161f9217f4c482a904d7a7f67ce634e63b095_Dog_Idle_1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -172,20 +331,308 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 26,
+                            "y": 3
                           },
                           {
-                            "x": 16,
-                            "y": 0
+                            "x": 99,
+                            "y": 3
                           },
                           {
-                            "x": 16,
-                            "y": 16
+                            "x": 99,
+                            "y": 117
                           },
                           {
-                            "x": 0,
-                            "y": 16
+                            "x": 26,
+                            "y": 117
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "a73d19258cfee7726053e658fd70d017a930619b2a43f86399d43f8c52cc140c_Dog_Idle_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 26,
+                            "y": 3
+                          },
+                          {
+                            "x": 99,
+                            "y": 3
+                          },
+                          {
+                            "x": 99,
+                            "y": 117
+                          },
+                          {
+                            "x": 26,
+                            "y": 117
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "ff67c38b39ec0cf6f620dd35ff5187e9e6f3f869bed088b0b5c70e8b5807a0cd_Dog_Idle_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 26,
+                            "y": 3
+                          },
+                          {
+                            "x": 99,
+                            "y": 3
+                          },
+                          {
+                            "x": 99,
+                            "y": 117
+                          },
+                          {
+                            "x": 26,
+                            "y": 117
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "7472aa9ecc1a7bacf04c45a015a0742b9531c2f206ac240f0cd9d2c93fbed681_Dog_Idle_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 26,
+                            "y": 3
+                          },
+                          {
+                            "x": 99,
+                            "y": 3
+                          },
+                          {
+                            "x": 99,
+                            "y": 117
+                          },
+                          {
+                            "x": 26,
+                            "y": 117
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "ca0fb6a512b0d421a34b0ad7671598ef4fc17f9449bcc182ffd15168cb25e69e_Dog_Idle_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 26,
+                            "y": 3
+                          },
+                          {
+                            "x": 99,
+                            "y": 3
+                          },
+                          {
+                            "x": 99,
+                            "y": 117
+                          },
+                          {
+                            "x": 26,
+                            "y": 117
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "168cc9ad9f5823b99e42ae7c9bff024b12ff72ba4b381eb478fce71c8202638e_Dog_Idle_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 26,
+                            "y": 3
+                          },
+                          {
+                            "x": 99,
+                            "y": 3
+                          },
+                          {
+                            "x": 99,
+                            "y": 117
+                          },
+                          {
+                            "x": 26,
+                            "y": 117
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "944c76c6bdaf2bf5dfab82c73fbad2a79c4e5218070b8dc90c97131137ef283b_Dog_Idle_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 26,
+                            "y": 3
+                          },
+                          {
+                            "x": 99,
+                            "y": 3
+                          },
+                          {
+                            "x": 99,
+                            "y": 117
+                          },
+                          {
+                            "x": 26,
+                            "y": 117
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "c89af5324c6ea2eb2e944e577998c9104d61f2402e699e277240bd4bab0a1a3e_Dog_Idle_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 26,
+                            "y": 3
+                          },
+                          {
+                            "x": 99,
+                            "y": 3
+                          },
+                          {
+                            "x": 99,
+                            "y": 117
+                          },
+                          {
+                            "x": 26,
+                            "y": 117
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "4ff36e6ce19127f2d5a05b4f0bd6939deada712a033bdf294f5a6d3992cdea71_Dog_Idle_9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 26,
+                            "y": 3
+                          },
+                          {
+                            "x": 99,
+                            "y": 3
+                          },
+                          {
+                            "x": 99,
+                            "y": 117
+                          },
+                          {
+                            "x": 26,
+                            "y": 117
                           }
                         ]
                       ]
@@ -195,13 +642,35 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "PlatformDogFood",
+          "texture": "13a9101b7b0f7e7a37b9e427e075ef29b9f996ce9ba42930d89fc98d8f6d00cd_Dry Dog Food.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
         "folderName": "__ROOT",
         "children": [
           {
-            "objectName": "NewSprite"
+            "objectName": "Player"
+          },
+          {
+            "objectName": "PlatformDogFood"
           }
         ]
       },
@@ -224,6 +693,29 @@
                 "value": "PlayerAuthentication::DisplayAuthenticationBanner"
               },
               "parameters": [
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ZoomCamera"
+              },
+              "parameters": [
+                "",
+                "1.5",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "CentreCamera"
+              },
+              "parameters": [
+                "",
+                "Player",
+                "",
+                "",
                 ""
               ]
             }
@@ -296,6 +788,10 @@
         {
           "name": "Platform",
           "type": "PlatformBehavior::PlatformBehavior"
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior"
         },
         {
           "name": "Resizable",
