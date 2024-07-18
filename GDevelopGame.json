@@ -1171,6 +1171,106 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Space Shooter by Pixel boy/Background/4d8cfdae4934a160d7a712ac0242ffb00a330637bf9373f0870af014671423ea_tiled_Stars.png",
           "name": "gdevelop-asset-store"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fly_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ed3987c71848740a3869fa95276cee639ac1dc6adbaeddeb92475c32fc2c75a6_Fly_1.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GDevelop examples/Platformer/Enemy/ed3987c71848740a3869fa95276cee639ac1dc6adbaeddeb92475c32fc2c75a6_Fly_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bridge.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4a6c2d461ae269854c11c7046816d00cc5e57ef97d7686ed0c3e2f212dd6f0db_Bridge.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Misc/4a6c2d461ae269854c11c7046816d00cc5e57ef97d7686ed0c3e2f212dd6f0db_Bridge.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Discord.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "c2228cb21e5626ccd35602097c21cb97cce2f7e486e84f2e5f027b34c99f5d1e_Discord.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixelart App Icons/Small 24x24/c2228cb21e5626ccd35602097c21cb97cce2f7e486e84f2e5f027b34c99f5d1e_Discord.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Discord2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4b62880627e8cc2726eefa05a6406235e4883a7e1d36d491d250eea1c271323e_Discord.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixelart App Icons/Big 120x120/4b62880627e8cc2726eefa05a6406235e4883a7e1d36d491d250eea1c271323e_Discord.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Grass (2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4340f382cf2368c649cae358630402ac7c596f301519a9a3cae1f59f094ea02c_Grass (2).png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Worlds/Desert/Objects/Plant/4340f382cf2368c649cae358630402ac7c596f301519a9a3cae1f59f094ea02c_Grass (2).png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Small grass.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "1347af7aee35484ecee5ecf61587f5157b511b9224e1a6bcad45eab58442e26a_Small grass.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/1347af7aee35484ecee5ecf61587f5157b511b9224e1a6bcad45eab58442e26a_Small grass.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/panel-border-021.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/panel-border-021.png\",\"extension\":\".png\",\"pskl\":{}}",
+        "name": "d18142e367ec926bc3f9773f24795302f70125df461344ae7c7314e0590f9a66_panel-border-021.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Fantasy UI Borders/Double Size/Borders/d18142e367ec926bc3f9773f24795302f70125df461344ae7c7314e0590f9a66_panel-border-021.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/d18142e367ec926bc3f9773f24795302f70125df461344ae7c7314e0590f9a66_panel-border-021.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "d18142e367ec926bc3f9773f24795302f70125df461344ae7c7314e0590f9a66_panel-border-021.png2",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1202,7 +1302,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.4057518905943849,
+        "zoomFactor": 0.511778403521021,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -1225,8 +1325,8 @@
           "name": "Player",
           "persistentUuid": "996a17b8-5b35-4fec-b843-978981d9fa4f",
           "width": 137,
-          "x": 640,
-          "y": 384,
+          "x": 512,
+          "y": 128,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -1292,8 +1392,8 @@
           "layer": "",
           "name": "PlatformDirt",
           "persistentUuid": "c461d090-1aad-48b3-b658-17d2bf881966",
-          "width": 448,
-          "x": 256,
+          "width": 768,
+          "x": -64,
           "y": 640,
           "zOrder": 9,
           "numberProperties": [],
@@ -1326,27 +1426,10 @@
           "layer": "",
           "name": "PlatformGrass",
           "persistentUuid": "0387ef72-f6dd-4f48-85dd-5590b648103e",
-          "width": 448,
-          "x": 256,
-          "y": 576,
+          "width": 64,
+          "x": -64,
+          "y": 512,
           "zOrder": 11,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 64,
-          "keepRatio": true,
-          "layer": "",
-          "name": "PlatformMoving",
-          "persistentUuid": "dd3443ac-32ad-4e0e-a342-f9a608edcbde",
-          "width": 192,
-          "x": 448,
-          "y": 320,
-          "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1565,6 +1648,74 @@
           "x": -192,
           "y": -64,
           "zOrder": 22,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "PlatformGrass",
+          "persistentUuid": "8a2b7aef-65e9-4264-9cad-0dce7966e1ce",
+          "width": 768,
+          "x": -64,
+          "y": 576,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "PlatformGrass",
+          "persistentUuid": "7915e22a-d86a-4a9a-8805-235be233610a",
+          "width": 64,
+          "x": 640,
+          "y": 512,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 178,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Bridge",
+          "persistentUuid": "e03baa0c-d882-4b6e-bda3-84fb4bb66239",
+          "width": 256,
+          "x": 576,
+          "y": 206,
+          "zOrder": 23,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "41159522-dc13-41b5-beed-9bfb2b1fdf0c",
+          "width": 512,
+          "x": 960,
+          "y": 128,
+          "zOrder": 24,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3141,92 +3292,6 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "PlatformMoving",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "canBeGrabbed": true,
-              "platformType": "Jumpthru",
-              "yGrabOffset": 0
-            },
-            {
-              "name": "RectangleMovement",
-              "type": "RectangleMovement::RectangleMovement",
-              "Width": 400,
-              "Height": 0,
-              "Clockwise": true,
-              "HorizontalEdgeDuration": 4,
-              "VerticalEdgeDuration": 1,
-              "Left": 1.00000000000091,
-              "Top": 1.00000000000091,
-              "Progress": 1.00000000000091,
-              "OldX": 1.00000000000091,
-              "OldY": 1.00000000000091,
-              "Easing": "easeInOutSine",
-              "InitialPosition": "Top-left corner",
-              "ToogleClockwise": false
-            }
-          ],
-          "animations": [
-            {
-              "name": "NewSprite",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "NewSprite2",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 37
-                          },
-                          {
-                            "x": 64,
-                            "y": 37
-                          },
-                          {
-                            "x": 64,
-                            "y": 64
-                          },
-                          {
-                            "x": 0,
-                            "y": 64
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
           "name": "Coin",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -3940,13 +4005,13 @@
                       "points": [
                         {
                           "name": "Checker",
-                          "x": 64,
-                          "y": 46.5
+                          "x": 136,
+                          "y": 79.5
                         }
                       ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
+                        "x": 0.5,
                         "y": 0
                       },
                       "centerPoint": {
@@ -3982,13 +4047,13 @@
                       "points": [
                         {
                           "name": "Checker",
-                          "x": 64,
-                          "y": 46.5
+                          "x": 136,
+                          "y": 79.5
                         }
                       ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
+                        "x": 0.5,
                         "y": 0
                       },
                       "centerPoint": {
@@ -4024,13 +4089,13 @@
                       "points": [
                         {
                           "name": "Checker",
-                          "x": 64,
-                          "y": 46.5
+                          "x": 136,
+                          "y": 79.5
                         }
                       ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
+                        "x": 0.5,
                         "y": 0
                       },
                       "centerPoint": {
@@ -4066,13 +4131,13 @@
                       "points": [
                         {
                           "name": "Checker",
-                          "x": 64,
-                          "y": 46.5
+                          "x": 136,
+                          "y": 79.5
                         }
                       ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
+                        "x": 0.5,
                         "y": 0
                       },
                       "centerPoint": {
@@ -4108,13 +4173,13 @@
                       "points": [
                         {
                           "name": "Checker",
-                          "x": 64,
-                          "y": 46.5
+                          "x": 136,
+                          "y": 79.5
                         }
                       ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
+                        "x": 0.5,
                         "y": 0
                       },
                       "centerPoint": {
@@ -4150,13 +4215,13 @@
                       "points": [
                         {
                           "name": "Checker",
-                          "x": 64,
-                          "y": 46.5
+                          "x": 136,
+                          "y": 79.5
                         }
                       ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
+                        "x": 0.5,
                         "y": 0
                       },
                       "centerPoint": {
@@ -4192,13 +4257,13 @@
                       "points": [
                         {
                           "name": "Checker",
-                          "x": 64,
-                          "y": 46.5
+                          "x": 136,
+                          "y": 79.5
                         }
                       ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
+                        "x": 0.5,
                         "y": 0
                       },
                       "centerPoint": {
@@ -4234,13 +4299,13 @@
                       "points": [
                         {
                           "name": "Checker",
-                          "x": 64,
-                          "y": 46.5
+                          "x": 136,
+                          "y": 79.5
                         }
                       ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
+                        "x": 0.5,
                         "y": 0
                       },
                       "centerPoint": {
@@ -4276,13 +4341,13 @@
                       "points": [
                         {
                           "name": "Checker",
-                          "x": 64,
-                          "y": 46.5
+                          "x": 136,
+                          "y": 79.5
                         }
                       ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
+                        "x": 0.5,
                         "y": 0
                       },
                       "centerPoint": {
@@ -4318,13 +4383,13 @@
                       "points": [
                         {
                           "name": "Checker",
-                          "x": 64,
-                          "y": 46.5
+                          "x": 136,
+                          "y": 79.5
                         }
                       ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
+                        "x": 0.5,
                         "y": 0
                       },
                       "centerPoint": {
@@ -4370,6 +4435,110 @@
           "variables": [],
           "effects": [],
           "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Bridge",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "Jumpthru",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            },
+            {
+              "name": "RectangleMovement",
+              "type": "RectangleMovement::RectangleMovement",
+              "Width": 400,
+              "Height": 0,
+              "Clockwise": true,
+              "HorizontalEdgeDuration": 4,
+              "VerticalEdgeDuration": 1,
+              "Left": 1.00000000000091,
+              "Top": 1.00000000000091,
+              "Progress": 1.00000000000091,
+              "OldX": 1.00000000000091,
+              "OldY": 1.00000000000091,
+              "Easing": "easeInOutQuint",
+              "InitialPosition": "Top-left corner",
+              "ToogleClockwise": false
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "ed3987c71848740a3869fa95276cee639ac1dc6adbaeddeb92475c32fc2c75a6_Fly_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 24
+                          },
+                          {
+                            "x": 112,
+                            "y": 24
+                          },
+                          {
+                            "x": 112,
+                            "y": 75
+                          },
+                          {
+                            "x": 3,
+                            "y": 75
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "NewTiledSprite",
+          "texture": "d18142e367ec926bc3f9773f24795302f70125df461344ae7c7314e0590f9a66_panel-border-021.png2",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "Jumpthru",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -4397,9 +4566,6 @@
             "objectName": "PlatformDirt"
           },
           {
-            "objectName": "PlatformMoving"
-          },
-          {
             "objectName": "Coin"
           },
           {
@@ -4409,10 +4575,16 @@
             "objectName": "Enemy2"
           },
           {
+            "objectName": "Bridge"
+          },
+          {
             "objectName": "Background"
           },
           {
             "objectName": "Background2"
+          },
+          {
+            "objectName": "NewTiledSprite"
           },
           {
             "objectName": "UIScore"
@@ -4533,7 +4705,7 @@
           "colorR": 74,
           "creationTime": 0,
           "folded": true,
-          "name": "Character Animations",
+          "name": "Player Animations",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
@@ -4708,191 +4880,139 @@
                     "\"Idle\""
                   ]
                 }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "Player",
+                        "Animation",
+                        "=",
+                        "\"Death\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ActivateBehavior"
+                      },
+                      "parameters": [
+                        "Player",
+                        "PlatformerObject",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "2"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Scene"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Untitled scene\"",
+                        ""
+                      ]
+                    }
+                  ]
+                }
               ]
             }
           ],
           "parameters": []
         },
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Player",
-                "Coin",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Delete"
-              },
-              "parameters": [
-                "Coin",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "PlaySound"
-              },
-              "parameters": [
-                "",
-                "Pickup",
-                "",
-                "50",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "Score",
-                "+",
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-              },
-              "parameters": [
-                "UIScore",
-                "Text",
-                "=",
-                "\"Score: \" + Score"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "FlippableCapability::FlippableBehavior::FlippedX"
-              },
-              "parameters": [
-                "Enemy",
-                "Flippable"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PlatformBehavior::SimulateLeftKey"
-              },
-              "parameters": [
-                "Enemy",
-                "PlatformerObject"
-              ]
-            }
-          ],
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Player Collisions",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
           "events": [
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
                   "type": {
-                    "value": "CollisionPoint"
+                    "value": "CollisionNP"
                   },
                   "parameters": [
-                    "PlatformWood",
-                    "Enemy.PointX(\"Checker\")",
-                    "Enemy.PointY(\"Checker\")"
+                    "Player",
+                    "Coin",
+                    "",
+                    "",
+                    ""
                   ]
                 }
               ],
               "actions": [
                 {
                   "type": {
-                    "value": "FlippableCapability::FlippableBehavior::FlipX"
+                    "value": "Delete"
                   },
                   "parameters": [
-                    "Enemy",
-                    "Flippable",
-                    "no"
+                    "Coin",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "Pickup",
+                    "",
+                    "50",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Score",
+                    "+",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "UIScore",
+                    "Text",
+                    "=",
+                    "\"Score: \" + Score"
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "FlippableCapability::FlippableBehavior::FlippedX"
-              },
-              "parameters": [
-                "Enemy",
-                "Flippable"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PlatformBehavior::SimulateRightKey"
-              },
-              "parameters": [
-                "Enemy",
-                "PlatformerObject"
-              ]
-            }
-          ],
-          "events": [
+            },
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
-                {
-                  "type": {
-                    "value": "CollisionPoint"
-                  },
-                  "parameters": [
-                    "PlatformWood",
-                    "Enemy.PointX(\"Checker\")",
-                    "Enemy.PointY(\"Checker\")"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "FlippableCapability::FlippableBehavior::FlipX"
-                  },
-                  "parameters": [
-                    "Enemy",
-                    "Flippable",
-                    "yes"
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "disabled": true,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Or"
-              },
-              "parameters": [],
-              "subInstructions": [
                 {
                   "type": {
                     "value": "CollisionNP"
@@ -4907,164 +5027,375 @@
                 },
                 {
                   "type": {
-                    "value": "PosY"
+                    "inverted": true,
+                    "value": "Flash::Flash::IsFlashing"
                   },
                   "parameters": [
                     "Player",
-                    ">",
-                    "Boundary.Y()"
+                    "Flash",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Health",
+                    "-",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Flash::Flash::Flash"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Flash",
+                    "1.5",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "Hit",
+                    "",
+                    "50",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Enemy2",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Flash::Flash::IsFlashing"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Flash",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Health",
+                    "-",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Flash::Flash::Flash"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Flash",
+                    "1.5",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "Hit",
+                    "",
+                    "50",
+                    ""
                   ]
                 }
               ]
             }
           ],
-          "actions": [
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "Player",
-                "Animation",
-                "=",
-                "\"Death\""
-              ]
-            },
-            {
-              "type": {
-                "value": "PlaySound"
-              },
-              "parameters": [
-                "",
-                "Death1",
-                "no",
-                "50",
-                ""
-              ]
-            }
-          ]
+          "parameters": []
         },
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Enemy1",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
             {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::Name"
-              },
-              "parameters": [
-                "Player",
-                "Animation",
-                "=",
-                "\"Death\""
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                  },
+                  "parameters": [
+                    "Enemy",
+                    "Flippable"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::SimulateLeftKey"
+                  },
+                  "parameters": [
+                    "Enemy",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionPoint"
+                      },
+                      "parameters": [
+                        "PlatformWood",
+                        "Enemy.PointX(\"Checker\")",
+                        "Enemy.PointY(\"Checker\")"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "FlippableCapability::FlippableBehavior::FlipX"
+                      },
+                      "parameters": [
+                        "Enemy",
+                        "Flippable",
+                        "no"
+                      ]
+                    }
+                  ]
+                }
               ]
             },
             {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                  },
+                  "parameters": [
+                    "Enemy",
+                    "Flippable"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::SimulateRightKey"
+                  },
+                  "parameters": [
+                    "Enemy",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionPoint"
+                      },
+                      "parameters": [
+                        "PlatformWood",
+                        "Enemy.PointX(\"Checker\")",
+                        "Enemy.PointY(\"Checker\")"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "FlippableCapability::FlippableBehavior::FlipX"
+                      },
+                      "parameters": [
+                        "Enemy",
+                        "Flippable",
+                        "yes"
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ],
-          "actions": [
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "Player",
-                "PlatformerObject",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Wait"
-              },
-              "parameters": [
-                "2"
-              ]
-            },
-            {
-              "type": {
-                "value": "Scene"
-              },
-              "parameters": [
-                "",
-                "\"Untitled scene\"",
-                ""
-              ]
-            }
-          ]
+          "parameters": []
         },
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Enemy2",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
             {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Player",
-                "Enemy",
-                "",
-                "",
-                ""
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                  },
+                  "parameters": [
+                    "Enemy2",
+                    "Flippable"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::SimulateLeftKey"
+                  },
+                  "parameters": [
+                    "Enemy2",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionPoint"
+                      },
+                      "parameters": [
+                        "PlatformGrass",
+                        "Enemy2.PointX(\"Checker\")",
+                        "Enemy.PointY(\"Checker\")"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "FlippableCapability::FlippableBehavior::FlipX"
+                      },
+                      "parameters": [
+                        "Enemy2",
+                        "Flippable",
+                        "no"
+                      ]
+                    }
+                  ]
+                }
               ]
             },
             {
-              "type": {
-                "inverted": true,
-                "value": "Flash::Flash::IsFlashing"
-              },
-              "parameters": [
-                "Player",
-                "Flash",
-                ""
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                  },
+                  "parameters": [
+                    "Enemy2",
+                    "Flippable"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::SimulateRightKey"
+                  },
+                  "parameters": [
+                    "Enemy2",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionPoint"
+                      },
+                      "parameters": [
+                        "PlatformGrass",
+                        "Enemy2.PointX(\"Checker\")",
+                        "Enemy.PointY(\"Checker\")"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "FlippableCapability::FlippableBehavior::FlipX"
+                      },
+                      "parameters": [
+                        "Enemy2",
+                        "Flippable",
+                        "yes"
+                      ]
+                    }
+                  ]
+                }
               ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
             }
           ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetNumberObjectVariable"
-              },
-              "parameters": [
-                "Player",
-                "Health",
-                "-",
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "Flash::Flash::Flash"
-              },
-              "parameters": [
-                "Player",
-                "Flash",
-                "1.5",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "PlaySound"
-              },
-              "parameters": [
-                "",
-                "Hit",
-                "",
-                "50",
-                ""
-              ]
-            }
-          ]
+          "parameters": []
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
