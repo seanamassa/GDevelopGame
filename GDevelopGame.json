@@ -1028,6 +1028,149 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Arcade/Sound effects/Power-up/b8a7683ddaf1a6f7501e14105285402c467cdd0509d84388620d8a0c7badef01_Powerup 10.aac",
           "name": "gdevelop-asset-store"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Walk_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "12732e8e1f8cd1bf840b3b694fc83061d9a6776aeeb4fdf7220d5b1fefd31a2f_Cat_Walk_1.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/12732e8e1f8cd1bf840b3b694fc83061d9a6776aeeb4fdf7220d5b1fefd31a2f_Cat_Walk_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Walk_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "09b876fee93602e13eee8a7817e6f4e030084b71f709a1495f626351fc9c488a_Cat_Walk_2.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/09b876fee93602e13eee8a7817e6f4e030084b71f709a1495f626351fc9c488a_Cat_Walk_2.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Walk_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "3c3c357334d18860f2045950a091e5a875a54b7305f9baa919ea6ea231f62ad3_Cat_Walk_3.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/3c3c357334d18860f2045950a091e5a875a54b7305f9baa919ea6ea231f62ad3_Cat_Walk_3.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Walk_14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "7ede6879fff9d653e85cb4cce2bc0226f903d3f152deef7e05a2d0e1f43180ba_Cat_Walk_4.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/7ede6879fff9d653e85cb4cce2bc0226f903d3f152deef7e05a2d0e1f43180ba_Cat_Walk_4.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Walk_15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "281bb292cd29ab63910d290bcbf570b1150ecb316d37ce8ee68e1ebdd35efe53_Cat_Walk_5.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/281bb292cd29ab63910d290bcbf570b1150ecb316d37ce8ee68e1ebdd35efe53_Cat_Walk_5.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Walk_16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "93fc9d1a9d8480e4993ae6665d0468b343ab0651d4648591eb4677e9fda04a54_Cat_Walk_6.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/93fc9d1a9d8480e4993ae6665d0468b343ab0651d4648591eb4677e9fda04a54_Cat_Walk_6.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Walk_17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "3592d5ebbb6d7df13a17c77c6c2f562714d1d2bdc99e125bfcf2ac875f84e619_Cat_Walk_7.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/3592d5ebbb6d7df13a17c77c6c2f562714d1d2bdc99e125bfcf2ac875f84e619_Cat_Walk_7.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Walk_18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "75ae7fc084b4081ee438ce855ca5070ac60d29d67cb1c87725f53f1a299d2b6c_Cat_Walk_8.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/75ae7fc084b4081ee438ce855ca5070ac60d29d67cb1c87725f53f1a299d2b6c_Cat_Walk_8.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Walk_19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "b6c1e7a74eca0e7b3cc4d1680ab1321acfe3194e6cde10786e0fc70625f7496a_Cat_Walk_9.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/b6c1e7a74eca0e7b3cc4d1680ab1321acfe3194e6cde10786e0fc70625f7496a_Cat_Walk_9.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Walk_20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "3194645d445c82a5657ba6fcdd91c706eb105c2eb22fcc7f10cb132f3754d7a9_Cat_Walk_10.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/3194645d445c82a5657ba6fcdd91c706eb105c2eb22fcc7f10cb132f3754d7a9_Cat_Walk_10.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Stars2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4d8cfdae4934a160d7a712ac0242ffb00a330637bf9373f0870af014671423ea_tiled_Stars.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Space Shooter by Pixel boy/Background/4d8cfdae4934a160d7a712ac0242ffb00a330637bf9373f0870af014671423ea_tiled_Stars.png",
+          "name": "gdevelop-asset-store"
+        }
       }
     ],
     "resourceFolders": []
@@ -1059,7 +1202,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.3437520241612332,
+        "zoomFactor": 0.140398578060341,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -1312,23 +1455,6 @@
         },
         {
           "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 1152,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Background",
-          "persistentUuid": "bf5331ad-8308-411c-a462-abf27295a4fa",
-          "width": 2240,
-          "x": -256,
-          "y": -128,
-          "zOrder": -10,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": false,
           "height": 0,
           "keepRatio": true,
@@ -1366,7 +1492,7 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "PlatformDogFood",
+          "name": "Coin2",
           "persistentUuid": "c8eb814c-f8f8-485b-ae63-ae44097e6331",
           "width": 0,
           "x": 512,
@@ -1389,6 +1515,56 @@
           "x": 1536,
           "y": 832,
           "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Enemy2",
+          "persistentUuid": "a5b371b0-5454-4118-a953-ca34442e232a",
+          "width": 0,
+          "x": 384,
+          "y": 448,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 70,
+          "height": 2240,
+          "keepRatio": true,
+          "layer": "Background",
+          "name": "Background",
+          "persistentUuid": "7b0eb23a-f95a-4efe-9b14-747849cff0c6",
+          "width": 2368,
+          "x": -192,
+          "y": -64,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 70,
+          "height": 2240,
+          "keepRatio": true,
+          "layer": "Background",
+          "name": "Background2",
+          "persistentUuid": "b89ff44c-16eb-4a50-9b51-f5bd22fec506",
+          "width": 2240,
+          "x": -192,
+          "y": -64,
+          "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2878,7 +3054,7 @@
         {
           "assetStoreId": "",
           "height": 32,
-          "name": "PlatformDogFood",
+          "name": "Coin2",
           "texture": "13a9101b7b0f7e7a37b9e427e075ef29b9f996ce9ba42930d89fc98d8f6d00cd_Dry Dog Food.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
@@ -3718,6 +3894,1322 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "",
+          "name": "Enemy2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "acceleration": 1500,
+              "canGoDownFromJumpthru": true,
+              "canGrabPlatforms": false,
+              "canGrabWithoutMoving": true,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": true,
+              "jumpSpeed": 600,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 150,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 150,
+              "slopeMaxAngle": 60,
+              "useLegacyTrajectory": false,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.09,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "12732e8e1f8cd1bf840b3b694fc83061d9a6776aeeb4fdf7220d5b1fefd31a2f_Cat_Walk_1.png",
+                      "points": [
+                        {
+                          "name": "Checker",
+                          "x": 64,
+                          "y": 46.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 15,
+                            "y": 58
+                          },
+                          {
+                            "x": 18.5,
+                            "y": 57.5
+                          },
+                          {
+                            "x": 17.5,
+                            "y": 54
+                          },
+                          {
+                            "x": 16,
+                            "y": 50
+                          },
+                          {
+                            "x": 11,
+                            "y": 48
+                          },
+                          {
+                            "x": 11,
+                            "y": 38
+                          },
+                          {
+                            "x": 13,
+                            "y": 34.5
+                          },
+                          {
+                            "x": 14.5,
+                            "y": 30.5
+                          },
+                          {
+                            "x": 18.5,
+                            "y": 28.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 17
+                          },
+                          {
+                            "x": 22,
+                            "y": 10
+                          },
+                          {
+                            "x": 36.5,
+                            "y": 11
+                          },
+                          {
+                            "x": 38,
+                            "y": 16.5
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 21
+                          },
+                          {
+                            "x": 38,
+                            "y": 25.5
+                          },
+                          {
+                            "x": 35,
+                            "y": 28.5
+                          },
+                          {
+                            "x": 43,
+                            "y": 31.5
+                          },
+                          {
+                            "x": 45,
+                            "y": 37
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 44.5,
+                            "y": 48.5
+                          },
+                          {
+                            "x": 38.5,
+                            "y": 53
+                          },
+                          {
+                            "x": 38,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 57
+                          },
+                          {
+                            "x": 41.5,
+                            "y": 61
+                          },
+                          {
+                            "x": 15,
+                            "y": 61
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "09b876fee93602e13eee8a7817e6f4e030084b71f709a1495f626351fc9c488a_Cat_Walk_2.png",
+                      "points": [
+                        {
+                          "name": "Checker",
+                          "x": 64,
+                          "y": 46.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 15,
+                            "y": 58
+                          },
+                          {
+                            "x": 18.5,
+                            "y": 57.5
+                          },
+                          {
+                            "x": 17.5,
+                            "y": 54
+                          },
+                          {
+                            "x": 16,
+                            "y": 50
+                          },
+                          {
+                            "x": 11,
+                            "y": 48
+                          },
+                          {
+                            "x": 11,
+                            "y": 38
+                          },
+                          {
+                            "x": 13,
+                            "y": 34.5
+                          },
+                          {
+                            "x": 14.5,
+                            "y": 30.5
+                          },
+                          {
+                            "x": 18.5,
+                            "y": 28.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 17
+                          },
+                          {
+                            "x": 22,
+                            "y": 10
+                          },
+                          {
+                            "x": 36.5,
+                            "y": 11
+                          },
+                          {
+                            "x": 38,
+                            "y": 16.5
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 21
+                          },
+                          {
+                            "x": 38,
+                            "y": 25.5
+                          },
+                          {
+                            "x": 35,
+                            "y": 28.5
+                          },
+                          {
+                            "x": 43,
+                            "y": 31.5
+                          },
+                          {
+                            "x": 45,
+                            "y": 37
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 44.5,
+                            "y": 48.5
+                          },
+                          {
+                            "x": 38.5,
+                            "y": 53
+                          },
+                          {
+                            "x": 38,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 57
+                          },
+                          {
+                            "x": 41.5,
+                            "y": 61
+                          },
+                          {
+                            "x": 15,
+                            "y": 61
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "3c3c357334d18860f2045950a091e5a875a54b7305f9baa919ea6ea231f62ad3_Cat_Walk_3.png",
+                      "points": [
+                        {
+                          "name": "Checker",
+                          "x": 64,
+                          "y": 46.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 15,
+                            "y": 58
+                          },
+                          {
+                            "x": 18.5,
+                            "y": 57.5
+                          },
+                          {
+                            "x": 17.5,
+                            "y": 54
+                          },
+                          {
+                            "x": 16,
+                            "y": 50
+                          },
+                          {
+                            "x": 11,
+                            "y": 48
+                          },
+                          {
+                            "x": 11,
+                            "y": 38
+                          },
+                          {
+                            "x": 13,
+                            "y": 34.5
+                          },
+                          {
+                            "x": 14.5,
+                            "y": 30.5
+                          },
+                          {
+                            "x": 18.5,
+                            "y": 28.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 17
+                          },
+                          {
+                            "x": 22,
+                            "y": 10
+                          },
+                          {
+                            "x": 36.5,
+                            "y": 11
+                          },
+                          {
+                            "x": 38,
+                            "y": 16.5
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 21
+                          },
+                          {
+                            "x": 38,
+                            "y": 25.5
+                          },
+                          {
+                            "x": 35,
+                            "y": 28.5
+                          },
+                          {
+                            "x": 43,
+                            "y": 31.5
+                          },
+                          {
+                            "x": 45,
+                            "y": 37
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 44.5,
+                            "y": 48.5
+                          },
+                          {
+                            "x": 38.5,
+                            "y": 53
+                          },
+                          {
+                            "x": 38,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 57
+                          },
+                          {
+                            "x": 41.5,
+                            "y": 61
+                          },
+                          {
+                            "x": 15,
+                            "y": 61
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "7ede6879fff9d653e85cb4cce2bc0226f903d3f152deef7e05a2d0e1f43180ba_Cat_Walk_4.png",
+                      "points": [
+                        {
+                          "name": "Checker",
+                          "x": 64,
+                          "y": 46.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 15,
+                            "y": 58
+                          },
+                          {
+                            "x": 18.5,
+                            "y": 57.5
+                          },
+                          {
+                            "x": 17.5,
+                            "y": 54
+                          },
+                          {
+                            "x": 16,
+                            "y": 50
+                          },
+                          {
+                            "x": 11,
+                            "y": 48
+                          },
+                          {
+                            "x": 11,
+                            "y": 38
+                          },
+                          {
+                            "x": 13,
+                            "y": 34.5
+                          },
+                          {
+                            "x": 14.5,
+                            "y": 30.5
+                          },
+                          {
+                            "x": 18.5,
+                            "y": 28.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 17
+                          },
+                          {
+                            "x": 22,
+                            "y": 10
+                          },
+                          {
+                            "x": 36.5,
+                            "y": 11
+                          },
+                          {
+                            "x": 38,
+                            "y": 16.5
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 21
+                          },
+                          {
+                            "x": 38,
+                            "y": 25.5
+                          },
+                          {
+                            "x": 35,
+                            "y": 28.5
+                          },
+                          {
+                            "x": 43,
+                            "y": 31.5
+                          },
+                          {
+                            "x": 45,
+                            "y": 37
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 44.5,
+                            "y": 48.5
+                          },
+                          {
+                            "x": 38.5,
+                            "y": 53
+                          },
+                          {
+                            "x": 38,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 57
+                          },
+                          {
+                            "x": 41.5,
+                            "y": 61
+                          },
+                          {
+                            "x": 15,
+                            "y": 61
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "281bb292cd29ab63910d290bcbf570b1150ecb316d37ce8ee68e1ebdd35efe53_Cat_Walk_5.png",
+                      "points": [
+                        {
+                          "name": "Checker",
+                          "x": 64,
+                          "y": 46.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 15,
+                            "y": 58
+                          },
+                          {
+                            "x": 18.5,
+                            "y": 57.5
+                          },
+                          {
+                            "x": 17.5,
+                            "y": 54
+                          },
+                          {
+                            "x": 16,
+                            "y": 50
+                          },
+                          {
+                            "x": 11,
+                            "y": 48
+                          },
+                          {
+                            "x": 11,
+                            "y": 38
+                          },
+                          {
+                            "x": 13,
+                            "y": 34.5
+                          },
+                          {
+                            "x": 14.5,
+                            "y": 30.5
+                          },
+                          {
+                            "x": 18.5,
+                            "y": 28.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 17
+                          },
+                          {
+                            "x": 22,
+                            "y": 10
+                          },
+                          {
+                            "x": 36.5,
+                            "y": 11
+                          },
+                          {
+                            "x": 38,
+                            "y": 16.5
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 21
+                          },
+                          {
+                            "x": 38,
+                            "y": 25.5
+                          },
+                          {
+                            "x": 35,
+                            "y": 28.5
+                          },
+                          {
+                            "x": 43,
+                            "y": 31.5
+                          },
+                          {
+                            "x": 45,
+                            "y": 37
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 44.5,
+                            "y": 48.5
+                          },
+                          {
+                            "x": 38.5,
+                            "y": 53
+                          },
+                          {
+                            "x": 38,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 57
+                          },
+                          {
+                            "x": 41.5,
+                            "y": 61
+                          },
+                          {
+                            "x": 15,
+                            "y": 61
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "93fc9d1a9d8480e4993ae6665d0468b343ab0651d4648591eb4677e9fda04a54_Cat_Walk_6.png",
+                      "points": [
+                        {
+                          "name": "Checker",
+                          "x": 64,
+                          "y": 46.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 15,
+                            "y": 58
+                          },
+                          {
+                            "x": 18.5,
+                            "y": 57.5
+                          },
+                          {
+                            "x": 17.5,
+                            "y": 54
+                          },
+                          {
+                            "x": 16,
+                            "y": 50
+                          },
+                          {
+                            "x": 11,
+                            "y": 48
+                          },
+                          {
+                            "x": 11,
+                            "y": 38
+                          },
+                          {
+                            "x": 13,
+                            "y": 34.5
+                          },
+                          {
+                            "x": 14.5,
+                            "y": 30.5
+                          },
+                          {
+                            "x": 18.5,
+                            "y": 28.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 17
+                          },
+                          {
+                            "x": 22,
+                            "y": 10
+                          },
+                          {
+                            "x": 36.5,
+                            "y": 11
+                          },
+                          {
+                            "x": 38,
+                            "y": 16.5
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 21
+                          },
+                          {
+                            "x": 38,
+                            "y": 25.5
+                          },
+                          {
+                            "x": 35,
+                            "y": 28.5
+                          },
+                          {
+                            "x": 43,
+                            "y": 31.5
+                          },
+                          {
+                            "x": 45,
+                            "y": 37
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 44.5,
+                            "y": 48.5
+                          },
+                          {
+                            "x": 38.5,
+                            "y": 53
+                          },
+                          {
+                            "x": 38,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 57
+                          },
+                          {
+                            "x": 41.5,
+                            "y": 61
+                          },
+                          {
+                            "x": 15,
+                            "y": 61
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "3592d5ebbb6d7df13a17c77c6c2f562714d1d2bdc99e125bfcf2ac875f84e619_Cat_Walk_7.png",
+                      "points": [
+                        {
+                          "name": "Checker",
+                          "x": 64,
+                          "y": 46.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 15,
+                            "y": 58
+                          },
+                          {
+                            "x": 18.5,
+                            "y": 57.5
+                          },
+                          {
+                            "x": 17.5,
+                            "y": 54
+                          },
+                          {
+                            "x": 16,
+                            "y": 50
+                          },
+                          {
+                            "x": 11,
+                            "y": 48
+                          },
+                          {
+                            "x": 11,
+                            "y": 38
+                          },
+                          {
+                            "x": 13,
+                            "y": 34.5
+                          },
+                          {
+                            "x": 14.5,
+                            "y": 30.5
+                          },
+                          {
+                            "x": 18.5,
+                            "y": 28.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 17
+                          },
+                          {
+                            "x": 22,
+                            "y": 10
+                          },
+                          {
+                            "x": 36.5,
+                            "y": 11
+                          },
+                          {
+                            "x": 38,
+                            "y": 16.5
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 21
+                          },
+                          {
+                            "x": 38,
+                            "y": 25.5
+                          },
+                          {
+                            "x": 35,
+                            "y": 28.5
+                          },
+                          {
+                            "x": 43,
+                            "y": 31.5
+                          },
+                          {
+                            "x": 45,
+                            "y": 37
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 44.5,
+                            "y": 48.5
+                          },
+                          {
+                            "x": 38.5,
+                            "y": 53
+                          },
+                          {
+                            "x": 38,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 57
+                          },
+                          {
+                            "x": 41.5,
+                            "y": 61
+                          },
+                          {
+                            "x": 15,
+                            "y": 61
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "75ae7fc084b4081ee438ce855ca5070ac60d29d67cb1c87725f53f1a299d2b6c_Cat_Walk_8.png",
+                      "points": [
+                        {
+                          "name": "Checker",
+                          "x": 64,
+                          "y": 46.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 15,
+                            "y": 58
+                          },
+                          {
+                            "x": 18.5,
+                            "y": 57.5
+                          },
+                          {
+                            "x": 17.5,
+                            "y": 54
+                          },
+                          {
+                            "x": 16,
+                            "y": 50
+                          },
+                          {
+                            "x": 11,
+                            "y": 48
+                          },
+                          {
+                            "x": 11,
+                            "y": 38
+                          },
+                          {
+                            "x": 13,
+                            "y": 34.5
+                          },
+                          {
+                            "x": 14.5,
+                            "y": 30.5
+                          },
+                          {
+                            "x": 18.5,
+                            "y": 28.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 17
+                          },
+                          {
+                            "x": 22,
+                            "y": 10
+                          },
+                          {
+                            "x": 36.5,
+                            "y": 11
+                          },
+                          {
+                            "x": 38,
+                            "y": 16.5
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 21
+                          },
+                          {
+                            "x": 38,
+                            "y": 25.5
+                          },
+                          {
+                            "x": 35,
+                            "y": 28.5
+                          },
+                          {
+                            "x": 43,
+                            "y": 31.5
+                          },
+                          {
+                            "x": 45,
+                            "y": 37
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 44.5,
+                            "y": 48.5
+                          },
+                          {
+                            "x": 38.5,
+                            "y": 53
+                          },
+                          {
+                            "x": 38,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 57
+                          },
+                          {
+                            "x": 41.5,
+                            "y": 61
+                          },
+                          {
+                            "x": 15,
+                            "y": 61
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "b6c1e7a74eca0e7b3cc4d1680ab1321acfe3194e6cde10786e0fc70625f7496a_Cat_Walk_9.png",
+                      "points": [
+                        {
+                          "name": "Checker",
+                          "x": 64,
+                          "y": 46.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 15,
+                            "y": 58
+                          },
+                          {
+                            "x": 18.5,
+                            "y": 57.5
+                          },
+                          {
+                            "x": 17.5,
+                            "y": 54
+                          },
+                          {
+                            "x": 16,
+                            "y": 50
+                          },
+                          {
+                            "x": 11,
+                            "y": 48
+                          },
+                          {
+                            "x": 11,
+                            "y": 38
+                          },
+                          {
+                            "x": 13,
+                            "y": 34.5
+                          },
+                          {
+                            "x": 14.5,
+                            "y": 30.5
+                          },
+                          {
+                            "x": 18.5,
+                            "y": 28.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 17
+                          },
+                          {
+                            "x": 22,
+                            "y": 10
+                          },
+                          {
+                            "x": 36.5,
+                            "y": 11
+                          },
+                          {
+                            "x": 38,
+                            "y": 16.5
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 21
+                          },
+                          {
+                            "x": 38,
+                            "y": 25.5
+                          },
+                          {
+                            "x": 35,
+                            "y": 28.5
+                          },
+                          {
+                            "x": 43,
+                            "y": 31.5
+                          },
+                          {
+                            "x": 45,
+                            "y": 37
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 44.5,
+                            "y": 48.5
+                          },
+                          {
+                            "x": 38.5,
+                            "y": 53
+                          },
+                          {
+                            "x": 38,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 57
+                          },
+                          {
+                            "x": 41.5,
+                            "y": 61
+                          },
+                          {
+                            "x": 15,
+                            "y": 61
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "3194645d445c82a5657ba6fcdd91c706eb105c2eb22fcc7f10cb132f3754d7a9_Cat_Walk_10.png",
+                      "points": [
+                        {
+                          "name": "Checker",
+                          "x": 64,
+                          "y": 46.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 15,
+                            "y": 58
+                          },
+                          {
+                            "x": 18.5,
+                            "y": 57.5
+                          },
+                          {
+                            "x": 17.5,
+                            "y": 54
+                          },
+                          {
+                            "x": 16,
+                            "y": 50
+                          },
+                          {
+                            "x": 11,
+                            "y": 48
+                          },
+                          {
+                            "x": 11,
+                            "y": 38
+                          },
+                          {
+                            "x": 13,
+                            "y": 34.5
+                          },
+                          {
+                            "x": 14.5,
+                            "y": 30.5
+                          },
+                          {
+                            "x": 18.5,
+                            "y": 28.5
+                          },
+                          {
+                            "x": 19.5,
+                            "y": 17
+                          },
+                          {
+                            "x": 22,
+                            "y": 10
+                          },
+                          {
+                            "x": 36.5,
+                            "y": 11
+                          },
+                          {
+                            "x": 38,
+                            "y": 16.5
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 21
+                          },
+                          {
+                            "x": 38,
+                            "y": 25.5
+                          },
+                          {
+                            "x": 35,
+                            "y": 28.5
+                          },
+                          {
+                            "x": 43,
+                            "y": 31.5
+                          },
+                          {
+                            "x": 45,
+                            "y": 37
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 40
+                          },
+                          {
+                            "x": 44.5,
+                            "y": 48.5
+                          },
+                          {
+                            "x": 38.5,
+                            "y": 53
+                          },
+                          {
+                            "x": 38,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 40.5,
+                            "y": 57
+                          },
+                          {
+                            "x": 41.5,
+                            "y": 61
+                          },
+                          {
+                            "x": 15,
+                            "y": 61
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Background2",
+          "texture": "4d8cfdae4934a160d7a712ac0242ffb00a330637bf9373f0870af014671423ea_tiled_Stars.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
         }
       ],
       "objectsFolderStructure": {
@@ -3730,7 +5222,7 @@
             "objectName": "Boundary"
           },
           {
-            "objectName": "PlatformDogFood"
+            "objectName": "Coin2"
           },
           {
             "objectName": "PlatformWood"
@@ -3754,7 +5246,13 @@
             "objectName": "Enemy"
           },
           {
+            "objectName": "Enemy2"
+          },
+          {
             "objectName": "Background"
+          },
+          {
+            "objectName": "Background2"
           },
           {
             "objectName": "UIScore"
@@ -3819,6 +5317,32 @@
                 "yes",
                 "60",
                 ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "TiledSpriteObject::XOffset"
+              },
+              "parameters": [
+                "Background",
+                "=",
+                "CameraCenterX()/8"
+              ]
+            },
+            {
+              "type": {
+                "value": "TiledSpriteObject::XOffset"
+              },
+              "parameters": [
+                "Background2",
+                "=",
+                "CameraCenterX()/3"
               ]
             }
           ]
@@ -4449,7 +5973,7 @@
               },
               "parameters": [
                 "Player",
-                "PlatformDogFood",
+                "Coin2",
                 "",
                 "",
                 "yes"
@@ -4462,7 +5986,7 @@
                 "value": "Delete"
               },
               "parameters": [
-                "PlatformDogFood",
+                "Coin2",
                 ""
               ]
             },
@@ -4521,6 +6045,39 @@
         }
       ],
       "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "Background",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        },
         {
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
