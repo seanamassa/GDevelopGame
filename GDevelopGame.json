@@ -919,7 +919,7 @@
         "alwaysLoaded": false,
         "file": "assets/Health Bar.png",
         "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/Health Bar.png\",\"extension\":\".png\"}",
+        "metadata": "{\"localFilePath\":\"assets/Health Bar.png\",\"extension\":\".png\",\"pskl\":{}}",
         "name": "f8e5d88f8b377f182d5d42adf0bf9bc5f94034ac24c410f07ba27c46cda841c3_Health Bar.png",
         "smoothed": true,
         "userAdded": true,
@@ -968,321 +968,50 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Graveyard Background.png",
+        "file": "assets/NewSprite6.png",
         "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/Graveyard Background.png\",\"extension\":\".png\"}",
-        "name": "2ffb486d810edd024b73a1a855f30254f5dc60b658af6ad914b1355f846b2637_Graveyard Background.png",
-        "smoothed": true,
-        "userAdded": true,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Worlds/Graveyard/Background/2ffb486d810edd024b73a1a855f30254f5dc60b658af6ad914b1355f846b2637_Graveyard Background.png",
-          "name": "gdevelop-asset-store"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/tiled_Background.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "e10d4d02f445ddc7daf068b27546f89a8fe1f2ecb3e5c8ce21a73c8dbc8234b7_tiled_Background.png",
-        "smoothed": true,
-        "userAdded": true,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/GDevelop examples/Platformer/Background/e10d4d02f445ddc7daf068b27546f89a8fe1f2ecb3e5c8ce21a73c8dbc8234b7_tiled_Background.png",
-          "name": "gdevelop-asset-store"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/tiled_Stars.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "4d8cfdae4934a160d7a712ac0242ffb00a330637bf9373f0870af014671423ea_tiled_Stars.png",
-        "smoothed": true,
-        "userAdded": true,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Space Shooter by Pixel boy/Background/4d8cfdae4934a160d7a712ac0242ffb00a330637bf9373f0870af014671423ea_tiled_Stars.png",
-          "name": "gdevelop-asset-store"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/tiled_Abstract purple background tiles.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "3ceede67b98b5f18bf090b5f5fad8b0fcd97901c99cfe3213948f8951400529d_tiled_Abstract purple background tiles.png",
-        "smoothed": true,
-        "userAdded": true,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Abstract Platformer Pack (370 assets)/PNG/Backgrounds/3ceede67b98b5f18bf090b5f5fad8b0fcd97901c99cfe3213948f8951400529d_tiled_Abstract purple background tiles.png",
-          "name": "gdevelop-asset-store"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Full moon.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "5a18fbf7eb242513100d087fac4792b0b48e67ba4ddc5479b1955e733caba48a_Full moon.png",
-        "smoothed": true,
-        "userAdded": true,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/Background Objects/Retina/5a18fbf7eb242513100d087fac4792b0b48e67ba4ddc5479b1955e733caba48a_Full moon.png",
-          "name": "gdevelop-asset-store"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/tiled_Starry Background Shadows 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "2cfc385feb7b37522b19e6dbdc19b5edcdbe21da1a1645cb4390c66ea0f19b0a_tiled_Starry Background Shadows 2.png",
-        "smoothed": true,
-        "userAdded": true,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/FoozleCC/Void Collection/Environment Pack/Backgrounds/2cfc385feb7b37522b19e6dbdc19b5edcdbe21da1a1645cb4390c66ea0f19b0a_tiled_Starry Background Shadows 2.png",
-          "name": "gdevelop-asset-store"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/tiled_Rock Background.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "edae5a3c3647ad9b8a2724c0de909767bf185cffbf8f58670e3a3946daf1dbb2_tiled_Rock Background.png",
-        "smoothed": true,
-        "userAdded": true,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Background Element/Background/edae5a3c3647ad9b8a2724c0de909767bf185cffbf8f58670e3a3946daf1dbb2_tiled_Rock Background.png",
-          "name": "gdevelop-asset-store"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Cat_Walk_1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "12732e8e1f8cd1bf840b3b694fc83061d9a6776aeeb4fdf7220d5b1fefd31a2f_Cat_Walk_1.png",
-        "smoothed": true,
-        "userAdded": true,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/12732e8e1f8cd1bf840b3b694fc83061d9a6776aeeb4fdf7220d5b1fefd31a2f_Cat_Walk_1.png",
-          "name": "gdevelop-asset-store"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Cat_Walk_2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "09b876fee93602e13eee8a7817e6f4e030084b71f709a1495f626351fc9c488a_Cat_Walk_2.png",
-        "smoothed": true,
-        "userAdded": true,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/09b876fee93602e13eee8a7817e6f4e030084b71f709a1495f626351fc9c488a_Cat_Walk_2.png",
-          "name": "gdevelop-asset-store"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Cat_Walk_3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "3c3c357334d18860f2045950a091e5a875a54b7305f9baa919ea6ea231f62ad3_Cat_Walk_3.png",
-        "smoothed": true,
-        "userAdded": true,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/3c3c357334d18860f2045950a091e5a875a54b7305f9baa919ea6ea231f62ad3_Cat_Walk_3.png",
-          "name": "gdevelop-asset-store"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Cat_Walk_4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "7ede6879fff9d653e85cb4cce2bc0226f903d3f152deef7e05a2d0e1f43180ba_Cat_Walk_4.png",
-        "smoothed": true,
-        "userAdded": true,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/7ede6879fff9d653e85cb4cce2bc0226f903d3f152deef7e05a2d0e1f43180ba_Cat_Walk_4.png",
-          "name": "gdevelop-asset-store"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Cat_Walk_5.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "281bb292cd29ab63910d290bcbf570b1150ecb316d37ce8ee68e1ebdd35efe53_Cat_Walk_5.png",
-        "smoothed": true,
-        "userAdded": true,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/281bb292cd29ab63910d290bcbf570b1150ecb316d37ce8ee68e1ebdd35efe53_Cat_Walk_5.png",
-          "name": "gdevelop-asset-store"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Cat_Walk_6.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "93fc9d1a9d8480e4993ae6665d0468b343ab0651d4648591eb4677e9fda04a54_Cat_Walk_6.png",
-        "smoothed": true,
-        "userAdded": true,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/93fc9d1a9d8480e4993ae6665d0468b343ab0651d4648591eb4677e9fda04a54_Cat_Walk_6.png",
-          "name": "gdevelop-asset-store"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Cat_Walk_7.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "3592d5ebbb6d7df13a17c77c6c2f562714d1d2bdc99e125bfcf2ac875f84e619_Cat_Walk_7.png",
-        "smoothed": true,
-        "userAdded": true,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/3592d5ebbb6d7df13a17c77c6c2f562714d1d2bdc99e125bfcf2ac875f84e619_Cat_Walk_7.png",
-          "name": "gdevelop-asset-store"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Cat_Walk_8.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "75ae7fc084b4081ee438ce855ca5070ac60d29d67cb1c87725f53f1a299d2b6c_Cat_Walk_8.png",
-        "smoothed": true,
-        "userAdded": true,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/75ae7fc084b4081ee438ce855ca5070ac60d29d67cb1c87725f53f1a299d2b6c_Cat_Walk_8.png",
-          "name": "gdevelop-asset-store"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Cat_Walk_9.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "b6c1e7a74eca0e7b3cc4d1680ab1321acfe3194e6cde10786e0fc70625f7496a_Cat_Walk_9.png",
-        "smoothed": true,
-        "userAdded": true,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/b6c1e7a74eca0e7b3cc4d1680ab1321acfe3194e6cde10786e0fc70625f7496a_Cat_Walk_9.png",
-          "name": "gdevelop-asset-store"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Cat_Walk_10.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "3194645d445c82a5657ba6fcdd91c706eb105c2eb22fcc7f10cb132f3754d7a9_Cat_Walk_10.png",
-        "smoothed": true,
-        "userAdded": true,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Cat/3194645d445c82a5657ba6fcdd91c706eb105c2eb22fcc7f10cb132f3754d7a9_Cat_Walk_10.png",
-          "name": "gdevelop-asset-store"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "coin2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "coin2.png",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite6.png\"}",
+        "name": "NewSprite6",
         "smoothed": true,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "coin3.png",
+        "file": "assets/Health_01_Bar02.png",
         "kind": "image",
         "metadata": "",
-        "name": "coin3.png",
+        "name": "dc4c992005dae5ea58c7e78c99d9312641e7459b82e2dba6c8b9053a8e9c984e_Health_01_Bar02.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Retro Pixelart UI/Pixel art/UI/dc4c992005dae5ea58c7e78c99d9312641e7459b82e2dba6c8b9053a8e9c984e_Health_01_Bar02.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/f8e5d88f8b377f182d5d42adf0bf9bc5f94034ac24c410f07ba27c46cda841c3_Health Bar.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "f8e5d88f8b377f182d5d42adf0bf9bc5f94034ac24c410f07ba27c46cda841c3_Health Bar.png2",
         "smoothed": true,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "coin4.png",
+        "file": "assets/f8e5d88f8b377f182d5d42adf0bf9bc5f94034ac24c410f07ba27c46cda841c3_Health Bar.png3.png",
         "kind": "image",
-        "metadata": "",
-        "name": "coin4.png",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "f8e5d88f8b377f182d5d42adf0bf9bc5f94034ac24c410f07ba27c46cda841c3_Health Bar.png3",
         "smoothed": true,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "coin5.png",
+        "file": "assets/f8e5d88f8b377f182d5d42adf0bf9bc5f94034ac24c410f07ba27c46cda841c3_Health Bar.png4.png",
         "kind": "image",
-        "metadata": "",
-        "name": "coin5.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "coin6.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "coin6.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "coin7.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "coin7.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "coin8.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "coin8.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "coin9.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "coin9.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "coin10.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "coin10.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "coin11.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "coin11.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "coin12.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "coin12.png",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "f8e5d88f8b377f182d5d42adf0bf9bc5f94034ac24c410f07ba27c46cda841c3_Health Bar.png4",
         "smoothed": true,
         "userAdded": true
       }
@@ -1316,7 +1045,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.6897782140104529,
+        "zoomFactor": 0.3925161175488243,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -1331,33 +1060,17 @@
       "instances": [
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 128,
           "keepRatio": true,
           "layer": "",
           "name": "Player",
           "persistentUuid": "996a17b8-5b35-4fec-b843-978981d9fa4f",
-          "width": 0,
-          "x": 759,
-          "y": 320,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 32,
-          "keepRatio": true,
-          "layer": "",
-          "name": "PlatformDogFood",
-          "persistentUuid": "fe7868f6-4641-4b35-9470-13bfa8b15db2",
-          "width": 320,
+          "width": 137,
           "x": 640,
-          "y": 480,
-          "zOrder": 4,
+          "y": 384,
+          "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1417,13 +1130,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 128,
+          "height": 384,
           "keepRatio": true,
           "layer": "",
           "name": "PlatformDirt",
           "persistentUuid": "c461d090-1aad-48b3-b658-17d2bf881966",
-          "width": 640,
-          "x": 64,
+          "width": 448,
+          "x": 256,
           "y": 640,
           "zOrder": 9,
           "numberProperties": [],
@@ -1434,7 +1147,7 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 128,
+          "height": 384,
           "keepRatio": true,
           "layer": "",
           "name": "PlaformWood2",
@@ -1456,9 +1169,9 @@
           "layer": "",
           "name": "PlatformGrass",
           "persistentUuid": "0387ef72-f6dd-4f48-85dd-5590b648103e",
-          "width": 64,
-          "x": 64,
-          "y": 512,
+          "width": 448,
+          "x": 256,
+          "y": 576,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -1475,7 +1188,7 @@
           "persistentUuid": "dd3443ac-32ad-4e0e-a342-f9a608edcbde",
           "width": 192,
           "x": 448,
-          "y": 384,
+          "y": 320,
           "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
@@ -1491,8 +1204,8 @@
           "name": "Coin",
           "persistentUuid": "b07d9119-dfea-42eb-8e32-ee1abca5a325",
           "width": 96,
-          "x": 1184,
-          "y": 320,
+          "x": 1248,
+          "y": 288,
           "zOrder": 13,
           "numberProperties": [],
           "stringProperties": [],
@@ -1508,7 +1221,7 @@
           "name": "Coin",
           "persistentUuid": "6b616bf1-28e5-4af0-a2d0-7143a8d43766",
           "width": 96,
-          "x": 1152,
+          "x": 1248,
           "y": 448,
           "zOrder": 13,
           "numberProperties": [],
@@ -1525,8 +1238,8 @@
           "name": "Enemy",
           "persistentUuid": "ca137400-ee68-4c16-b68e-4d8cecd36e9a",
           "width": 127,
-          "x": 1025,
-          "y": 384,
+          "x": 1024,
+          "y": 448,
           "zOrder": 14,
           "numberProperties": [],
           "stringProperties": [],
@@ -1586,15 +1299,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 3,
-          "height": 1664,
+          "depth": 1,
+          "height": 1152,
           "keepRatio": true,
           "layer": "",
-          "name": "MidBackground",
+          "name": "Background",
           "persistentUuid": "bf5331ad-8308-411c-a462-abf27295a4fa",
-          "width": 4022,
-          "x": -758,
-          "y": -64,
+          "width": 2240,
+          "x": -256,
+          "y": -128,
           "zOrder": -10,
           "numberProperties": [],
           "stringProperties": [],
@@ -1635,67 +1348,16 @@
         },
         {
           "angle": 0,
-          "customSize": true,
-          "depth": 47,
-          "height": 1504,
-          "keepRatio": true,
-          "layer": "Background",
-          "name": "Background",
-          "persistentUuid": "6580b7ca-552e-43e9-a55a-b11cbe6cd0da",
-          "width": 2048,
-          "x": 0,
-          "y": -32,
-          "zOrder": 19,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 64,
-          "keepRatio": true,
-          "layer": "",
-          "name": "PlatformGrass",
-          "persistentUuid": "2231a52e-016a-453c-8d05-66965f510fec",
-          "width": 640,
-          "x": 64,
-          "y": 576,
-          "zOrder": 11,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 64,
-          "keepRatio": true,
-          "layer": "",
-          "name": "PlatformGrass",
-          "persistentUuid": "f0cffc3d-8e4c-4943-894a-90c655b0290d",
-          "width": 64,
-          "x": 640,
-          "y": 512,
-          "zOrder": 11,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": false,
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Enemy2",
-          "persistentUuid": "d6cd69a4-6f3f-48b0-a4e2-ddb172ae7884",
+          "name": "PlatformDogFood",
+          "persistentUuid": "c8eb814c-f8f8-485b-ae63-ae44097e6331",
           "width": 0,
-          "x": 192,
-          "y": 393,
-          "zOrder": 20,
+          "x": 512,
+          "y": 512,
+          "zOrder": 18,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1703,16 +1365,16 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 4,
-          "height": 64,
+          "depth": 1,
+          "height": 192,
           "keepRatio": true,
           "layer": "",
-          "name": "Coin2",
-          "persistentUuid": "1354ceb5-24c6-4944-9620-0eb6d65bb58c",
-          "width": 64,
-          "x": 448,
-          "y": 320,
-          "zOrder": 21,
+          "name": "PlaformWood2",
+          "persistentUuid": "b4890f9d-5df9-4792-ba11-0093a1ce6335",
+          "width": 192,
+          "x": 1536,
+          "y": 832,
+          "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3208,15 +2870,7 @@
           "width": 32,
           "variables": [],
           "effects": [],
-          "behaviors": [
-            {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "platformType": "Jumpthru",
-              "canBeGrabbed": true,
-              "yGrabOffset": 0
-            }
-          ]
+          "behaviors": []
         },
         {
           "assetStoreId": "",
@@ -3357,19 +3011,19 @@
                         [
                           {
                             "x": 0,
-                            "y": 0
+                            "y": 37
                           },
                           {
                             "x": 64,
-                            "y": 0
+                            "y": 37
                           },
                           {
                             "x": 64,
-                            "y": 27
+                            "y": 64
                           },
                           {
                             "x": 0,
-                            "y": 27
+                            "y": 64
                           }
                         ]
                       ]
@@ -3963,8 +3617,8 @@
         {
           "assetStoreId": "",
           "height": 32,
-          "name": "MidBackground",
-          "texture": "4d8cfdae4934a160d7a712ac0242ffb00a330637bf9373f0870af014671423ea_tiled_Stars.png",
+          "name": "Background",
+          "texture": "34a4293e3c14f3b014e5d97a5faee8d20ad65701e29c0d651fba8e300188c595_Merged Full Background.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
           "variables": [],
@@ -4001,7 +3655,7 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "NewSprite5",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -4011,7 +3665,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewSprite5",
+                      "image": "NewSprite6",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4041,1778 +3695,6 @@
                           {
                             "x": 0,
                             "y": 32
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "height": 32,
-          "name": "Background",
-          "texture": "34a4293e3c14f3b014e5d97a5faee8d20ad65701e29c0d651fba8e300188c595_Merged Full Background.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 32,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
-          "name": "Enemy2",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "PlatformerObject",
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
-              "acceleration": 1500,
-              "canGoDownFromJumpthru": true,
-              "canGrabPlatforms": false,
-              "canGrabWithoutMoving": true,
-              "deceleration": 1500,
-              "gravity": 1000,
-              "ignoreDefaultControls": true,
-              "jumpSpeed": 600,
-              "jumpSustainTime": 0.2,
-              "ladderClimbingSpeed": 150,
-              "maxFallingSpeed": 700,
-              "maxSpeed": 150,
-              "slopeMaxAngle": 60,
-              "useLegacyTrajectory": false,
-              "xGrabTolerance": 10,
-              "yGrabOffset": 0
-            }
-          ],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.1,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "12732e8e1f8cd1bf840b3b694fc83061d9a6776aeeb4fdf7220d5b1fefd31a2f_Cat_Walk_1.png",
-                      "points": [
-                        {
-                          "name": "Checker",
-                          "x": 137,
-                          "y": 77.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 15,
-                            "y": 58
-                          },
-                          {
-                            "x": 18.5,
-                            "y": 57.5
-                          },
-                          {
-                            "x": 17.5,
-                            "y": 54
-                          },
-                          {
-                            "x": 16,
-                            "y": 50
-                          },
-                          {
-                            "x": 11,
-                            "y": 48
-                          },
-                          {
-                            "x": 11,
-                            "y": 38
-                          },
-                          {
-                            "x": 13,
-                            "y": 34.5
-                          },
-                          {
-                            "x": 14.5,
-                            "y": 30.5
-                          },
-                          {
-                            "x": 18.5,
-                            "y": 28.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 17
-                          },
-                          {
-                            "x": 22,
-                            "y": 10
-                          },
-                          {
-                            "x": 36.5,
-                            "y": 11
-                          },
-                          {
-                            "x": 38,
-                            "y": 16.5
-                          },
-                          {
-                            "x": 40.5,
-                            "y": 21
-                          },
-                          {
-                            "x": 38,
-                            "y": 25.5
-                          },
-                          {
-                            "x": 35,
-                            "y": 28.5
-                          },
-                          {
-                            "x": 43,
-                            "y": 31.5
-                          },
-                          {
-                            "x": 45,
-                            "y": 37
-                          },
-                          {
-                            "x": 45.5,
-                            "y": 40
-                          },
-                          {
-                            "x": 44.5,
-                            "y": 48.5
-                          },
-                          {
-                            "x": 38.5,
-                            "y": 53
-                          },
-                          {
-                            "x": 38,
-                            "y": 56.5
-                          },
-                          {
-                            "x": 40.5,
-                            "y": 57
-                          },
-                          {
-                            "x": 41.5,
-                            "y": 61
-                          },
-                          {
-                            "x": 15,
-                            "y": 61
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "09b876fee93602e13eee8a7817e6f4e030084b71f709a1495f626351fc9c488a_Cat_Walk_2.png",
-                      "points": [
-                        {
-                          "name": "Checker",
-                          "x": 137,
-                          "y": 77.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 15,
-                            "y": 58
-                          },
-                          {
-                            "x": 18.5,
-                            "y": 57.5
-                          },
-                          {
-                            "x": 17.5,
-                            "y": 54
-                          },
-                          {
-                            "x": 16,
-                            "y": 50
-                          },
-                          {
-                            "x": 11,
-                            "y": 48
-                          },
-                          {
-                            "x": 11,
-                            "y": 38
-                          },
-                          {
-                            "x": 13,
-                            "y": 34.5
-                          },
-                          {
-                            "x": 14.5,
-                            "y": 30.5
-                          },
-                          {
-                            "x": 18.5,
-                            "y": 28.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 17
-                          },
-                          {
-                            "x": 22,
-                            "y": 10
-                          },
-                          {
-                            "x": 36.5,
-                            "y": 11
-                          },
-                          {
-                            "x": 38,
-                            "y": 16.5
-                          },
-                          {
-                            "x": 40.5,
-                            "y": 21
-                          },
-                          {
-                            "x": 38,
-                            "y": 25.5
-                          },
-                          {
-                            "x": 35,
-                            "y": 28.5
-                          },
-                          {
-                            "x": 43,
-                            "y": 31.5
-                          },
-                          {
-                            "x": 45,
-                            "y": 37
-                          },
-                          {
-                            "x": 45.5,
-                            "y": 40
-                          },
-                          {
-                            "x": 44.5,
-                            "y": 48.5
-                          },
-                          {
-                            "x": 38.5,
-                            "y": 53
-                          },
-                          {
-                            "x": 38,
-                            "y": 56.5
-                          },
-                          {
-                            "x": 40.5,
-                            "y": 57
-                          },
-                          {
-                            "x": 41.5,
-                            "y": 61
-                          },
-                          {
-                            "x": 15,
-                            "y": 61
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "3c3c357334d18860f2045950a091e5a875a54b7305f9baa919ea6ea231f62ad3_Cat_Walk_3.png",
-                      "points": [
-                        {
-                          "name": "Checker",
-                          "x": 137,
-                          "y": 77.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 15,
-                            "y": 58
-                          },
-                          {
-                            "x": 18.5,
-                            "y": 57.5
-                          },
-                          {
-                            "x": 17.5,
-                            "y": 54
-                          },
-                          {
-                            "x": 16,
-                            "y": 50
-                          },
-                          {
-                            "x": 11,
-                            "y": 48
-                          },
-                          {
-                            "x": 11,
-                            "y": 38
-                          },
-                          {
-                            "x": 13,
-                            "y": 34.5
-                          },
-                          {
-                            "x": 14.5,
-                            "y": 30.5
-                          },
-                          {
-                            "x": 18.5,
-                            "y": 28.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 17
-                          },
-                          {
-                            "x": 22,
-                            "y": 10
-                          },
-                          {
-                            "x": 36.5,
-                            "y": 11
-                          },
-                          {
-                            "x": 38,
-                            "y": 16.5
-                          },
-                          {
-                            "x": 40.5,
-                            "y": 21
-                          },
-                          {
-                            "x": 38,
-                            "y": 25.5
-                          },
-                          {
-                            "x": 35,
-                            "y": 28.5
-                          },
-                          {
-                            "x": 43,
-                            "y": 31.5
-                          },
-                          {
-                            "x": 45,
-                            "y": 37
-                          },
-                          {
-                            "x": 45.5,
-                            "y": 40
-                          },
-                          {
-                            "x": 44.5,
-                            "y": 48.5
-                          },
-                          {
-                            "x": 38.5,
-                            "y": 53
-                          },
-                          {
-                            "x": 38,
-                            "y": 56.5
-                          },
-                          {
-                            "x": 40.5,
-                            "y": 57
-                          },
-                          {
-                            "x": 41.5,
-                            "y": 61
-                          },
-                          {
-                            "x": 15,
-                            "y": 61
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "7ede6879fff9d653e85cb4cce2bc0226f903d3f152deef7e05a2d0e1f43180ba_Cat_Walk_4.png",
-                      "points": [
-                        {
-                          "name": "Checker",
-                          "x": 137,
-                          "y": 77.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 15,
-                            "y": 58
-                          },
-                          {
-                            "x": 18.5,
-                            "y": 57.5
-                          },
-                          {
-                            "x": 17.5,
-                            "y": 54
-                          },
-                          {
-                            "x": 16,
-                            "y": 50
-                          },
-                          {
-                            "x": 11,
-                            "y": 48
-                          },
-                          {
-                            "x": 11,
-                            "y": 38
-                          },
-                          {
-                            "x": 13,
-                            "y": 34.5
-                          },
-                          {
-                            "x": 14.5,
-                            "y": 30.5
-                          },
-                          {
-                            "x": 18.5,
-                            "y": 28.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 17
-                          },
-                          {
-                            "x": 22,
-                            "y": 10
-                          },
-                          {
-                            "x": 36.5,
-                            "y": 11
-                          },
-                          {
-                            "x": 38,
-                            "y": 16.5
-                          },
-                          {
-                            "x": 40.5,
-                            "y": 21
-                          },
-                          {
-                            "x": 38,
-                            "y": 25.5
-                          },
-                          {
-                            "x": 35,
-                            "y": 28.5
-                          },
-                          {
-                            "x": 43,
-                            "y": 31.5
-                          },
-                          {
-                            "x": 45,
-                            "y": 37
-                          },
-                          {
-                            "x": 45.5,
-                            "y": 40
-                          },
-                          {
-                            "x": 44.5,
-                            "y": 48.5
-                          },
-                          {
-                            "x": 38.5,
-                            "y": 53
-                          },
-                          {
-                            "x": 38,
-                            "y": 56.5
-                          },
-                          {
-                            "x": 40.5,
-                            "y": 57
-                          },
-                          {
-                            "x": 41.5,
-                            "y": 61
-                          },
-                          {
-                            "x": 15,
-                            "y": 61
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "281bb292cd29ab63910d290bcbf570b1150ecb316d37ce8ee68e1ebdd35efe53_Cat_Walk_5.png",
-                      "points": [
-                        {
-                          "name": "Checker",
-                          "x": 137,
-                          "y": 77.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 15,
-                            "y": 58
-                          },
-                          {
-                            "x": 18.5,
-                            "y": 57.5
-                          },
-                          {
-                            "x": 17.5,
-                            "y": 54
-                          },
-                          {
-                            "x": 16,
-                            "y": 50
-                          },
-                          {
-                            "x": 11,
-                            "y": 48
-                          },
-                          {
-                            "x": 11,
-                            "y": 38
-                          },
-                          {
-                            "x": 13,
-                            "y": 34.5
-                          },
-                          {
-                            "x": 14.5,
-                            "y": 30.5
-                          },
-                          {
-                            "x": 18.5,
-                            "y": 28.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 17
-                          },
-                          {
-                            "x": 22,
-                            "y": 10
-                          },
-                          {
-                            "x": 36.5,
-                            "y": 11
-                          },
-                          {
-                            "x": 38,
-                            "y": 16.5
-                          },
-                          {
-                            "x": 40.5,
-                            "y": 21
-                          },
-                          {
-                            "x": 38,
-                            "y": 25.5
-                          },
-                          {
-                            "x": 35,
-                            "y": 28.5
-                          },
-                          {
-                            "x": 43,
-                            "y": 31.5
-                          },
-                          {
-                            "x": 45,
-                            "y": 37
-                          },
-                          {
-                            "x": 45.5,
-                            "y": 40
-                          },
-                          {
-                            "x": 44.5,
-                            "y": 48.5
-                          },
-                          {
-                            "x": 38.5,
-                            "y": 53
-                          },
-                          {
-                            "x": 38,
-                            "y": 56.5
-                          },
-                          {
-                            "x": 40.5,
-                            "y": 57
-                          },
-                          {
-                            "x": 41.5,
-                            "y": 61
-                          },
-                          {
-                            "x": 15,
-                            "y": 61
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "93fc9d1a9d8480e4993ae6665d0468b343ab0651d4648591eb4677e9fda04a54_Cat_Walk_6.png",
-                      "points": [
-                        {
-                          "name": "Checker",
-                          "x": 137,
-                          "y": 77.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 15,
-                            "y": 58
-                          },
-                          {
-                            "x": 18.5,
-                            "y": 57.5
-                          },
-                          {
-                            "x": 17.5,
-                            "y": 54
-                          },
-                          {
-                            "x": 16,
-                            "y": 50
-                          },
-                          {
-                            "x": 11,
-                            "y": 48
-                          },
-                          {
-                            "x": 11,
-                            "y": 38
-                          },
-                          {
-                            "x": 13,
-                            "y": 34.5
-                          },
-                          {
-                            "x": 14.5,
-                            "y": 30.5
-                          },
-                          {
-                            "x": 18.5,
-                            "y": 28.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 17
-                          },
-                          {
-                            "x": 22,
-                            "y": 10
-                          },
-                          {
-                            "x": 36.5,
-                            "y": 11
-                          },
-                          {
-                            "x": 38,
-                            "y": 16.5
-                          },
-                          {
-                            "x": 40.5,
-                            "y": 21
-                          },
-                          {
-                            "x": 38,
-                            "y": 25.5
-                          },
-                          {
-                            "x": 35,
-                            "y": 28.5
-                          },
-                          {
-                            "x": 43,
-                            "y": 31.5
-                          },
-                          {
-                            "x": 45,
-                            "y": 37
-                          },
-                          {
-                            "x": 45.5,
-                            "y": 40
-                          },
-                          {
-                            "x": 44.5,
-                            "y": 48.5
-                          },
-                          {
-                            "x": 38.5,
-                            "y": 53
-                          },
-                          {
-                            "x": 38,
-                            "y": 56.5
-                          },
-                          {
-                            "x": 40.5,
-                            "y": 57
-                          },
-                          {
-                            "x": 41.5,
-                            "y": 61
-                          },
-                          {
-                            "x": 15,
-                            "y": 61
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "3592d5ebbb6d7df13a17c77c6c2f562714d1d2bdc99e125bfcf2ac875f84e619_Cat_Walk_7.png",
-                      "points": [
-                        {
-                          "name": "Checker",
-                          "x": 137,
-                          "y": 77.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 15,
-                            "y": 58
-                          },
-                          {
-                            "x": 18.5,
-                            "y": 57.5
-                          },
-                          {
-                            "x": 17.5,
-                            "y": 54
-                          },
-                          {
-                            "x": 16,
-                            "y": 50
-                          },
-                          {
-                            "x": 11,
-                            "y": 48
-                          },
-                          {
-                            "x": 11,
-                            "y": 38
-                          },
-                          {
-                            "x": 13,
-                            "y": 34.5
-                          },
-                          {
-                            "x": 14.5,
-                            "y": 30.5
-                          },
-                          {
-                            "x": 18.5,
-                            "y": 28.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 17
-                          },
-                          {
-                            "x": 22,
-                            "y": 10
-                          },
-                          {
-                            "x": 36.5,
-                            "y": 11
-                          },
-                          {
-                            "x": 38,
-                            "y": 16.5
-                          },
-                          {
-                            "x": 40.5,
-                            "y": 21
-                          },
-                          {
-                            "x": 38,
-                            "y": 25.5
-                          },
-                          {
-                            "x": 35,
-                            "y": 28.5
-                          },
-                          {
-                            "x": 43,
-                            "y": 31.5
-                          },
-                          {
-                            "x": 45,
-                            "y": 37
-                          },
-                          {
-                            "x": 45.5,
-                            "y": 40
-                          },
-                          {
-                            "x": 44.5,
-                            "y": 48.5
-                          },
-                          {
-                            "x": 38.5,
-                            "y": 53
-                          },
-                          {
-                            "x": 38,
-                            "y": 56.5
-                          },
-                          {
-                            "x": 40.5,
-                            "y": 57
-                          },
-                          {
-                            "x": 41.5,
-                            "y": 61
-                          },
-                          {
-                            "x": 15,
-                            "y": 61
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "75ae7fc084b4081ee438ce855ca5070ac60d29d67cb1c87725f53f1a299d2b6c_Cat_Walk_8.png",
-                      "points": [
-                        {
-                          "name": "Checker",
-                          "x": 137,
-                          "y": 77.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 15,
-                            "y": 58
-                          },
-                          {
-                            "x": 18.5,
-                            "y": 57.5
-                          },
-                          {
-                            "x": 17.5,
-                            "y": 54
-                          },
-                          {
-                            "x": 16,
-                            "y": 50
-                          },
-                          {
-                            "x": 11,
-                            "y": 48
-                          },
-                          {
-                            "x": 11,
-                            "y": 38
-                          },
-                          {
-                            "x": 13,
-                            "y": 34.5
-                          },
-                          {
-                            "x": 14.5,
-                            "y": 30.5
-                          },
-                          {
-                            "x": 18.5,
-                            "y": 28.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 17
-                          },
-                          {
-                            "x": 22,
-                            "y": 10
-                          },
-                          {
-                            "x": 36.5,
-                            "y": 11
-                          },
-                          {
-                            "x": 38,
-                            "y": 16.5
-                          },
-                          {
-                            "x": 40.5,
-                            "y": 21
-                          },
-                          {
-                            "x": 38,
-                            "y": 25.5
-                          },
-                          {
-                            "x": 35,
-                            "y": 28.5
-                          },
-                          {
-                            "x": 43,
-                            "y": 31.5
-                          },
-                          {
-                            "x": 45,
-                            "y": 37
-                          },
-                          {
-                            "x": 45.5,
-                            "y": 40
-                          },
-                          {
-                            "x": 44.5,
-                            "y": 48.5
-                          },
-                          {
-                            "x": 38.5,
-                            "y": 53
-                          },
-                          {
-                            "x": 38,
-                            "y": 56.5
-                          },
-                          {
-                            "x": 40.5,
-                            "y": 57
-                          },
-                          {
-                            "x": 41.5,
-                            "y": 61
-                          },
-                          {
-                            "x": 15,
-                            "y": 61
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "b6c1e7a74eca0e7b3cc4d1680ab1321acfe3194e6cde10786e0fc70625f7496a_Cat_Walk_9.png",
-                      "points": [
-                        {
-                          "name": "Checker",
-                          "x": 137,
-                          "y": 77.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 15,
-                            "y": 58
-                          },
-                          {
-                            "x": 18.5,
-                            "y": 57.5
-                          },
-                          {
-                            "x": 17.5,
-                            "y": 54
-                          },
-                          {
-                            "x": 16,
-                            "y": 50
-                          },
-                          {
-                            "x": 11,
-                            "y": 48
-                          },
-                          {
-                            "x": 11,
-                            "y": 38
-                          },
-                          {
-                            "x": 13,
-                            "y": 34.5
-                          },
-                          {
-                            "x": 14.5,
-                            "y": 30.5
-                          },
-                          {
-                            "x": 18.5,
-                            "y": 28.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 17
-                          },
-                          {
-                            "x": 22,
-                            "y": 10
-                          },
-                          {
-                            "x": 36.5,
-                            "y": 11
-                          },
-                          {
-                            "x": 38,
-                            "y": 16.5
-                          },
-                          {
-                            "x": 40.5,
-                            "y": 21
-                          },
-                          {
-                            "x": 38,
-                            "y": 25.5
-                          },
-                          {
-                            "x": 35,
-                            "y": 28.5
-                          },
-                          {
-                            "x": 43,
-                            "y": 31.5
-                          },
-                          {
-                            "x": 45,
-                            "y": 37
-                          },
-                          {
-                            "x": 45.5,
-                            "y": 40
-                          },
-                          {
-                            "x": 44.5,
-                            "y": 48.5
-                          },
-                          {
-                            "x": 38.5,
-                            "y": 53
-                          },
-                          {
-                            "x": 38,
-                            "y": 56.5
-                          },
-                          {
-                            "x": 40.5,
-                            "y": 57
-                          },
-                          {
-                            "x": 41.5,
-                            "y": 61
-                          },
-                          {
-                            "x": 15,
-                            "y": 61
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "3194645d445c82a5657ba6fcdd91c706eb105c2eb22fcc7f10cb132f3754d7a9_Cat_Walk_10.png",
-                      "points": [
-                        {
-                          "name": "Checker",
-                          "x": 137,
-                          "y": 77.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 15,
-                            "y": 58
-                          },
-                          {
-                            "x": 18.5,
-                            "y": 57.5
-                          },
-                          {
-                            "x": 17.5,
-                            "y": 54
-                          },
-                          {
-                            "x": 16,
-                            "y": 50
-                          },
-                          {
-                            "x": 11,
-                            "y": 48
-                          },
-                          {
-                            "x": 11,
-                            "y": 38
-                          },
-                          {
-                            "x": 13,
-                            "y": 34.5
-                          },
-                          {
-                            "x": 14.5,
-                            "y": 30.5
-                          },
-                          {
-                            "x": 18.5,
-                            "y": 28.5
-                          },
-                          {
-                            "x": 19.5,
-                            "y": 17
-                          },
-                          {
-                            "x": 22,
-                            "y": 10
-                          },
-                          {
-                            "x": 36.5,
-                            "y": 11
-                          },
-                          {
-                            "x": 38,
-                            "y": 16.5
-                          },
-                          {
-                            "x": 40.5,
-                            "y": 21
-                          },
-                          {
-                            "x": 38,
-                            "y": 25.5
-                          },
-                          {
-                            "x": 35,
-                            "y": 28.5
-                          },
-                          {
-                            "x": 43,
-                            "y": 31.5
-                          },
-                          {
-                            "x": 45,
-                            "y": 37
-                          },
-                          {
-                            "x": 45.5,
-                            "y": 40
-                          },
-                          {
-                            "x": 44.5,
-                            "y": 48.5
-                          },
-                          {
-                            "x": 38.5,
-                            "y": 53
-                          },
-                          {
-                            "x": 38,
-                            "y": 56.5
-                          },
-                          {
-                            "x": 40.5,
-                            "y": 57
-                          },
-                          {
-                            "x": 41.5,
-                            "y": 61
-                          },
-                          {
-                            "x": 15,
-                            "y": 61
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "Coin2",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "Idle",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.2,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "coin2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 3
-                          },
-                          {
-                            "x": 13,
-                            "y": 3
-                          },
-                          {
-                            "x": 13,
-                            "y": 13
-                          },
-                          {
-                            "x": 3,
-                            "y": 13
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "coin2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 3
-                          },
-                          {
-                            "x": 13,
-                            "y": 3
-                          },
-                          {
-                            "x": 13,
-                            "y": 13
-                          },
-                          {
-                            "x": 3,
-                            "y": 13
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "coin3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 3
-                          },
-                          {
-                            "x": 13,
-                            "y": 3
-                          },
-                          {
-                            "x": 13,
-                            "y": 13
-                          },
-                          {
-                            "x": 3,
-                            "y": 13
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "coin4.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 3
-                          },
-                          {
-                            "x": 13,
-                            "y": 3
-                          },
-                          {
-                            "x": 13,
-                            "y": 13
-                          },
-                          {
-                            "x": 3,
-                            "y": 13
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "coin5.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 3
-                          },
-                          {
-                            "x": 13,
-                            "y": 3
-                          },
-                          {
-                            "x": 13,
-                            "y": 13
-                          },
-                          {
-                            "x": 3,
-                            "y": 13
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "coin6.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 3
-                          },
-                          {
-                            "x": 13,
-                            "y": 3
-                          },
-                          {
-                            "x": 13,
-                            "y": 13
-                          },
-                          {
-                            "x": 3,
-                            "y": 13
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "coin7.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 3
-                          },
-                          {
-                            "x": 13,
-                            "y": 3
-                          },
-                          {
-                            "x": 13,
-                            "y": 13
-                          },
-                          {
-                            "x": 3,
-                            "y": 13
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "coin8.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 3
-                          },
-                          {
-                            "x": 13,
-                            "y": 3
-                          },
-                          {
-                            "x": 13,
-                            "y": 13
-                          },
-                          {
-                            "x": 3,
-                            "y": 13
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "coin9.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 3
-                          },
-                          {
-                            "x": 13,
-                            "y": 3
-                          },
-                          {
-                            "x": 13,
-                            "y": 13
-                          },
-                          {
-                            "x": 3,
-                            "y": 13
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "coin10.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 3
-                          },
-                          {
-                            "x": 13,
-                            "y": 3
-                          },
-                          {
-                            "x": 13,
-                            "y": 13
-                          },
-                          {
-                            "x": 3,
-                            "y": 13
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "coin11.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 3
-                          },
-                          {
-                            "x": 13,
-                            "y": 3
-                          },
-                          {
-                            "x": 13,
-                            "y": 13
-                          },
-                          {
-                            "x": 3,
-                            "y": 13
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "coin12.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 3
-                          },
-                          {
-                            "x": 13,
-                            "y": 3
-                          },
-                          {
-                            "x": 13,
-                            "y": 13
-                          },
-                          {
-                            "x": 3,
-                            "y": 13
                           }
                         ]
                       ]
@@ -5855,16 +3737,7 @@
             "objectName": "Coin"
           },
           {
-            "objectName": "Coin2"
-          },
-          {
             "objectName": "Enemy"
-          },
-          {
-            "objectName": "Enemy2"
-          },
-          {
-            "objectName": "MidBackground"
           },
           {
             "objectName": "Background"
@@ -5932,32 +3805,6 @@
                 "yes",
                 "60",
                 ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "TiledSpriteObject::XOffset"
-              },
-              "parameters": [
-                "Background",
-                "=",
-                "CameraCenterX()/8"
-              ]
-            },
-            {
-              "type": {
-                "value": "TiledSpriteObject::XOffset"
-              },
-              "parameters": [
-                "MidBackground",
-                "=",
-                "CameraCenterX()/3"
               ]
             }
           ]
@@ -6578,42 +4425,76 @@
               ]
             }
           ]
-        }
-      ],
-      "layers": [
+        },
         {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "Background",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [],
-          "effects": [
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
             {
-              "effectType": "Scene3D::HemisphereLight",
-              "name": "3D Light",
-              "doubleParameters": {
-                "elevation": 45,
-                "intensity": 1,
-                "rotation": 0
+              "type": {
+                "value": "CollisionNP"
               },
-              "stringParameters": {
-                "groundColor": "64;64;64",
-                "skyColor": "255;255;255",
-                "top": "Y-"
+              "parameters": [
+                "Player",
+                "PlatformDogFood",
+                "",
+                "",
+                "yes"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
               },
-              "booleanParameters": {}
+              "parameters": [
+                "PlatformDogFood",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberObjectVariable"
+              },
+              "parameters": [
+                "Player",
+                "Health",
+                "+",
+                "1"
+              ]
             }
           ]
         },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PosY"
+              },
+              "parameters": [
+                "Player",
+                ">",
+                "Boundary.Y()"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberObjectVariable"
+              },
+              "parameters": [
+                "Player",
+                "Health",
+                "=",
+                "0"
+              ]
+            }
+          ]
+        }
+      ],
+      "layers": [
         {
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
