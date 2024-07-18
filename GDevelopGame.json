@@ -919,7 +919,7 @@
         "alwaysLoaded": false,
         "file": "assets/Health Bar.png",
         "kind": "image",
-        "metadata": "{\"localFilePath\":\"assets/Health Bar.png\",\"extension\":\".png\"}",
+        "metadata": "{\"localFilePath\":\"assets/Health Bar.png\",\"extension\":\".png\",\"pskl\":{}}",
         "name": "f8e5d88f8b377f182d5d42adf0bf9bc5f94034ac24c410f07ba27c46cda841c3_Health Bar.png",
         "smoothed": true,
         "userAdded": true,
@@ -965,6 +965,55 @@
         "name": "assets\\NewSprite5.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite6.png\"}",
+        "name": "NewSprite6",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Health_01_Bar02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "dc4c992005dae5ea58c7e78c99d9312641e7459b82e2dba6c8b9053a8e9c984e_Health_01_Bar02.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Retro Pixelart UI/Pixel art/UI/dc4c992005dae5ea58c7e78c99d9312641e7459b82e2dba6c8b9053a8e9c984e_Health_01_Bar02.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/f8e5d88f8b377f182d5d42adf0bf9bc5f94034ac24c410f07ba27c46cda841c3_Health Bar.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "f8e5d88f8b377f182d5d42adf0bf9bc5f94034ac24c410f07ba27c46cda841c3_Health Bar.png2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/f8e5d88f8b377f182d5d42adf0bf9bc5f94034ac24c410f07ba27c46cda841c3_Health Bar.png3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "f8e5d88f8b377f182d5d42adf0bf9bc5f94034ac24c410f07ba27c46cda841c3_Health Bar.png3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/f8e5d88f8b377f182d5d42adf0bf9bc5f94034ac24c410f07ba27c46cda841c3_Health Bar.png4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "f8e5d88f8b377f182d5d42adf0bf9bc5f94034ac24c410f07ba27c46cda841c3_Health Bar.png4",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -996,7 +1045,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.3325387091250783,
+        "zoomFactor": 0.3925161175488243,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -1011,33 +1060,17 @@
       "instances": [
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 128,
           "keepRatio": true,
           "layer": "",
           "name": "Player",
           "persistentUuid": "996a17b8-5b35-4fec-b843-978981d9fa4f",
-          "width": 0,
-          "x": 759,
-          "y": 320,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 32,
-          "keepRatio": true,
-          "layer": "",
-          "name": "PlatformDogFood",
-          "persistentUuid": "fe7868f6-4641-4b35-9470-13bfa8b15db2",
-          "width": 320,
+          "width": 137,
           "x": 640,
-          "y": 480,
-          "zOrder": 4,
+          "y": 384,
+          "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1097,7 +1130,7 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 128,
+          "height": 384,
           "keepRatio": true,
           "layer": "",
           "name": "PlatformDirt",
@@ -1114,7 +1147,7 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 128,
+          "height": 384,
           "keepRatio": true,
           "layer": "",
           "name": "PlaformWood2",
@@ -1155,7 +1188,7 @@
           "persistentUuid": "dd3443ac-32ad-4e0e-a342-f9a608edcbde",
           "width": 192,
           "x": 448,
-          "y": 384,
+          "y": 320,
           "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
@@ -1171,8 +1204,8 @@
           "name": "Coin",
           "persistentUuid": "b07d9119-dfea-42eb-8e32-ee1abca5a325",
           "width": 96,
-          "x": 1184,
-          "y": 320,
+          "x": 1248,
+          "y": 288,
           "zOrder": 13,
           "numberProperties": [],
           "stringProperties": [],
@@ -1188,7 +1221,7 @@
           "name": "Coin",
           "persistentUuid": "6b616bf1-28e5-4af0-a2d0-7143a8d43766",
           "width": 96,
-          "x": 1152,
+          "x": 1248,
           "y": 448,
           "zOrder": 13,
           "numberProperties": [],
@@ -1205,8 +1238,8 @@
           "name": "Enemy",
           "persistentUuid": "ca137400-ee68-4c16-b68e-4d8cecd36e9a",
           "width": 127,
-          "x": 1025,
-          "y": 384,
+          "x": 1024,
+          "y": 448,
           "zOrder": 14,
           "numberProperties": [],
           "stringProperties": [],
@@ -1267,14 +1300,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 768,
+          "height": 1152,
           "keepRatio": true,
           "layer": "",
           "name": "Background",
           "persistentUuid": "bf5331ad-8308-411c-a462-abf27295a4fa",
-          "width": 1856,
-          "x": 0,
-          "y": 0,
+          "width": 2240,
+          "x": -256,
+          "y": -128,
           "zOrder": -10,
           "numberProperties": [],
           "stringProperties": [],
@@ -1309,6 +1342,39 @@
           "x": 13,
           "y": 0,
           "zOrder": 17,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "PlatformDogFood",
+          "persistentUuid": "c8eb814c-f8f8-485b-ae63-ae44097e6331",
+          "width": 0,
+          "x": 512,
+          "y": 512,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 192,
+          "keepRatio": true,
+          "layer": "",
+          "name": "PlaformWood2",
+          "persistentUuid": "b4890f9d-5df9-4792-ba11-0093a1ce6335",
+          "width": 192,
+          "x": 1536,
+          "y": 832,
+          "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2804,15 +2870,7 @@
           "width": 32,
           "variables": [],
           "effects": [],
-          "behaviors": [
-            {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "platformType": "Jumpthru",
-              "canBeGrabbed": true,
-              "yGrabOffset": 0
-            }
-          ]
+          "behaviors": []
         },
         {
           "assetStoreId": "",
@@ -2953,19 +3011,19 @@
                         [
                           {
                             "x": 0,
-                            "y": 0
+                            "y": 37
                           },
                           {
                             "x": 64,
-                            "y": 0
+                            "y": 37
                           },
                           {
                             "x": 64,
-                            "y": 27
+                            "y": 64
                           },
                           {
                             "x": 0,
-                            "y": 27
+                            "y": 64
                           }
                         ]
                       ]
@@ -3597,7 +3655,7 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "NewSprite5",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -3607,7 +3665,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewSprite5",
+                      "image": "NewSprite6",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4364,6 +4422,73 @@
                 "",
                 "50",
                 ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "PlatformDogFood",
+                "",
+                "",
+                "yes"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "PlatformDogFood",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberObjectVariable"
+              },
+              "parameters": [
+                "Player",
+                "Health",
+                "+",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PosY"
+              },
+              "parameters": [
+                "Player",
+                ">",
+                "Boundary.Y()"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberObjectVariable"
+              },
+              "parameters": [
+                "Player",
+                "Health",
+                "=",
+                "0"
               ]
             }
           ]
