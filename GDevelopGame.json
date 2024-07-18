@@ -1014,6 +1014,20 @@
         "name": "f8e5d88f8b377f182d5d42adf0bf9bc5f94034ac24c410f07ba27c46cda841c3_Health Bar.png4",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "file": "assets/Powerup 10.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "b8a7683ddaf1a6f7501e14105285402c467cdd0509d84388620d8a0c7badef01_Powerup 10.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Arcade/Sound effects/Power-up/b8a7683ddaf1a6f7501e14105285402c467cdd0509d84388620d8a0c7badef01_Powerup 10.aac",
+          "name": "gdevelop-asset-store"
+        }
       }
     ],
     "resourceFolders": []
@@ -1045,7 +1059,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.3925161175488243,
+        "zoomFactor": 0.3437520241612332,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -4449,6 +4463,18 @@
               },
               "parameters": [
                 "PlatformDogFood",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "b8a7683ddaf1a6f7501e14105285402c467cdd0509d84388620d8a0c7badef01_Powerup 10.aac",
+                "",
+                "",
                 ""
               ]
             },
