@@ -5086,8 +5086,8 @@
     {
       "b": 209,
       "disableInputWhenNotFocused": true,
-      "mangledName": "Untitled_32scene",
-      "name": "Untitled scene",
+      "mangledName": "Abs_32Level",
+      "name": "Abs Level",
       "r": 209,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
@@ -6816,7 +6816,7 @@
                       },
                       "parameters": [
                         "",
-                        "\"Untitled scene\"",
+                        "\"Abs Level\"",
                         ""
                       ]
                     }
@@ -7179,7 +7179,7 @@
                   },
                   "parameters": [
                     "",
-                    "\"Untitled scene2\"",
+                    "\"Sean's Level\"",
                     ""
                   ]
                 }
@@ -7638,8 +7638,8 @@
     {
       "b": 209,
       "disableInputWhenNotFocused": true,
-      "mangledName": "Untitled_32scene2",
-      "name": "Untitled scene2",
+      "mangledName": "Sean_39s_32Level",
+      "name": "Sean's Level",
       "r": 209,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
@@ -7655,7 +7655,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.5250860067782527,
+        "zoomFactor": 0.3526904934771242,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -8595,7 +8595,7 @@
                       },
                       "parameters": [
                         "",
-                        "\"Untitled scene2\"",
+                        "\"Sean's Level\"",
                         ""
                       ]
                     }
@@ -8906,7 +8906,7 @@
                   },
                   "parameters": [
                     "",
-                    "\"Untitled scene2\"",
+                    "\"Sean's Level\"",
                     ""
                   ]
                 }
@@ -8960,7 +8960,7 @@
               },
               "parameters": [
                 "",
-                "\"Untitled scene2\"",
+                "\"Sean's Level\"",
                 ""
               ]
             }
@@ -9320,7 +9320,7 @@
               },
               "parameters": [
                 "",
-                "\"Untitled scene3\"",
+                "\"Ash's Level\"",
                 ""
               ]
             }
@@ -10181,8 +10181,8 @@
     {
       "b": 209,
       "disableInputWhenNotFocused": true,
-      "mangledName": "Untitled_32scene3",
-      "name": "Untitled scene3",
+      "mangledName": "Ash_39s_32Level",
+      "name": "Ash's Level",
       "r": 209,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
