@@ -1539,28 +1539,6 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Space Shooter by Pixel boy/Background/24dbdee8d8886c8b2ae15da4fe60e8fda0cd78d3742a533b1c10f12e069c7bb6_Space Background 4.png",
           "name": "gdevelop-asset-store"
         }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Summer Background.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "8ee648958d2a9b8a553c5c9d1ccdebb936eefa0414d250aef2dd763b07217b7e_Summer Background.png",
-        "smoothed": true,
-        "userAdded": true,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Worlds/Summer/Background/8ee648958d2a9b8a553c5c9d1ccdebb936eefa0414d250aef2dd763b07217b7e_Summer Background.png",
-          "name": "gdevelop-asset-store"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Summer Background.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\Summer Background.png",
-        "smoothed": true,
-        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -4652,7 +4630,7 @@
       "assetStoreId": "",
       "height": 32,
       "name": "Background",
-      "texture": "assets\\Summer Background.png",
+      "texture": "34a4293e3c14f3b014e5d97a5faee8d20ad65701e29c0d651fba8e300188c595_Merged Full Background.png",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 32,
       "variables": [],
@@ -5176,7 +5154,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.17130934511242274,
+        "zoomFactor": 0.2725359896772997,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -7720,7 +7698,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.24488383633725755,
+        "zoomFactor": 0.3192894589690199,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -9194,17 +9172,6 @@
           "variables": [],
           "effects": [],
           "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "height": 32,
-          "name": "NewTiledSprite",
-          "texture": "8ee648958d2a9b8a553c5c9d1ccdebb936eefa0414d250aef2dd763b07217b7e_Summer Background.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 32,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
         }
       ],
       "objectsFolderStructure": {
@@ -9212,9 +9179,6 @@
         "children": [
           {
             "objectName": "SecretExit"
-          },
-          {
-            "objectName": "NewTiledSprite"
           }
         ]
       },
@@ -11101,7 +11065,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.1816906597848635,
+        "zoomFactor": 0.20746499616301517,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -14185,7 +14149,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.44485159988866535,
+        "zoomFactor": 0.41630252177333305,
         "windowMask": false
       },
       "objectsGroups": [],
