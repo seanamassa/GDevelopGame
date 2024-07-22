@@ -1508,6 +1508,33 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/Background Objects/Retina/85b0e6d046a9a1e13436b94863721bd6ba25a1f3e898802ce3e0df53d4b16fe6_cloud 1.png",
           "name": "gdevelop-asset-store"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Dry Dog Food2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dry Dog Food2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "HealthBar2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "HealthBar2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "HealthBar3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "HealthBar3.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -4018,8 +4045,8 @@
                   "points": [
                     {
                       "name": "Checker",
-                      "x": 126,
-                      "y": 96.5
+                      "x": 124.5,
+                      "y": 86.5
                     }
                   ],
                   "originPoint": {
@@ -4060,8 +4087,8 @@
                   "points": [
                     {
                       "name": "Checker",
-                      "x": 126,
-                      "y": 96.5
+                      "x": 124.5,
+                      "y": 86.5
                     }
                   ],
                   "originPoint": {
@@ -4102,8 +4129,8 @@
                   "points": [
                     {
                       "name": "Checker",
-                      "x": 126,
-                      "y": 96.5
+                      "x": 124.5,
+                      "y": 86.5
                     }
                   ],
                   "originPoint": {
@@ -4144,8 +4171,8 @@
                   "points": [
                     {
                       "name": "Checker",
-                      "x": 126,
-                      "y": 96.5
+                      "x": 124.5,
+                      "y": 86.5
                     }
                   ],
                   "originPoint": {
@@ -4186,8 +4213,8 @@
                   "points": [
                     {
                       "name": "Checker",
-                      "x": 126,
-                      "y": 96.5
+                      "x": 124.5,
+                      "y": 86.5
                     }
                   ],
                   "originPoint": {
@@ -4228,8 +4255,8 @@
                   "points": [
                     {
                       "name": "Checker",
-                      "x": 126,
-                      "y": 96.5
+                      "x": 124.5,
+                      "y": 86.5
                     }
                   ],
                   "originPoint": {
@@ -4270,8 +4297,8 @@
                   "points": [
                     {
                       "name": "Checker",
-                      "x": 126,
-                      "y": 96.5
+                      "x": 124.5,
+                      "y": 86.5
                     }
                   ],
                   "originPoint": {
@@ -4312,8 +4339,8 @@
                   "points": [
                     {
                       "name": "Checker",
-                      "x": 126,
-                      "y": 96.5
+                      "x": 124.5,
+                      "y": 86.5
                     }
                   ],
                   "originPoint": {
@@ -4354,8 +4381,8 @@
                   "points": [
                     {
                       "name": "Checker",
-                      "x": 126,
-                      "y": 96.5
+                      "x": 124.5,
+                      "y": 86.5
                     }
                   ],
                   "originPoint": {
@@ -4396,8 +4423,8 @@
                   "points": [
                     {
                       "name": "Checker",
-                      "x": 126,
-                      "y": 96.5
+                      "x": 124.5,
+                      "y": 86.5
                     }
                   ],
                   "originPoint": {
@@ -4636,17 +4663,16 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "NewSprite5",
+          "name": "",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
-              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "NewSprite6",
+                  "image": "HealthBar3.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5116,7 +5142,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.14039857806034362,
+        "zoomFactor": 0.2636457673770864,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -7668,7 +7694,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.4027225833325931,
+        "zoomFactor": 0.36458333333333526,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -8236,6 +8262,23 @@
           "x": 416,
           "y": 128,
           "zOrder": 45,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 2432,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Background",
+          "persistentUuid": "4197d90c-3ac3-47b6-a9c7-ccffa2d2c5ff",
+          "width": 3648,
+          "x": -608,
+          "y": -576,
+          "zOrder": -1000,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -10211,7 +10254,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.27050126039625594,
+        "zoomFactor": 0.253141400129863,
         "windowMask": false
       },
       "objectsGroups": [],
