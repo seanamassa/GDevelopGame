@@ -810,16 +810,6 @@
         "userAdded": true
       },
       {
-        "file": "assets/Jump.wav",
-        "kind": "audio",
-        "metadata": "{\"extension\":\".wav\",\"jfxr\":{\"data\":\"{\\\"_version\\\":1,\\\"_name\\\":\\\"Jump 5\\\",\\\"_locked\\\":[],\\\"sampleRate\\\":44100,\\\"attack\\\":0,\\\"sustain\\\":0.19,\\\"sustainPunch\\\":90,\\\"decay\\\":0.4,\\\"tremoloDepth\\\":0,\\\"tremoloFrequency\\\":0,\\\"frequency\\\":1000,\\\"frequencySweep\\\":400,\\\"frequencyDeltaSweep\\\":0,\\\"repeatFrequency\\\":0,\\\"frequencyJump1Onset\\\":33,\\\"frequencyJump1Amount\\\":0,\\\"frequencyJump2Onset\\\":65,\\\"frequencyJump2Amount\\\":0,\\\"harmonics\\\":0,\\\"harmonicsFalloff\\\":0.5,\\\"waveform\\\":\\\"breaker\\\",\\\"interpolateNoise\\\":true,\\\"vibratoDepth\\\":0,\\\"vibratoFrequency\\\":0,\\\"squareDuty\\\":95,\\\"squareDutySweep\\\":5,\\\"flangerOffset\\\":0,\\\"flangerOffsetSweep\\\":-8,\\\"bitCrush\\\":16,\\\"bitCrushSweep\\\":0,\\\"lowPassCutoff\\\":22050,\\\"lowPassCutoffSweep\\\":0,\\\"highPassCutoff\\\":400,\\\"highPassCutoffSweep\\\":1100,\\\"compression\\\":1,\\\"normalization\\\":true,\\\"amplification\\\":100}\",\"name\":\"Jump\"}}",
-        "name": "Jump",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": true
-      },
-      {
         "file": "assets/New sound effect2.wav",
         "kind": "audio",
         "metadata": "{\"extension\":\".wav\",\"jfxr\":{\"data\":\"{\\\"_version\\\":1,\\\"_name\\\":\\\"Pickup/coin 15\\\",\\\"_locked\\\":[],\\\"sampleRate\\\":44100,\\\"attack\\\":0,\\\"sustain\\\":0.04,\\\"sustainPunch\\\":0,\\\"decay\\\":0.36,\\\"tremoloDepth\\\":0,\\\"tremoloFrequency\\\":10,\\\"frequency\\\":200,\\\"frequencySweep\\\":0,\\\"frequencyDeltaSweep\\\":0,\\\"repeatFrequency\\\":0,\\\"frequencyJump1Onset\\\":20,\\\"frequencyJump1Amount\\\":35,\\\"frequencyJump2Onset\\\":40,\\\"frequencyJump2Amount\\\":85,\\\"harmonics\\\":0,\\\"harmonicsFalloff\\\":0.5,\\\"waveform\\\":\\\"whistle\\\",\\\"interpolateNoise\\\":true,\\\"vibratoDepth\\\":0,\\\"vibratoFrequency\\\":10,\\\"squareDuty\\\":85,\\\"squareDutySweep\\\":-80,\\\"flangerOffset\\\":10,\\\"flangerOffsetSweep\\\":-6,\\\"bitCrush\\\":16,\\\"bitCrushSweep\\\":0,\\\"lowPassCutoff\\\":22050,\\\"lowPassCutoffSweep\\\":0,\\\"highPassCutoff\\\":0,\\\"highPassCutoffSweep\\\":0,\\\"compression\\\":1,\\\"normalization\\\":true,\\\"amplification\\\":100}\",\"name\":\"New sound effect2\"},\"localFilePath\":\"assets/New sound effect2.wav\"}",
@@ -1920,6 +1910,16 @@
         "metadata": "",
         "name": "assets\\9patch_Redwood Background_center.png",
         "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "assets/jump_01.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "assets\\jump_01.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
         "userAdded": true
       }
     ],
@@ -5743,7 +5743,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.1657211724752751,
+        "zoomFactor": 0.3673257545058973,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -9392,16 +9392,6 @@
                 "=",
                 "CameraCenterX()/8"
               ]
-            },
-            {
-              "type": {
-                "value": "TiledSpriteObject::XOffset"
-              },
-              "parameters": [
-                "Background2",
-                "=",
-                "CameraCenterX()/3"
-              ]
             }
           ]
         },
@@ -9619,7 +9609,7 @@
                     "",
                     "assets\\jump_02.wav",
                     "",
-                    "50",
+                    "",
                     ""
                   ]
                 }
@@ -10600,7 +10590,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.3895856273827355,
+        "zoomFactor": 0.4753585087127017,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -10739,7 +10729,7 @@
           "name": "Boundary",
           "persistentUuid": "73d99c71-cf5d-46f7-853c-7fa6ddaacbbd",
           "width": 4512,
-          "x": -96,
+          "x": -256,
           "y": 1056,
           "zOrder": 18,
           "numberProperties": [],
@@ -12016,22 +12006,6 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Enemy2",
-          "persistentUuid": "2fb6593b-9954-467b-ad78-e34d762fc37f",
-          "width": 0,
-          "x": 474,
-          "y": 75,
-          "zOrder": 45,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": true,
           "depth": 33,
           "height": 1062,
@@ -12298,16 +12272,6 @@
                 "=",
                 "CameraCenterX()/8"
               ]
-            },
-            {
-              "type": {
-                "value": "TiledSpriteObject::XOffset"
-              },
-              "parameters": [
-                "Background2",
-                "=",
-                "CameraCenterX()/3"
-              ]
             }
           ]
         },
@@ -12353,7 +12317,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Player Animations",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -12449,7 +12412,7 @@
                   },
                   "parameters": [
                     "",
-                    "Jump2",
+                    "assets\\jump_02.wav",
                     "",
                     "50",
                     ""
@@ -12734,51 +12697,6 @@
           "conditions": [
             {
               "type": {
-                "value": "PlatformBehavior::IsJumping"
-              },
-              "parameters": [
-                "Player",
-                "PlatformerObject"
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "Player",
-                "Animation",
-                "=",
-                "\"Jump\""
-              ]
-            },
-            {
-              "type": {
-                "value": "PlaySound"
-              },
-              "parameters": [
-                "",
-                "assets\\jump_02.wav",
-                "",
-                "50",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
                 "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
               },
               "parameters": [
@@ -12962,6 +12880,51 @@
                 "",
                 "\"Sean's Level\"",
                 ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::IsJumping"
+              },
+              "parameters": [
+                "Player",
+                "PlatformerObject"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Player",
+                "Animation",
+                "=",
+                "\"Jump\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "assets\\jump_02.wav",
+                "",
+                "50",
+                "1"
               ]
             }
           ]
@@ -13959,6 +13922,11 @@
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [],
           "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
         }
       ],
       "layers": [
@@ -14160,7 +14128,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.542792080247335,
+        "zoomFactor": 1.0536458333333467,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -15953,6 +15921,70 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Door",
+          "persistentUuid": "b413c583-dcbc-416b-adea-74f50b0a285b",
+          "width": 0,
+          "x": 6481,
+          "y": -2560,
+          "zOrder": 101,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Exit2",
+          "persistentUuid": "21bc0f55-1ffe-4857-ad76-fe417c6897e0",
+          "width": 0,
+          "x": 6496,
+          "y": -2528,
+          "zOrder": -100,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Exit2",
+          "persistentUuid": "b618ee4f-3010-4d42-a196-063e7262e617",
+          "width": 0,
+          "x": 6496,
+          "y": -2528,
+          "zOrder": -102,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Portal",
+          "persistentUuid": "f11bbd21-c107-4963-b5f9-445846c41fec",
+          "width": 0,
+          "x": 1792,
+          "y": -1216,
+          "zOrder": -102,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -16008,6 +16040,28 @@
           "variables": [],
           "effects": [],
           "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Exit2",
+          "texture": "",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Portal",
+          "texture": "",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
         }
       ],
       "objectsFolderStructure": {
@@ -16018,6 +16072,12 @@
           },
           {
             "objectName": "NewTiledSprite"
+          },
+          {
+            "objectName": "Exit2"
+          },
+          {
+            "objectName": "Portal"
           }
         ]
       },
@@ -16084,16 +16144,6 @@
                 "Background",
                 "=",
                 "CameraCenterX()/8"
-              ]
-            },
-            {
-              "type": {
-                "value": "TiledSpriteObject::XOffset"
-              },
-              "parameters": [
-                "Background2",
-                "=",
-                "CameraCenterX()/3"
               ]
             }
           ]
@@ -16676,7 +16726,7 @@
               },
               "parameters": [
                 "",
-                "Jump",
+                "assets\\jump_02.wav",
                 "",
                 "50",
                 ""
@@ -16817,7 +16867,7 @@
               },
               "parameters": [
                 "Player",
-                "Door",
+                "Portal",
                 "",
                 "",
                 ""
@@ -17117,6 +17167,35 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "Exit2",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Credits\"",
+                ""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -17322,7 +17401,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.8635277700823945,
+        "zoomFactor": 0.6406912462476484,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -19970,16 +20049,6 @@
                 "=",
                 "CameraCenterX()/8"
               ]
-            },
-            {
-              "type": {
-                "value": "TiledSpriteObject::XOffset"
-              },
-              "parameters": [
-                "Background2",
-                "=",
-                "CameraCenterX()/3"
-              ]
             }
           ]
         },
@@ -20180,7 +20249,7 @@
               },
               "parameters": [
                 "",
-                "Jump2",
+                "assets\\jump_02.wav",
                 "",
                 "50",
                 ""
