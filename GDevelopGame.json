@@ -9639,7 +9639,7 @@
                   },
                   "parameters": [
                     "",
-                    "Jump2",
+                    "assets\\jump_02.wav",
                     "",
                     "50",
                     ""
@@ -10674,8 +10674,8 @@
           "name": "Player",
           "persistentUuid": "666d479e-0f3d-49ca-b0e9-3b3e8faf812a",
           "width": 0,
-          "x": 1783,
-          "y": -544,
+          "x": 64,
+          "y": 576,
           "zOrder": 103,
           "numberProperties": [],
           "stringProperties": [],
@@ -14191,7 +14191,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.38958562738273395,
+        "zoomFactor": 0.2216924727500545,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -16315,7 +16315,7 @@
               },
               "parameters": [
                 "",
-                "Jump2",
+                "assets\\jump_02.wav",
                 "",
                 "50",
                 ""
