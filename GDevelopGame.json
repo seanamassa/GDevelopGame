@@ -3985,8 +3985,8 @@
                   "points": [
                     {
                       "name": "Checker",
-                      "x": 61.5,
-                      "y": 46
+                      "x": 69,
+                      "y": 42.5
                     }
                   ],
                   "originPoint": {
@@ -4111,8 +4111,8 @@
                   "points": [
                     {
                       "name": "Checker",
-                      "x": 61.5,
-                      "y": 46
+                      "x": 69,
+                      "y": 42.5
                     }
                   ],
                   "originPoint": {
@@ -4237,8 +4237,8 @@
                   "points": [
                     {
                       "name": "Checker",
-                      "x": 61.5,
-                      "y": 46
+                      "x": 69,
+                      "y": 42.5
                     }
                   ],
                   "originPoint": {
@@ -4373,6 +4373,20 @@
       "effects": [],
       "behaviors": [
         {
+          "name": "PixelPerfectPlatformerCharacter",
+          "type": "PixelPerfectMovement::PixelPerfectPlatformerCharacter",
+          "PlatformerCharacter": "PlatformerObject",
+          "PixelSize": 1,
+          "OffsetX": 0,
+          "OffsetY": 0,
+          "TargetX": 0,
+          "TargetDirectionX": 0,
+          "TargetY": 0,
+          "TargetDirectionY": 0,
+          "PreviousSpeedX": 2.0247e-320,
+          "IsDecelerating": false
+        },
+        {
           "name": "PlatformerCharacterAnimator",
           "type": "PlatformerCharacterAnimator::PlatformerCharacterAnimator",
           "EnableAnimationChanges": true,
@@ -4387,12 +4401,13 @@
           "Flippable": "Flippable"
         },
         {
+          "acceleration": 1500,
+          "canGrabWithoutMoving": false,
+          "maxSpeed": 150,
           "name": "PlatformerObject",
           "type": "PlatformBehavior::PlatformerObjectBehavior",
-          "acceleration": 1500,
           "canGoDownFromJumpthru": true,
           "canGrabPlatforms": false,
-          "canGrabWithoutMoving": true,
           "deceleration": 1500,
           "gravity": 1000,
           "ignoreDefaultControls": true,
@@ -4400,7 +4415,6 @@
           "jumpSustainTime": 0.2,
           "ladderClimbingSpeed": 150,
           "maxFallingSpeed": 700,
-          "maxSpeed": 150,
           "slopeMaxAngle": 60,
           "useLegacyTrajectory": false,
           "xGrabTolerance": 10,
@@ -4422,8 +4436,8 @@
                   "points": [
                     {
                       "name": "Checker",
-                      "x": 127.5,
-                      "y": 91
+                      "x": 164.5,
+                      "y": 88
                     }
                   ],
                   "originPoint": {
@@ -4440,20 +4454,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 26,
+                        "x": 28,
+                        "y": 6.5
+                      },
+                      {
+                        "x": 95.5,
                         "y": 7
                       },
                       {
-                        "x": 98,
-                        "y": 7
+                        "x": 93.5,
+                        "y": 113.5
                       },
                       {
-                        "x": 98,
-                        "y": 116
-                      },
-                      {
-                        "x": 26,
-                        "y": 116
+                        "x": 29,
+                        "y": 113
                       }
                     ]
                   ]
@@ -4464,8 +4478,8 @@
                   "points": [
                     {
                       "name": "Checker",
-                      "x": 127.5,
-                      "y": 91
+                      "x": 164.5,
+                      "y": 88
                     }
                   ],
                   "originPoint": {
@@ -4482,20 +4496,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 26,
+                        "x": 28,
+                        "y": 6.5
+                      },
+                      {
+                        "x": 95.5,
                         "y": 7
                       },
                       {
-                        "x": 98,
-                        "y": 7
+                        "x": 93.5,
+                        "y": 113.5
                       },
                       {
-                        "x": 98,
-                        "y": 116
-                      },
-                      {
-                        "x": 26,
-                        "y": 116
+                        "x": 29,
+                        "y": 113
                       }
                     ]
                   ]
@@ -4506,8 +4520,8 @@
                   "points": [
                     {
                       "name": "Checker",
-                      "x": 127.5,
-                      "y": 91
+                      "x": 164.5,
+                      "y": 88
                     }
                   ],
                   "originPoint": {
@@ -4524,20 +4538,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 26,
+                        "x": 28,
+                        "y": 6.5
+                      },
+                      {
+                        "x": 95.5,
                         "y": 7
                       },
                       {
-                        "x": 98,
-                        "y": 7
+                        "x": 93.5,
+                        "y": 113.5
                       },
                       {
-                        "x": 98,
-                        "y": 116
-                      },
-                      {
-                        "x": 26,
-                        "y": 116
+                        "x": 29,
+                        "y": 113
                       }
                     ]
                   ]
@@ -4548,8 +4562,8 @@
                   "points": [
                     {
                       "name": "Checker",
-                      "x": 127.5,
-                      "y": 91
+                      "x": 164.5,
+                      "y": 88
                     }
                   ],
                   "originPoint": {
@@ -4566,20 +4580,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 26,
+                        "x": 28,
+                        "y": 6.5
+                      },
+                      {
+                        "x": 95.5,
                         "y": 7
                       },
                       {
-                        "x": 98,
-                        "y": 7
+                        "x": 93.5,
+                        "y": 113.5
                       },
                       {
-                        "x": 98,
-                        "y": 116
-                      },
-                      {
-                        "x": 26,
-                        "y": 116
+                        "x": 29,
+                        "y": 113
                       }
                     ]
                   ]
@@ -4590,8 +4604,8 @@
                   "points": [
                     {
                       "name": "Checker",
-                      "x": 127.5,
-                      "y": 91
+                      "x": 164.5,
+                      "y": 88
                     }
                   ],
                   "originPoint": {
@@ -4608,20 +4622,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 26,
+                        "x": 28,
+                        "y": 6.5
+                      },
+                      {
+                        "x": 95.5,
                         "y": 7
                       },
                       {
-                        "x": 98,
-                        "y": 7
+                        "x": 93.5,
+                        "y": 113.5
                       },
                       {
-                        "x": 98,
-                        "y": 116
-                      },
-                      {
-                        "x": 26,
-                        "y": 116
+                        "x": 29,
+                        "y": 113
                       }
                     ]
                   ]
@@ -4632,8 +4646,8 @@
                   "points": [
                     {
                       "name": "Checker",
-                      "x": 127.5,
-                      "y": 91
+                      "x": 164.5,
+                      "y": 88
                     }
                   ],
                   "originPoint": {
@@ -4650,20 +4664,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 26,
+                        "x": 28,
+                        "y": 6.5
+                      },
+                      {
+                        "x": 95.5,
                         "y": 7
                       },
                       {
-                        "x": 98,
-                        "y": 7
+                        "x": 93.5,
+                        "y": 113.5
                       },
                       {
-                        "x": 98,
-                        "y": 116
-                      },
-                      {
-                        "x": 26,
-                        "y": 116
+                        "x": 29,
+                        "y": 113
                       }
                     ]
                   ]
@@ -4674,8 +4688,8 @@
                   "points": [
                     {
                       "name": "Checker",
-                      "x": 127.5,
-                      "y": 91
+                      "x": 164.5,
+                      "y": 88
                     }
                   ],
                   "originPoint": {
@@ -4692,20 +4706,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 26,
+                        "x": 28,
+                        "y": 6.5
+                      },
+                      {
+                        "x": 95.5,
                         "y": 7
                       },
                       {
-                        "x": 98,
-                        "y": 7
+                        "x": 93.5,
+                        "y": 113.5
                       },
                       {
-                        "x": 98,
-                        "y": 116
-                      },
-                      {
-                        "x": 26,
-                        "y": 116
+                        "x": 29,
+                        "y": 113
                       }
                     ]
                   ]
@@ -4716,8 +4730,8 @@
                   "points": [
                     {
                       "name": "Checker",
-                      "x": 127.5,
-                      "y": 91
+                      "x": 164.5,
+                      "y": 88
                     }
                   ],
                   "originPoint": {
@@ -4734,20 +4748,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 26,
+                        "x": 28,
+                        "y": 6.5
+                      },
+                      {
+                        "x": 95.5,
                         "y": 7
                       },
                       {
-                        "x": 98,
-                        "y": 7
+                        "x": 93.5,
+                        "y": 113.5
                       },
                       {
-                        "x": 98,
-                        "y": 116
-                      },
-                      {
-                        "x": 26,
-                        "y": 116
+                        "x": 29,
+                        "y": 113
                       }
                     ]
                   ]
@@ -4758,8 +4772,8 @@
                   "points": [
                     {
                       "name": "Checker",
-                      "x": 127.5,
-                      "y": 91
+                      "x": 164.5,
+                      "y": 88
                     }
                   ],
                   "originPoint": {
@@ -4776,20 +4790,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 26,
+                        "x": 28,
+                        "y": 6.5
+                      },
+                      {
+                        "x": 95.5,
                         "y": 7
                       },
                       {
-                        "x": 98,
-                        "y": 7
+                        "x": 93.5,
+                        "y": 113.5
                       },
                       {
-                        "x": 98,
-                        "y": 116
-                      },
-                      {
-                        "x": 26,
-                        "y": 116
+                        "x": 29,
+                        "y": 113
                       }
                     ]
                   ]
@@ -4800,8 +4814,8 @@
                   "points": [
                     {
                       "name": "Checker",
-                      "x": 127.5,
-                      "y": 91
+                      "x": 164.5,
+                      "y": 88
                     }
                   ],
                   "originPoint": {
@@ -4818,20 +4832,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 26,
+                        "x": 28,
+                        "y": 6.5
+                      },
+                      {
+                        "x": 95.5,
                         "y": 7
                       },
                       {
-                        "x": 98,
-                        "y": 7
+                        "x": 93.5,
+                        "y": 113.5
                       },
                       {
-                        "x": 98,
-                        "y": 116
-                      },
-                      {
-                        "x": 26,
-                        "y": 116
+                        "x": 29,
+                        "y": 113
                       }
                     ]
                   ]
@@ -9379,9 +9393,9 @@
               },
               "parameters": [
                 "",
-                "5a4090e69f77a0e9c3d5c48043175cd1d322a52c702428a784878cf9e946bd86_Halloween Theme 1.aac",
+                "assets\\Snowland Loop.wav",
                 "yes",
-                "60",
+                "100",
                 ""
               ]
             }
@@ -10604,7 +10618,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.18781732880530672,
+        "zoomFactor": 0.23689563725446927,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -10660,8 +10674,8 @@
           "name": "Player",
           "persistentUuid": "666d479e-0f3d-49ca-b0e9-3b3e8faf812a",
           "width": 0,
-          "x": 55,
-          "y": 576,
+          "x": 1783,
+          "y": -544,
           "zOrder": 103,
           "numberProperties": [],
           "stringProperties": [],
@@ -11009,23 +11023,6 @@
           "x": 256,
           "y": 736,
           "zOrder": 37,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 2,
-          "height": 152,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Enemy",
-          "persistentUuid": "5be8c436-8574-4294-8e59-e0e36d1d6ecf",
-          "width": 265,
-          "x": 2071,
-          "y": 769,
-          "zOrder": 14,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -14194,7 +14191,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.2890516203134955,
+        "zoomFactor": 0.38958562738273395,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -14430,8 +14427,8 @@
           "name": "Player",
           "persistentUuid": "0f91585d-2b1a-4aa9-aa3c-22aae85ca26a",
           "width": 0,
-          "x": 23,
-          "y": 551,
+          "x": 32,
+          "y": 583,
           "zOrder": 15,
           "numberProperties": [],
           "stringProperties": [],
@@ -14531,7 +14528,7 @@
           "width": 128,
           "x": 1952,
           "y": 32,
-          "zOrder": 22,
+          "zOrder": 25,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -14545,8 +14542,8 @@
           "name": "Bridge2",
           "persistentUuid": "61807354-901c-44d0-8e6c-7c5f3057bf2c",
           "width": 0,
-          "x": 1120,
-          "y": 192,
+          "x": 1152,
+          "y": 160,
           "zOrder": 23,
           "numberProperties": [],
           "stringProperties": [],
@@ -14578,8 +14575,8 @@
           "name": "Enemy2",
           "persistentUuid": "c66a0058-e14e-4c7e-b83b-982dcea38f23",
           "width": 0,
-          "x": 1698,
-          "y": 75,
+          "x": 1722,
+          "y": 34,
           "zOrder": 25,
           "numberProperties": [],
           "stringProperties": [],
@@ -14748,8 +14745,8 @@
           "name": "Enemy",
           "persistentUuid": "9f69cf5b-8b36-4b48-bd35-090659b69813",
           "width": 128,
-          "x": 1760,
-          "y": -418,
+          "x": 1824,
+          "y": -448,
           "zOrder": 33,
           "numberProperties": [],
           "stringProperties": [],
@@ -14986,7 +14983,7 @@
           "persistentUuid": "8ac33716-38c0-4fff-ab23-355531c1e2de",
           "width": 224,
           "x": 5152,
-          "y": -1600,
+          "y": -1568,
           "zOrder": 48,
           "numberProperties": [],
           "stringProperties": [],
@@ -15872,16 +15869,17 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
           "keepRatio": true,
           "layer": "",
           "name": "PlaformWood2",
           "persistentUuid": "e497c72e-b380-4ade-92aa-f5aa699b6d27",
-          "width": 0,
+          "width": 64,
           "x": 1632,
-          "y": 160,
-          "zOrder": 93,
+          "y": 128,
+          "zOrder": 25,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -15999,6 +15997,23 @@
           "x": 1728,
           "y": -1152,
           "zOrder": 99,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "PlatformJumpThrough",
+          "persistentUuid": "be1e4cf0-4010-4ab2-931a-7f7878e0d5e9",
+          "width": 160,
+          "x": 5120,
+          "y": -1792,
+          "zOrder": 100,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -17016,7 +17031,7 @@
                     "value": "FlippableCapability::FlippableBehavior::FlipX"
                   },
                   "parameters": [
-                    "Enemy2",
+                    "Enemy",
                     "Flippable",
                     "yes"
                   ]
@@ -17024,6 +17039,18 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 27,
+            "g": 2,
+            "r": 208,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Enemy 2"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -17133,6 +17160,18 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": ""
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -17292,6 +17331,10 @@
         {
           "name": "Opacity",
           "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "PixelPerfectPlatformerCharacter",
+          "type": "PixelPerfectMovement::PixelPerfectPlatformerCharacter"
         },
         {
           "name": "Platform",
@@ -21816,6 +21859,1940 @@
   ],
   "externalEvents": [],
   "eventsFunctionsExtensions": [
+    {
+      "author": "",
+      "category": "Movement",
+      "extensionNamespace": "",
+      "fullName": "Pixel perfect movement",
+      "helpPath": "",
+      "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMy4wLjMsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iSWNvbnMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB2aWV3Qm94PSIwIDAgMzIgMzIiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDMyIDMyOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPg0KCS5zdDB7ZmlsbDpub25lO3N0cm9rZTojMDAwMDAwO3N0cm9rZS13aWR0aDoyO3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtbWl0ZXJsaW1pdDoxMDt9DQoJLnN0MXtmaWxsOm5vbmU7c3Ryb2tlOiMwMDAwMDA7c3Ryb2tlLXdpZHRoOjI7c3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO30NCgkuc3Qye2ZpbGw6bm9uZTtzdHJva2U6IzAwMDAwMDtzdHJva2Utd2lkdGg6MjtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7c3Ryb2tlLWRhc2hhcnJheTo2LDY7fQ0KCS5zdDN7ZmlsbDpub25lO3N0cm9rZTojMDAwMDAwO3N0cm9rZS13aWR0aDoyO3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtZGFzaGFycmF5OjQsNDt9DQoJLnN0NHtmaWxsOm5vbmU7c3Ryb2tlOiMwMDAwMDA7c3Ryb2tlLXdpZHRoOjI7c3Ryb2tlLWxpbmVjYXA6cm91bmQ7fQ0KCS5zdDV7ZmlsbDpub25lO3N0cm9rZTojMDAwMDAwO3N0cm9rZS13aWR0aDoyO3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1kYXNoYXJyYXk6My4xMDgxLDMuMTA4MTt9DQoJDQoJCS5zdDZ7ZmlsbDpub25lO3N0cm9rZTojMDAwMDAwO3N0cm9rZS13aWR0aDoyO3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtbWl0ZXJsaW1pdDoxMDtzdHJva2UtZGFzaGFycmF5OjQsMzt9DQo8L3N0eWxlPg0KPHJlY3QgeD0iNCIgeT0iNCIgY2xhc3M9InN0MCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ii8+DQo8bGluZSBjbGFzcz0ic3QwIiB4MT0iMTIiIHkxPSIyOCIgeDI9IjEyIiB5Mj0iNCIvPg0KPGxpbmUgY2xhc3M9InN0MCIgeDE9IjIwIiB5MT0iMjgiIHgyPSIyMCIgeTI9IjQiLz4NCjxsaW5lIGNsYXNzPSJzdDAiIHgxPSIyOCIgeTE9IjIwIiB4Mj0iNCIgeTI9IjIwIi8+DQo8bGluZSBjbGFzcz0ic3QwIiB4MT0iMjgiIHkxPSIxMiIgeDI9IjQiIHkyPSIxMiIvPg0KPC9zdmc+DQo=",
+      "name": "PixelPerfectMovement",
+      "previewIconUrl": "https://resources.gdevelop-app.com/assets/Icons/Line Hero Pack/Master/SVG/Graphic Design/Graphic Design_grid.svg",
+      "shortDescription": "Grid-based or pixel perfect platformer and top-down movements.",
+      "version": "0.2.0",
+      "description": [
+        "Games with pixel art usually use pixels bigger than actual pixels of the screen. This can lead to big pixels partially overlapping each other which doesn't look good.",
+        "",
+        "This extension allows to seamlessly keep big pixels aligned when the object is stopped and still beneficiate from the high resolution of the screen to have smooth movements.",
+        "",
+        "It can be used for:",
+        "* Pixel-perfect platformers ([open the project online](https://editor.gdevelop.io/?project=example://platformer-with-tilemap))",
+        "* Align top-down characters on a grid ([open the project online](https://editor.gdevelop.io/?project=example://top-down-grid-movement))"
+      ],
+      "origin": {
+        "identifier": "PixelPerfectMovement",
+        "name": "gdevelop-extension-store"
+      },
+      "tags": [
+        "pixel perfect",
+        "platformer",
+        "platform",
+        "top-down",
+        "movement",
+        "grid"
+      ],
+      "authorIds": [
+        "IWykYNRvhCZBN3vEgKEbBPOR3Oc2",
+        "mkJFlZEo4aXeAZxt8CsXjEkW4Oq1",
+        "mMR36hCjO5dlcYmhNSuVtcREM473"
+      ],
+      "dependencies": [],
+      "globalVariables": [],
+      "sceneVariables": [],
+      "eventsFunctions": [
+        {
+          "description": "Return the speed necessary to cover a distance according to the deceleration.",
+          "fullName": "Speed to reach",
+          "functionType": "Expression",
+          "name": "SpeedToReach",
+          "private": true,
+          "sentence": "Braking distance from an initial speed: _PARAM2_ and a deceleration: _PARAM3_ is less than _PARAM1_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareNumbers"
+                  },
+                  "parameters": [
+                    "GetArgumentAsNumber(\"Distance\")",
+                    ">=",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetReturnNumber"
+                  },
+                  "parameters": [
+                    "sqrt(2 * GetArgumentAsNumber(\"Distance\") * GetArgumentAsNumber(\"Deceleration\"))"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::CompareNumbers"
+                  },
+                  "parameters": [
+                    "GetArgumentAsNumber(\"Distance\")",
+                    "<",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetReturnNumber"
+                  },
+                  "parameters": [
+                    "-sqrt(-2 * GetArgumentAsNumber(\"Distance\") * GetArgumentAsNumber(\"Deceleration\"))"
+                  ]
+                }
+              ]
+            }
+          ],
+          "expressionType": {
+            "type": "expression"
+          },
+          "parameters": [
+            {
+              "description": "Distance",
+              "name": "Distance",
+              "type": "expression"
+            },
+            {
+              "description": "Deceleration",
+              "name": "Deceleration",
+              "type": "expression"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Return the braking distance according to an initial speed and a deceleration.",
+          "fullName": "Braking distance",
+          "functionType": "Expression",
+          "name": "BrakingDistance",
+          "private": true,
+          "sentence": "Braking distance from an initial speed: _PARAM2_ and a deceleration: _PARAM3_ is less than _PARAM1_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetReturnNumber"
+                  },
+                  "parameters": [
+                    "GetArgumentAsNumber(\"Speed\") * GetArgumentAsNumber(\"Speed\") / (2 * GetArgumentAsNumber(\"Deceleration\"))"
+                  ]
+                }
+              ]
+            }
+          ],
+          "expressionType": {
+            "type": "expression"
+          },
+          "parameters": [
+            {
+              "description": "Speed",
+              "name": "Speed",
+              "type": "expression"
+            },
+            {
+              "description": "Deceleration",
+              "name": "Deceleration",
+              "type": "expression"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Define JavaScript classes for top-down.",
+          "fullName": "Define JavaScript classes for top-down",
+          "functionType": "Action",
+          "name": "DefineJavaScriptForTopDown",
+          "private": true,
+          "sentence": "Define JavaScript classes  for top-down",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "GlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "__pixelPerfect.TopDownClassesDefined",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetGlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "__pixelPerfect.TopDownClassesDefined",
+                    "True"
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "gdjs.__pixelPerfectExtension = gdjs.__pixelPerfectExtension || {};",
+                    "",
+                    "gdjs.__pixelPerfectExtension.PixelPerfectTopDownMovement =  /** @class */ (function () {",
+                    "",
+                    "  /**",
+                    "   * @param {gdjs.RuntimeBehavior} pixelPerfectBehavior",
+                    "   * @param {gdjs.TopDownMovementRuntimeBehavior} topDownBehavior",
+                    "   */",
+                    "  function PixelPerfectTopDownMovement(pixelPerfectBehavior, topDownBehavior) {",
+                    "    /** @type {gdjs.RuntimeBehavior} */",
+                    "    this.pixelPerfectBehavior = pixelPerfectBehavior;",
+                    "    /** @type {gdjs.TopDownMovementRuntimeBehavior} */",
+                    "    this.topDownBehavior = topDownBehavior;",
+                    "",
+                    "    topDownBehavior.registerHook(this);",
+                    "",
+                    "    /** @type {number | null} */",
+                    "    this.targetX = null;",
+                    "    /** @type {number | null} */",
+                    "    this.targetY = null;",
+                    "    this.targetDirectionX = 0;",
+                    "    this.targetDirectionY = 0;",
+                    "    this.lastDirection = -1;",
+                    "    this.isVelocityAdjusted = false;",
+                    "    this.isVelocityAdjustedOnX = false;",
+                    "    this.isVelocityAdjustedOnY = false;",
+                    "  }",
+                    "",
+                    "  /**",
+                    "   * Return the direction to use instead of the direction given in",
+                    "   * parameter.",
+                    "   * @param {gdjs.TopDownMovementRuntimeBehavior.TopDownMovementHookContext} context",
+                    "   * @return {number}",
+                    "   */",
+                    "  PixelPerfectTopDownMovement.prototype.overrideDirection = function (context) {",
+                    "    let direction = context.getDirection();",
+                    "    if (!this.pixelPerfectBehavior.activated()) {",
+                    "      return direction;",
+                    "    }",
+                    "",
+                    "    /** @type {number} */",
+                    "    const cellSize = this.pixelPerfectBehavior._getPixelSize();",
+                    "    const that = this.topDownBehavior;",
+                    "    const object = that.owner;",
+                    "",
+                    "    if (cellSize <= 0 || that._allowDiagonals) {",
+                    "      return direction;",
+                    "    }",
+                    "",
+                    "    // Forbid to turn before being aligned on the grid.",
+                    "",
+                    "    const timeDelta = object.getElapsedTime() / 1000;",
+                    "    const deltaX = Math.abs(that._xVelocity * timeDelta);",
+                    "    const deltaY = Math.abs(that._yVelocity * timeDelta);",
+                    "",
+                    "    const isTryingToMoveOnX = direction === 4 || direction === 0;",
+                    "    const isTryingToMoveOnY = direction === 6 || direction === 2;",
+                    "    if (isTryingToMoveOnX) {",
+                    "      if (that._yVelocity < 0) {",
+                    "        if (Math.abs(this.ceilToCellY(object.y) - object.y) > deltaY) {",
+                    "          direction = 6;",
+                    "        } else {",
+                    "          object.y = this.ceilToCellY(object.y);",
+                    "        }",
+                    "      }",
+                    "      if (that._yVelocity > 0) {",
+                    "        if (Math.abs(this.floorToCellY(object.y) - object.y) > deltaY) {",
+                    "          direction = 2;",
+                    "        } else {",
+                    "          object.y = this.floorToCellY(object.y);",
+                    "        }",
+                    "      }",
+                    "    } else if (isTryingToMoveOnY) {",
+                    "      if (that._xVelocity < 0) {",
+                    "        if (Math.abs(this.ceilToCellX(object.x) - object.x) > deltaX) {",
+                    "          direction = 4;",
+                    "        } else {",
+                    "          object.x = this.ceilToCellX(object.x);",
+                    "        }",
+                    "      }",
+                    "      if (that._xVelocity > 0) {",
+                    "        if (Math.abs(this.floorToCellX(object.x) - object.x) > deltaX) {",
+                    "          direction = 0;",
+                    "        } else {",
+                    "          object.x = this.floorToCellX(object.x);",
+                    "        }",
+                    "      }",
+                    "    }",
+                    "",
+                    "    // Ensure sharp turn even with Verlet integrations.",
+                    "    const speed = Math.abs(that._xVelocity + that._yVelocity);",
+                    "    if (direction === 0) {",
+                    "      that._xVelocity = speed;",
+                    "      that._yVelocity = 0;",
+                    "    } else if (direction === 4) {",
+                    "      that._xVelocity = -speed;",
+                    "      that._yVelocity = 0;",
+                    "    } else if (direction === 2) {",
+                    "      that._yVelocity = speed;",
+                    "      that._xVelocity = 0;",
+                    "    } else if (direction === 6) {",
+                    "      that._yVelocity = -speed;",
+                    "      that._xVelocity = 0;",
+                    "    }",
+                    "",
+                    "    this.lastDirection = direction;",
+                    "    return direction;",
+                    "  }",
+                    "",
+                    "  /**",
+                    "   * Called before the acceleration and new direction is applied to the",
+                    "   * velocity.",
+                    "   * @param {gdjs.TopDownMovementRuntimeBehavior.TopDownMovementHookContext} context",
+                    "   */",
+                    "  PixelPerfectTopDownMovement.prototype.beforeSpeedUpdate = function (context) {",
+                    "    if (!this.pixelPerfectBehavior.activated()) {",
+                    "      return;",
+                    "    }",
+                    "",
+                    "    const direction = context.getDirection();",
+                    "    /** @type {number} */",
+                    "    const cellSize = this.pixelPerfectBehavior._getPixelSize();",
+                    "    const that = this.topDownBehavior;",
+                    "    const object = that.owner;",
+                    "",
+                    "    if (cellSize <= 0) {",
+                    "      return;",
+                    "    }",
+                    "",
+                    "    const isMovingOnX =",
+                    "      direction !== -1 && direction !== 2 && direction !== 6;",
+                    "    if (isMovingOnX) {",
+                    "      this.targetX = null;",
+                    "    } else if (this.targetX === null) {",
+                    "      // Find where the deceleration should stop the object.",
+                    "      if (that._xVelocity > 0) {",
+                    "        this.targetX = this.ceilToCellX(",
+                    "          object.x + this.getBreakingDistanceX()",
+                    "        );",
+                    "        this.targetDirectionX = 1;",
+                    "      }",
+                    "      if (that._xVelocity < 0) {",
+                    "        this.targetX = this.floorToCellX(",
+                    "          object.x - this.getBreakingDistanceX()",
+                    "        );",
+                    "        this.targetDirectionX = -1;",
+                    "      }",
+                    "    }",
+                    "",
+                    "    const isMovingOnY =",
+                    "      direction !== -1 && direction !== 0 && direction !== 4;",
+                    "    if (isMovingOnY) {",
+                    "      this.targetY = null;",
+                    "    } else if (this.targetY === null) {",
+                    "      // Find where the deceleration should stop the object.",
+                    "      if (that._yVelocity > 0) {",
+                    "        this.targetY = this.ceilToCellY(",
+                    "          object.y + this.getBreakingDistanceY()",
+                    "        );",
+                    "        this.targetDirectionY = 1;",
+                    "      }",
+                    "      if (that._yVelocity < 0) {",
+                    "        this.targetY = this.floorToCellY(",
+                    "          object.y - this.getBreakingDistanceY()",
+                    "        );",
+                    "        this.targetDirectionY = -1;",
+                    "      }",
+                    "    }",
+                    "",
+                    "    // Make as if the player had press button a bit longer to reach exactly",
+                    "    // the next cell.",
+                    "",
+                    "    this.isVelocityAdjustedOnX = this.targetX !== null;",
+                    "    if (this.isVelocityAdjustedOnX) {",
+                    "      if (this.targetDirectionX > 0) {",
+                    "        if (this.targetX > object.getX()) {",
+                    "          that._xVelocity = Math.min(",
+                    "            that._xVelocity + that._acceleration,",
+                    "            that._maxSpeed,",
+                    "            this.getSpeedToReach(this.targetX - object.getX())",
+                    "          );",
+                    "        }",
+                    "        const nextFrameX = object.getX() + that._xVelocity * object.getElapsedTime() / 1000;",
+                    "        if (this.targetX <= nextFrameX) {",
+                    "          that._xVelocity = 0;",
+                    "          object.setX(this.roundToCellX(object.getX()));",
+                    "          this.targetX = null;",
+                    "        }",
+                    "      }",
+                    "      if (this.targetDirectionX < 0) {",
+                    "        if (this.targetX < object.getX()) {",
+                    "          that._xVelocity = Math.max(",
+                    "            that._xVelocity - that._acceleration,",
+                    "            -that._maxSpeed,",
+                    "            this.getSpeedToReach(this.targetX - object.getX())",
+                    "          );",
+                    "        }",
+                    "        const nextFrameX = object.getX() + that._xVelocity * object.getElapsedTime() / 1000;",
+                    "        if (this.targetX >= nextFrameX) {",
+                    "          that._xVelocity = 0;",
+                    "          object.setX(this.roundToCellX(object.getX()));",
+                    "          this.targetX = null;",
+                    "        }",
+                    "      }",
+                    "      // The velocity is exact. There no need for Verlet integration.",
+                    "      this.previousVelocityX = that._xVelocity;",
+                    "    }",
+                    "",
+                    "    this.isVelocityAdjustedOnY = this.targetY !== null;",
+                    "    if (this.isVelocityAdjustedOnY) {",
+                    "      if (this.targetDirectionY > 0) {",
+                    "        if (this.targetY > object.getY()) {",
+                    "          that._yVelocity = Math.min(",
+                    "            that._yVelocity + that._acceleration,",
+                    "            that._maxSpeed,",
+                    "            this.getSpeedToReach(this.targetY - object.getY())",
+                    "          );",
+                    "        }",
+                    "        const nextFrameY = object.getY() + that._yVelocity * object.getElapsedTime() / 1000;",
+                    "        if (this.targetY <= nextFrameY) {",
+                    "          that._yVelocity = 0;",
+                    "          object.setY(this.roundToCellY(object.getY()));",
+                    "          this.targetY = null;",
+                    "        }",
+                    "      }",
+                    "      if (this.targetDirectionY < 0) {",
+                    "        if (this.targetY < object.getY()) {",
+                    "          that._yVelocity = Math.max(",
+                    "            that._yVelocity - that._acceleration,",
+                    "            -that._maxSpeed,",
+                    "            this.getSpeedToReach(this.targetY - object.getY())",
+                    "          );",
+                    "        }",
+                    "        const nextFrameY = object.getY() + that._yVelocity * object.getElapsedTime() / 1000;",
+                    "        if (this.targetY >= nextFrameY) {",
+                    "          that._yVelocity = 0;",
+                    "          object.setY(this.roundToCellY(object.getY()));",
+                    "          this.targetY = null;",
+                    "        }",
+                    "      }",
+                    "      // The velocity is exact. There no need for Verlet integration.",
+                    "      this.previousVelocityY = that._yVelocity;",
+                    "    }",
+                    "  }",
+                    "",
+                    "  /**",
+                    "   * Called before the velocity is applied to the object position and",
+                    "   * angle.",
+                    "   */",
+                    "  PixelPerfectTopDownMovement.prototype.beforePositionUpdate = function () {",
+                    "    if (!this.pixelPerfectBehavior.activated()) {",
+                    "      return;",
+                    "    }",
+                    "",
+                    "    /** @type {number} */",
+                    "    const cellSize = this.pixelPerfectBehavior._getPixelSize();",
+                    "    if (cellSize <= 0) {",
+                    "      return;",
+                    "    }",
+                    "",
+                    "    const that = this.topDownBehavior;",
+                    "",
+                    "    if (this.isVelocityAdjustedOnX) {",
+                    "      // The velocity is exact. There no need for Verlet integration.",
+                    "      that._xVelocity = this.previousVelocityX;",
+                    "    }",
+                    "    if (this.isVelocityAdjustedOnY) {",
+                    "      // The velocity is exact. There no need for Verlet integration.",
+                    "      that._yVelocity = this.previousVelocityY;",
+                    "    }",
+                    "  }",
+                    "",
+                    "  const epsilon = 1 / (1 << 20);",
+                    "",
+                    "  PixelPerfectTopDownMovement.prototype.doStepPostEvents = function (instanceContainer) {",
+                    "    /** @type {number} */",
+                    "    const cellSize = this.pixelPerfectBehavior._getPixelSize();",
+                    "    if (cellSize <= 0) {",
+                    "      return;",
+                    "    }",
+                    "",
+                    "    const that = this.topDownBehavior;",
+                    "    const object = that.owner;",
+                    "",
+                    "    const isMovingOnX =",
+                    "      this.lastDirection !== -1 &&",
+                    "      this.lastDirection !== 2 &&",
+                    "      this.lastDirection !== 6;",
+                    "    const isMovingOnY =",
+                    "      this.lastDirection !== -1 &&",
+                    "      this.lastDirection !== 0 &&",
+                    "      this.lastDirection !== 4;",
+                    "",
+                    "    // Avoid rounding errors after a call to \"separate\" to make characters",
+                    "    // move indefinitely in front of a wall because they can't reach the cell.",
+                    "    if (!isMovingOnX && that._xVelocity !== 0) {",
+                    "      const x = object.getX();",
+                    "      const roundedX = this.roundToCellX(x);",
+                    "      if (Math.abs(roundedX - x) < epsilon) {",
+                    "        object.setX(roundedX);",
+                    "        this.targetDirectionX = 0;",
+                    "        that._xVelocity = 0;",
+                    "      }",
+                    "    }",
+                    "    if (!isMovingOnY && that._yVelocity !== 0) {",
+                    "      const y = object.getY();",
+                    "      const roundedY = this.roundToCellY(y);",
+                    "      if (Math.abs(roundedY - y) < epsilon) {",
+                    "        object.setY(roundedY);",
+                    "        this.targetDirectionY = 0;",
+                    "        that._yVelocity = 0;",
+                    "      }",
+                    "    }",
+                    "  }",
+                    "",
+                    "  /**",
+                    "   * @returns {number} the braking distance according to an initial speed and a deceleration.",
+                    "   */",
+                    "  PixelPerfectTopDownMovement.prototype.getBreakingDistanceX = function () {",
+                    "    const that = this.topDownBehavior;",
+                    "    return (that._xVelocity * that._xVelocity) / (2 * that._deceleration);",
+                    "  }",
+                    "",
+                    "  /**",
+                    "   * @returns {number} the braking distance according to an initial speed and a deceleration.",
+                    "   */",
+                    "  PixelPerfectTopDownMovement.prototype.getBreakingDistanceY = function () {",
+                    "    const that = this.topDownBehavior;",
+                    "    return (that._yVelocity * that._yVelocity) / (2 * that._deceleration);",
+                    "  }",
+                    "",
+                    "  /**",
+                    "   * @param {number} displacement",
+                    "   * @returns {number} the speed necessary to cover a distance according to the deceleration.",
+                    "   */",
+                    "  PixelPerfectTopDownMovement.prototype.getSpeedToReach = function (displacement) {",
+                    "    const that = this.topDownBehavior;",
+                    "    return (",
+                    "      Math.sign(displacement) *",
+                    "      Math.sqrt(2 * Math.abs(displacement) * that._deceleration)",
+                    "    );",
+                    "  }",
+                    "",
+                    "  /**",
+                    "   * @param {number} x",
+                    "   * @return {number}",
+                    "   */",
+                    "  PixelPerfectTopDownMovement.prototype.ceilToCellX = function (x) {",
+                    "    /** @type {number} */",
+                    "    const cellSize = this.pixelPerfectBehavior._getPixelSize();",
+                    "    /** @type {number} */",
+                    "    const gridOffsetX = this.pixelPerfectBehavior._getOffsetX();",
+                    "",
+                    "    return (",
+                    "      gridOffsetX +",
+                    "      cellSize * Math.ceil((x - gridOffsetX) / cellSize)",
+                    "    );",
+                    "  }",
+                    "",
+                    "  /**",
+                    "   * @param {number} x",
+                    "   * @return {number}",
+                    "   */",
+                    "  PixelPerfectTopDownMovement.prototype.roundToCellX = function (x) {",
+                    "    /** @type {number} */",
+                    "    const cellSize = this.pixelPerfectBehavior._getPixelSize();",
+                    "    /** @type {number} */",
+                    "    const gridOffsetX = this.pixelPerfectBehavior._getOffsetX();",
+                    "",
+                    "    return (",
+                    "      gridOffsetX +",
+                    "      cellSize * Math.round((x - gridOffsetX) / cellSize)",
+                    "    );",
+                    "  }",
+                    "",
+                    "  /**",
+                    "   * @param {number} x",
+                    "   * @return {number}",
+                    "   */",
+                    "  PixelPerfectTopDownMovement.prototype.floorToCellX = function (x) {",
+                    "    /** @type {number} */",
+                    "    const cellSize = this.pixelPerfectBehavior._getPixelSize();",
+                    "    /** @type {number} */",
+                    "    const gridOffsetX = this.pixelPerfectBehavior._getOffsetX();",
+                    "",
+                    "    return (",
+                    "      gridOffsetX +",
+                    "      cellSize * Math.floor((x - gridOffsetX) / cellSize)",
+                    "    );",
+                    "  }",
+                    "",
+                    "  /**",
+                    "   * @param {number} y",
+                    "   * @return {number}",
+                    "   */",
+                    "  PixelPerfectTopDownMovement.prototype.ceilToCellY = function (y) {",
+                    "    /** @type {number} */",
+                    "    const cellSize = this.pixelPerfectBehavior._getPixelSize();",
+                    "    /** @type {number} */",
+                    "    const gridOffsetY = this.pixelPerfectBehavior._getOffsetY();",
+                    "",
+                    "    return (",
+                    "      gridOffsetY +",
+                    "      cellSize * Math.ceil((y - gridOffsetY) / cellSize)",
+                    "    );",
+                    "  }",
+                    "",
+                    "  /**",
+                    "   * @param {number} y",
+                    "   * @return {number}",
+                    "   */",
+                    "  PixelPerfectTopDownMovement.prototype.roundToCellY = function (y) {",
+                    "    /** @type {number} */",
+                    "    const cellSize = this.pixelPerfectBehavior._getPixelSize();",
+                    "    /** @type {number} */",
+                    "    const gridOffsetY = this.pixelPerfectBehavior._getOffsetY();",
+                    "",
+                    "    return (",
+                    "      gridOffsetY +",
+                    "      cellSize * Math.round((y - gridOffsetY) / cellSize)",
+                    "    );",
+                    "  }",
+                    "",
+                    "  /**",
+                    "   * @param {number} y",
+                    "   * @return {number}",
+                    "   */",
+                    "  PixelPerfectTopDownMovement.prototype.floorToCellY = function (y) {",
+                    "    /** @type {number} */",
+                    "    const cellSize = this.pixelPerfectBehavior._getPixelSize();",
+                    "    /** @type {number} */",
+                    "    const gridOffsetY = this.pixelPerfectBehavior._getOffsetY();",
+                    "",
+                    "    return (",
+                    "      gridOffsetY +",
+                    "      cellSize * Math.floor((y - gridOffsetY) / cellSize)",
+                    "    );",
+                    "  }",
+                    "",
+                    "  return PixelPerfectTopDownMovement;",
+                    "}());",
+                    "",
+                    ""
+                  ],
+                  "parameterObjects": "",
+                  "useStrict": true,
+                  "eventsSheetExpanded": true
+                }
+              ]
+            }
+          ],
+          "parameters": [],
+          "objectGroups": []
+        }
+      ],
+      "eventsBasedBehaviors": [
+        {
+          "description": "Seamlessly align big pixels using a top-down movement.",
+          "fullName": "Pixel perfect top-down movement",
+          "name": "PixelPerfectTopDownMovement",
+          "objectType": "",
+          "eventsFunctions": [
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "onCreated",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PixelPerfectMovement::DefineJavaScriptForTopDown"
+                      },
+                      "parameters": [
+                        "",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "\r",
+                    "const object = objects[0];\r",
+                    "const behaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");\r",
+                    "const behavior = object.getBehavior(behaviorName);\r",
+                    "\r",
+                    "/** @type {gdjs.TopDownMovementRuntimeBehavior} */\r",
+                    "const topDownBehavior = object.getBehavior(behavior._getTopDownMovement());\r",
+                    "\r",
+                    "const pixelPerfect = new gdjs.__pixelPerfectExtension.PixelPerfectTopDownMovement(behavior, topDownBehavior);\r",
+                    "topDownBehavior.__pixelPerfect = pixelPerfect;\r",
+                    "behavior.__pixelPerfect = pixelPerfect;\r",
+                    ""
+                  ],
+                  "parameterObjects": "Object",
+                  "useStrict": true,
+                  "eventsSheetExpanded": true
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "PixelPerfectMovement::PixelPerfectTopDownMovement",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "doStepPostEvents",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "const object = objects[0];",
+                    "const behaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");",
+                    "const behavior = object.getBehavior(behaviorName);",
+                    "",
+                    "behavior.__pixelPerfect.doStepPostEvents(runtimeScene);"
+                  ],
+                  "parameterObjects": "Object",
+                  "useStrict": true,
+                  "eventsSheetExpanded": true
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "PixelPerfectMovement::PixelPerfectTopDownMovement",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            }
+          ],
+          "propertyDescriptors": [
+            {
+              "value": "",
+              "type": "Behavior",
+              "label": "Top-down movement behavior",
+              "description": "",
+              "group": "",
+              "extraInformation": [
+                "TopDownMovementBehavior::TopDownMovementBehavior"
+              ],
+              "name": "TopDownMovement"
+            },
+            {
+              "value": "1",
+              "type": "Number",
+              "label": "Pixel size",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "name": "PixelSize"
+            },
+            {
+              "value": "0",
+              "type": "Number",
+              "label": "Pixel grid offset X",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "name": "OffsetX"
+            },
+            {
+              "value": "0",
+              "type": "Number",
+              "label": "Pixel grid offset Y",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "name": "OffsetY"
+            }
+          ],
+          "sharedPropertyDescriptors": []
+        },
+        {
+          "description": "Seamlessly align big pixels using a platformer character movement.",
+          "fullName": "Pixel perfect platformer character",
+          "name": "PixelPerfectPlatformerCharacter",
+          "objectType": "",
+          "eventsFunctions": [
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "doStepPreEvents",
+              "sentence": "",
+              "events": [
+                {
+                  "colorB": 228,
+                  "colorG": 176,
+                  "colorR": 74,
+                  "creationTime": 0,
+                  "name": "X axis",
+                  "source": "",
+                  "type": "BuiltinCommonInstructions::Group",
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Comment",
+                      "color": {
+                        "b": 109,
+                        "g": 230,
+                        "r": 255,
+                        "textB": 0,
+                        "textG": 0,
+                        "textR": 0
+                      },
+                      "comment": "We don't know if the deceleration was already applied or not this step, but if the speed drifted from more than 1%, another extension is probably modifying the speed and it must not be overridden."
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "PixelPerfectMovement::PixelPerfectPlatformerCharacter::PropertyIsDecelerating"
+                          },
+                          "parameters": [
+                            "Object",
+                            "Behavior"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::CompareNumbers"
+                          },
+                          "parameters": [
+                            "abs(Object.PlatformerCharacter::CurrentSpeed() - Object.Behavior::PropertyPreviousSpeedX())",
+                            "<",
+                            "Object.PlatformerCharacter::CurrentSpeed() * 0.01 + Object.PlatformerCharacter::Deceleration() * TimeDelta()"
+                          ]
+                        }
+                      ],
+                      "actions": [],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Comment",
+                          "color": {
+                            "b": 109,
+                            "g": 230,
+                            "r": 255,
+                            "textB": 0,
+                            "textG": 0,
+                            "textR": 0
+                          },
+                          "comment": "Find how far to go to reach a pixel."
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "BuiltinCommonInstructions::Once"
+                              },
+                              "parameters": []
+                            }
+                          ],
+                          "actions": [],
+                          "events": [
+                            {
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "value": "PlatformBehavior::CurrentSpeed"
+                                  },
+                                  "parameters": [
+                                    "Object",
+                                    "PlatformerCharacter",
+                                    ">",
+                                    "0"
+                                  ]
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "value": "PixelPerfectMovement::PixelPerfectPlatformerCharacter::SetPropertyTargetX"
+                                  },
+                                  "parameters": [
+                                    "Object",
+                                    "Behavior",
+                                    "=",
+                                    "Object.Behavior::PropertyOffsetX() + Object.Behavior::PropertyPixelSize() * ceil((Object.X() + PixelPerfectMovement::BrakingDistance(Object.PlatformerCharacter::CurrentSpeed(), Object.PlatformerCharacter::Deceleration()) - Object.Behavior::PropertyOffsetX()) / Object.Behavior::PropertyPixelSize())"
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "PixelPerfectMovement::PixelPerfectPlatformerCharacter::SetPropertyTargetDirectionX"
+                                  },
+                                  "parameters": [
+                                    "Object",
+                                    "Behavior",
+                                    "=",
+                                    "1"
+                                  ]
+                                }
+                              ],
+                              "events": [
+                                {
+                                  "disabled": true,
+                                  "type": "BuiltinCommonInstructions::Standard",
+                                  "conditions": [],
+                                  "actions": [
+                                    {
+                                      "type": {
+                                        "value": "DebuggerTools::ConsoleLog"
+                                      },
+                                      "parameters": [
+                                        "\"Target: \" + ToString(Object.X()) + \"-->\" + ToString(Object.Behavior::PropertyTargetX())",
+                                        "",
+                                        ""
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "value": "PlatformBehavior::CurrentSpeed"
+                                  },
+                                  "parameters": [
+                                    "Object",
+                                    "PlatformerCharacter",
+                                    "<",
+                                    "0"
+                                  ]
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "value": "PixelPerfectMovement::PixelPerfectPlatformerCharacter::SetPropertyTargetX"
+                                  },
+                                  "parameters": [
+                                    "Object",
+                                    "Behavior",
+                                    "=",
+                                    "Object.Behavior::PropertyOffsetX() + Object.Behavior::PropertyPixelSize() * floor((Object.X() - PixelPerfectMovement::BrakingDistance(Object.PlatformerCharacter::CurrentSpeed(), Object.PlatformerCharacter::Deceleration()) - Object.Behavior::PropertyOffsetX()) / Object.Behavior::PropertyPixelSize())"
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "PixelPerfectMovement::PixelPerfectPlatformerCharacter::SetPropertyTargetDirectionX"
+                                  },
+                                  "parameters": [
+                                    "Object",
+                                    "Behavior",
+                                    "=",
+                                    "-1"
+                                  ]
+                                }
+                              ],
+                              "events": [
+                                {
+                                  "disabled": true,
+                                  "type": "BuiltinCommonInstructions::Standard",
+                                  "conditions": [],
+                                  "actions": [
+                                    {
+                                      "type": {
+                                        "value": "DebuggerTools::ConsoleLog"
+                                      },
+                                      "parameters": [
+                                        "\"Target: \" + ToString(Object.X()) + \"-->\" + ToString(Object.Behavior::PropertyTargetX())",
+                                        "",
+                                        ""
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Comment",
+                          "color": {
+                            "b": 109,
+                            "g": 230,
+                            "r": 255,
+                            "textB": 0,
+                            "textG": 0,
+                            "textR": 0
+                          },
+                          "comment": "Move to the target as the movement behavior would do."
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "PosX"
+                              },
+                              "parameters": [
+                                "Object",
+                                "<",
+                                "Object.Behavior::PropertyTargetX()"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "PixelPerfectMovement::PixelPerfectPlatformerCharacter::PropertyTargetDirectionX"
+                              },
+                              "parameters": [
+                                "Object",
+                                "Behavior",
+                                "=",
+                                "1"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+                              },
+                              "parameters": [
+                                "Object",
+                                "PlatformerCharacter",
+                                "=",
+                                "min(Object.PlatformerCharacter:: CurrentSpeed() + Object.PlatformerCharacter::Acceleration(), min(Object.PlatformerCharacter::MaxSpeed(), PixelPerfectMovement::SpeedToReach(Object.Behavior::PropertyTargetX() - Object.X(), Object.PlatformerCharacter::Deceleration())))"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "PosX"
+                              },
+                              "parameters": [
+                                "Object",
+                                ">",
+                                "Object.Behavior::PropertyTargetX()"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "PixelPerfectMovement::PixelPerfectPlatformerCharacter::PropertyTargetDirectionX"
+                              },
+                              "parameters": [
+                                "Object",
+                                "Behavior",
+                                "=",
+                                "-1"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+                              },
+                              "parameters": [
+                                "Object",
+                                "PlatformerCharacter",
+                                "=",
+                                "max(Object.PlatformerCharacter:: CurrentSpeed() - Object.PlatformerCharacter::Acceleration(), max(-Object.PlatformerCharacter::MaxSpeed(), PixelPerfectMovement::SpeedToReach(Object.Behavior::PropertyTargetX() - Object.X(), Object.PlatformerCharacter::Deceleration())))"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "BuiltinCommonInstructions::Or"
+                              },
+                              "parameters": [],
+                              "subInstructions": [
+                                {
+                                  "type": {
+                                    "value": "BuiltinCommonInstructions::And"
+                                  },
+                                  "parameters": [],
+                                  "subInstructions": [
+                                    {
+                                      "type": {
+                                        "value": "PosX"
+                                      },
+                                      "parameters": [
+                                        "Object",
+                                        ">=",
+                                        "Object.Behavior::PropertyTargetX()"
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "PixelPerfectMovement::PixelPerfectPlatformerCharacter::PropertyTargetDirectionX"
+                                      },
+                                      "parameters": [
+                                        "Object",
+                                        "Behavior",
+                                        "=",
+                                        "1"
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "BuiltinCommonInstructions::And"
+                                  },
+                                  "parameters": [],
+                                  "subInstructions": [
+                                    {
+                                      "type": {
+                                        "value": "PosX"
+                                      },
+                                      "parameters": [
+                                        "Object",
+                                        "<=",
+                                        "Object.Behavior::PropertyTargetX()"
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "PixelPerfectMovement::PixelPerfectPlatformerCharacter::PropertyTargetDirectionX"
+                                      },
+                                      "parameters": [
+                                        "Object",
+                                        "Behavior",
+                                        "=",
+                                        "-1"
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "MettreX"
+                              },
+                              "parameters": [
+                                "Object",
+                                "=",
+                                "Object.Behavior::PropertyOffsetX() + Object.Behavior::PropertyPixelSize() * round((Object.X() - Object.Behavior::PropertyOffsetX()) / Object.Behavior::PropertyPixelSize())"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "PixelPerfectMovement::PixelPerfectPlatformerCharacter::SetPropertyTargetDirectionX"
+                              },
+                              "parameters": [
+                                "Object",
+                                "Behavior",
+                                "=",
+                                "0"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "PlatformBehavior::PlatformerObjectBehavior::SetCurrentSpeed"
+                              },
+                              "parameters": [
+                                "Object",
+                                "PlatformerCharacter",
+                                "=",
+                                "0"
+                              ]
+                            }
+                          ],
+                          "events": [
+                            {
+                              "disabled": true,
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "value": "DebuggerTools::ConsoleLog"
+                                  },
+                                  "parameters": [
+                                    "\"X: \" + ToString(Object.X()) + \" Speed: \" + ToString(Object.PlatformerCharacter::CurrentSpeed())",
+                                    "",
+                                    ""
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "parameters": []
+                },
+                {
+                  "colorB": 228,
+                  "colorG": 176,
+                  "colorR": 74,
+                  "creationTime": 0,
+                  "name": "Ladder",
+                  "source": "",
+                  "type": "BuiltinCommonInstructions::Group",
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::IsOnLadder"
+                          },
+                          "parameters": [
+                            "Object",
+                            "PlatformerCharacter"
+                          ]
+                        }
+                      ],
+                      "actions": [],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Comment",
+                          "color": {
+                            "b": 109,
+                            "g": 230,
+                            "r": 255,
+                            "textB": 0,
+                            "textG": 0,
+                            "textR": 0
+                          },
+                          "comment": "Find how far to go to reach a pixel."
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "inverted": true,
+                                "value": "PlatformBehavior::PlatformerObjectBehavior::IsUsingControl"
+                              },
+                              "parameters": [
+                                "Object",
+                                "PlatformerCharacter",
+                                "\"Down\""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "BuiltinCommonInstructions::Once"
+                              },
+                              "parameters": []
+                            }
+                          ],
+                          "actions": [],
+                          "events": [
+                            {
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "inverted": true,
+                                    "value": "PlatformBehavior::PlatformerObjectBehavior::IsUsingControl"
+                                  },
+                                  "parameters": [
+                                    "Object",
+                                    "PlatformerCharacter",
+                                    "\"Up\""
+                                  ]
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "value": "PixelPerfectMovement::PixelPerfectPlatformerCharacter::SetPropertyTargetY"
+                                  },
+                                  "parameters": [
+                                    "Object",
+                                    "Behavior",
+                                    "=",
+                                    "Object.Behavior::PropertyOffsetY() + Object.Behavior::PropertyPixelSize() * ceil((Object.Y() - Object.Behavior::PropertyOffsetY()) / Object.Behavior::PropertyPixelSize())"
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "PixelPerfectMovement::PixelPerfectPlatformerCharacter::SetPropertyTargetDirectionY"
+                                  },
+                                  "parameters": [
+                                    "Object",
+                                    "Behavior",
+                                    "=",
+                                    "1"
+                                  ]
+                                }
+                              ],
+                              "events": [
+                                {
+                                  "disabled": true,
+                                  "type": "BuiltinCommonInstructions::Standard",
+                                  "conditions": [],
+                                  "actions": [
+                                    {
+                                      "type": {
+                                        "value": "DebuggerTools::ConsoleLog"
+                                      },
+                                      "parameters": [
+                                        "\"Target: \" + ToString(Object.Y()) + \"-->\" + ToString(Object.Behavior::PropertyTargetY())",
+                                        "",
+                                        ""
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "inverted": true,
+                                "value": "PlatformBehavior::PlatformerObjectBehavior::IsUsingControl"
+                              },
+                              "parameters": [
+                                "Object",
+                                "PlatformerCharacter",
+                                "\"Up\""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "BuiltinCommonInstructions::Once"
+                              },
+                              "parameters": []
+                            }
+                          ],
+                          "actions": [],
+                          "events": [
+                            {
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "inverted": true,
+                                    "value": "PlatformBehavior::PlatformerObjectBehavior::IsUsingControl"
+                                  },
+                                  "parameters": [
+                                    "Object",
+                                    "PlatformerCharacter",
+                                    "\"Down\""
+                                  ]
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "value": "PixelPerfectMovement::PixelPerfectPlatformerCharacter::SetPropertyTargetY"
+                                  },
+                                  "parameters": [
+                                    "Object",
+                                    "Behavior",
+                                    "=",
+                                    "Object.Behavior::PropertyOffsetY() + Object.Behavior::PropertyPixelSize() * floor((Object.Y() - Object.Behavior::PropertyOffsetY()) / Object.Behavior::PropertyPixelSize())"
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "PixelPerfectMovement::PixelPerfectPlatformerCharacter::SetPropertyTargetDirectionY"
+                                  },
+                                  "parameters": [
+                                    "Object",
+                                    "Behavior",
+                                    "=",
+                                    "-1"
+                                  ]
+                                }
+                              ],
+                              "events": [
+                                {
+                                  "disabled": true,
+                                  "type": "BuiltinCommonInstructions::Standard",
+                                  "conditions": [],
+                                  "actions": [
+                                    {
+                                      "type": {
+                                        "value": "DebuggerTools::ConsoleLog"
+                                      },
+                                      "parameters": [
+                                        "\"Target: \" + ToString(Object.Y()) + \"-->\" + ToString(Object.Behavior::PropertyTargetY())",
+                                        "",
+                                        ""
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Comment",
+                          "color": {
+                            "b": 109,
+                            "g": 230,
+                            "r": 255,
+                            "textB": 0,
+                            "textG": 0,
+                            "textR": 0
+                          },
+                          "comment": "Move to the target as the movement behavior would do."
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "inverted": true,
+                                "value": "PlatformBehavior::PlatformerObjectBehavior::IsUsingControl"
+                              },
+                              "parameters": [
+                                "Object",
+                                "PlatformerCharacter",
+                                "\"Up\""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "inverted": true,
+                                "value": "PlatformBehavior::PlatformerObjectBehavior::IsUsingControl"
+                              },
+                              "parameters": [
+                                "Object",
+                                "PlatformerCharacter",
+                                "\"Down\""
+                              ]
+                            }
+                          ],
+                          "actions": [],
+                          "events": [
+                            {
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "value": "PosY"
+                                  },
+                                  "parameters": [
+                                    "Object",
+                                    "<",
+                                    "Object.Behavior::PropertyTargetY()"
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "PixelPerfectMovement::PixelPerfectPlatformerCharacter::PropertyTargetDirectionY"
+                                  },
+                                  "parameters": [
+                                    "Object",
+                                    "Behavior",
+                                    "=",
+                                    "1"
+                                  ]
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "value": "MettreY"
+                                  },
+                                  "parameters": [
+                                    "Object",
+                                    "+",
+                                    "Object.PlatformerCharacter::MaxSpeed() * TimeDelta()"
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "value": "PosY"
+                                  },
+                                  "parameters": [
+                                    "Object",
+                                    ">",
+                                    "Object.Behavior::PropertyTargetY()"
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "PixelPerfectMovement::PixelPerfectPlatformerCharacter::PropertyTargetDirectionY"
+                                  },
+                                  "parameters": [
+                                    "Object",
+                                    "Behavior",
+                                    "=",
+                                    "-1"
+                                  ]
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "value": "MettreY"
+                                  },
+                                  "parameters": [
+                                    "Object",
+                                    "-",
+                                    "Object.PlatformerCharacter::MaxSpeed() * TimeDelta()"
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "value": "BuiltinCommonInstructions::Or"
+                                  },
+                                  "parameters": [],
+                                  "subInstructions": [
+                                    {
+                                      "type": {
+                                        "value": "BuiltinCommonInstructions::And"
+                                      },
+                                      "parameters": [],
+                                      "subInstructions": [
+                                        {
+                                          "type": {
+                                            "value": "PosY"
+                                          },
+                                          "parameters": [
+                                            "Object",
+                                            ">=",
+                                            "Object.Behavior::PropertyTargetY()"
+                                          ]
+                                        },
+                                        {
+                                          "type": {
+                                            "value": "PixelPerfectMovement::PixelPerfectPlatformerCharacter::PropertyTargetDirectionY"
+                                          },
+                                          "parameters": [
+                                            "Object",
+                                            "Behavior",
+                                            "=",
+                                            "1"
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "BuiltinCommonInstructions::And"
+                                      },
+                                      "parameters": [],
+                                      "subInstructions": [
+                                        {
+                                          "type": {
+                                            "value": "PosY"
+                                          },
+                                          "parameters": [
+                                            "Object",
+                                            "<=",
+                                            "Object.Behavior::PropertyTargetY()"
+                                          ]
+                                        },
+                                        {
+                                          "type": {
+                                            "value": "PixelPerfectMovement::PixelPerfectPlatformerCharacter::PropertyTargetDirectionY"
+                                          },
+                                          "parameters": [
+                                            "Object",
+                                            "Behavior",
+                                            "=",
+                                            "-1"
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "value": "MettreY"
+                                  },
+                                  "parameters": [
+                                    "Object",
+                                    "=",
+                                    "Object.Behavior::PropertyOffsetY() + Object.Behavior::PropertyPixelSize() * round((Object.Y() - Object.Behavior::PropertyOffsetY()) / Object.Behavior::PropertyPixelSize())"
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "PixelPerfectMovement::PixelPerfectPlatformerCharacter::SetPropertyTargetDirectionY"
+                                  },
+                                  "parameters": [
+                                    "Object",
+                                    "Behavior",
+                                    "=",
+                                    "0"
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "disabled": true,
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "value": "DebuggerTools::ConsoleLog"
+                                  },
+                                  "parameters": [
+                                    "\"X: \" + ToString(Object.X()) + \" Speed: \" + ToString(Object.PlatformerCharacter::CurrentSpeed())",
+                                    "",
+                                    ""
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "parameters": []
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "PixelPerfectMovement::PixelPerfectPlatformerCharacter",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "doStepPostEvents",
+              "sentence": "",
+              "events": [
+                {
+                  "disabled": true,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::CompareNumbers"
+                      },
+                      "parameters": [
+                        "abs(Object.PlatformerCharacter::CurrentSpeed())",
+                        "!=",
+                        "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::CompareNumbers"
+                      },
+                      "parameters": [
+                        "abs(Object.PlatformerCharacter::CurrentSpeed())",
+                        "!=",
+                        "Object.PlatformerCharacter::MaxSpeed()"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "DebuggerTools::ConsoleLog"
+                      },
+                      "parameters": [
+                        "ToString(abs(Object.Behavior::PropertyPreviousSpeedX()) - Object.PlatformerCharacter::Deceleration() * TimeDelta() - abs(Object.PlatformerCharacter::CurrentSpeed()))",
+                        "",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Check if the character is decelerating.\nIt's done in doStepPostEvent because there is no way to know if the doStepPreEvents of this behavior is executed before or after the one of PlatformerCharcter.\nAs TimeDelta is used, we have to be sure the last PlatformerCharcter.doStepPreEvents call used the same TimeDelta. Which means this must be done after PlatformerCharcter.doStepPreEvents."
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PixelPerfectMovement::PixelPerfectPlatformerCharacter::SetPropertyIsDecelerating"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "no"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Or"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::CurrentSpeed"
+                          },
+                          "parameters": [
+                            "Object",
+                            "PlatformerCharacter",
+                            "=",
+                            "0"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::CompareNumbers"
+                          },
+                          "parameters": [
+                            "abs(Object.PlatformerCharacter::CurrentSpeed())",
+                            "=",
+                            "abs(Object.Behavior::PropertyPreviousSpeedX()) - Object.PlatformerCharacter::Deceleration() * TimeDelta()"
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PixelPerfectMovement::PixelPerfectPlatformerCharacter::SetPropertyIsDecelerating"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "yes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Save the speed to detect speed changes from outside."
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PixelPerfectMovement::PixelPerfectPlatformerCharacter::SetPropertyPreviousSpeedX"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "Object.PlatformerCharacter::CurrentSpeed()"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "PixelPerfectMovement::PixelPerfectPlatformerCharacter",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            }
+          ],
+          "propertyDescriptors": [
+            {
+              "value": "",
+              "type": "Behavior",
+              "label": "Platformer character behavior",
+              "description": "",
+              "group": "",
+              "extraInformation": [
+                "PlatformBehavior::PlatformerObjectBehavior"
+              ],
+              "name": "PlatformerCharacter"
+            },
+            {
+              "value": "1",
+              "type": "Number",
+              "label": "Pixel size",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "name": "PixelSize"
+            },
+            {
+              "value": "0",
+              "type": "Number",
+              "label": "Pixel grid offset X",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "name": "OffsetX"
+            },
+            {
+              "value": "0",
+              "type": "Number",
+              "label": "Pixel grid offset Y",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "name": "OffsetY"
+            },
+            {
+              "value": "0",
+              "type": "Number",
+              "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "hidden": true,
+              "name": "TargetX"
+            },
+            {
+              "value": "0",
+              "type": "Number",
+              "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "hidden": true,
+              "name": "TargetDirectionX"
+            },
+            {
+              "value": "0",
+              "type": "Number",
+              "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "hidden": true,
+              "name": "TargetY"
+            },
+            {
+              "value": "0",
+              "type": "Number",
+              "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "hidden": true,
+              "name": "TargetDirectionY"
+            },
+            {
+              "value": "",
+              "type": "Number",
+              "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "hidden": true,
+              "name": "PreviousSpeedX"
+            },
+            {
+              "value": "",
+              "type": "Boolean",
+              "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "hidden": true,
+              "name": "IsDecelerating"
+            }
+          ],
+          "sharedPropertyDescriptors": []
+        }
+      ],
+      "eventsBasedObjects": []
+    },
     {
       "author": "@4ian",
       "category": "Game mechanic",
