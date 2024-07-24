@@ -5743,7 +5743,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.3673257545058973,
+        "zoomFactor": 0.32169117647060197,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -5886,23 +5886,6 @@
           "persistentUuid": "b07d9119-dfea-42eb-8e32-ee1abca5a325",
           "width": 64,
           "x": 4480,
-          "y": 384,
-          "zOrder": 13,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 2,
-          "height": 64,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Coin",
-          "persistentUuid": "6b616bf1-28e5-4af0-a2d0-7143a8d43766",
-          "width": 64,
-          "x": 7616,
           "y": 384,
           "zOrder": 13,
           "numberProperties": [],
@@ -6233,23 +6216,6 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 6,
-          "height": 32,
-          "keepRatio": true,
-          "layer": "",
-          "name": "PlatformJumpThrough",
-          "persistentUuid": "faea398a-4c1d-40d0-9017-ab02c7e3c737",
-          "width": 256,
-          "x": 7552,
-          "y": 576,
-          "zOrder": 27,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "depth": 2,
           "height": 64,
           "keepRatio": true,
@@ -6413,23 +6379,6 @@
           "x": 10688,
           "y": -336,
           "zOrder": 13,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 32,
-          "keepRatio": true,
-          "layer": "",
-          "name": "PlatformJumpThrough",
-          "persistentUuid": "41f4d9e4-62f1-4a77-9bd5-efa329abbeb6",
-          "width": 256,
-          "x": 6656,
-          "y": 832,
-          "zOrder": 29,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -9373,7 +9322,7 @@
                 "",
                 "assets\\Snowland Loop.wav",
                 "yes",
-                "100",
+                "50",
                 ""
               ]
             }
@@ -12253,7 +12202,7 @@
                 "",
                 "assets\\Snowland Loop.wav",
                 "yes",
-                "100",
+                "50",
                 ""
               ]
             }
@@ -16126,7 +16075,7 @@
                 "",
                 "assets\\Snowland Loop.wav",
                 "yes",
-                "100",
+                "50",
                 ""
               ]
             }
@@ -20030,7 +19979,7 @@
                 "",
                 "assets\\Pleasant Creek Loop.wav",
                 "yes",
-                "100",
+                "50",
                 ""
               ]
             }
