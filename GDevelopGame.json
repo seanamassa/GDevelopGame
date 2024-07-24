@@ -1912,6 +1912,15 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Door/188b41d1cd7ba282fab20d4f32ae1c67dabcc5583a49061787b77d36a8601b5e_Door_Opening_5.png",
           "name": "gdevelop-asset-store"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Redwood Background_center.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\9patch_Redwood Background_center.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -2464,7 +2473,7 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": false,
+              "looping": true,
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
@@ -4401,11 +4410,11 @@
           "Flippable": "Flippable"
         },
         {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
           "acceleration": 1500,
           "canGrabWithoutMoving": false,
           "maxSpeed": 150,
-          "name": "PlatformerObject",
-          "type": "PlatformBehavior::PlatformerObjectBehavior",
           "canGoDownFromJumpthru": true,
           "canGrabPlatforms": false,
           "deceleration": 1500,
@@ -5124,17 +5133,6 @@
       ]
     },
     {
-      "assetStoreId": "",
-      "height": 32,
-      "name": "Background2",
-      "texture": "4d8cfdae4934a160d7a712ac0242ffb00a330637bf9373f0870af014671423ea_tiled_Stars.png",
-      "type": "TiledSpriteObject::TiledSprite",
-      "width": 32,
-      "variables": [],
-      "effects": [],
-      "behaviors": []
-    },
-    {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "Bridge2",
@@ -5705,9 +5703,6 @@
         "objectName": "PlatformJumpThrough"
       },
       {
-        "objectName": "Background2"
-      },
-      {
         "objectName": "Bridge2"
       },
       {
@@ -5748,7 +5743,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.9934433498259974,
+        "zoomFactor": 0.1657211724752751,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -5974,7 +5969,7 @@
           "layer": "",
           "name": "Boundary",
           "persistentUuid": "0e087033-474b-45c5-abd4-adc78983e9f3",
-          "width": 15744,
+          "width": 15616,
           "x": -1472,
           "y": 2112,
           "zOrder": 15,
@@ -6044,23 +6039,6 @@
           "x": 0,
           "y": 0,
           "zOrder": 21,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 70,
-          "height": 1088,
-          "keepRatio": true,
-          "layer": "Background",
-          "name": "Background2",
-          "persistentUuid": "b89ff44c-16eb-4a50-9b51-f5bd22fec506",
-          "width": 1920,
-          "x": 0,
-          "y": 0,
-          "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -9831,7 +9809,7 @@
                   },
                   "parameters": [
                     "",
-                    "Pickup",
+                    "assets\\Puppy Bark 6.mp3",
                     "",
                     "50",
                     ""
@@ -10100,7 +10078,7 @@
                   },
                   "parameters": [
                     "",
-                    "b8a7683ddaf1a6f7501e14105285402c467cdd0509d84388620d8a0c7badef01_Powerup 10.aac",
+                    "assets\\Apple Bite.mp3",
                     "",
                     "",
                     ""
@@ -10561,6 +10539,10 @@
           "type": "OpacityCapability::OpacityBehavior"
         },
         {
+          "name": "PixelPerfectPlatformerCharacter",
+          "type": "PixelPerfectMovement::PixelPerfectPlatformerCharacter"
+        },
+        {
           "name": "Platform",
           "type": "PlatformBehavior::PlatformBehavior"
         },
@@ -10618,7 +10600,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.23689563725446927,
+        "zoomFactor": 0.3895856273827355,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -10707,8 +10689,8 @@
           "name": "HealthPotion",
           "persistentUuid": "135e4f5f-871b-4787-a053-d95074fddf55",
           "width": 0,
-          "x": 192,
-          "y": 672,
+          "x": 1632,
+          "y": 128,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -10821,7 +10803,7 @@
           "layer": "",
           "name": "PlatformGrass",
           "persistentUuid": "cb067050-1d35-459a-bc64-7d8f96f589ee",
-          "width": 192,
+          "width": 224,
           "x": 416,
           "y": 256,
           "zOrder": 22,
@@ -10872,7 +10854,7 @@
           "name": "Bridge",
           "persistentUuid": "309f56d9-2684-46fe-8ebb-21cc7daa8cb8",
           "width": 0,
-          "x": 621,
+          "x": 639,
           "y": 240,
           "zOrder": 25,
           "numberProperties": [],
@@ -11118,7 +11100,7 @@
           "name": "PlatformGrass",
           "persistentUuid": "56aa21ec-78e6-46b3-9e5e-881af045e21a",
           "width": 32,
-          "x": 576,
+          "x": 606,
           "y": 224,
           "zOrder": 43,
           "numberProperties": [],
@@ -12041,8 +12023,8 @@
           "name": "Enemy2",
           "persistentUuid": "2fb6593b-9954-467b-ad78-e34d762fc37f",
           "width": 0,
-          "x": 416,
-          "y": 128,
+          "x": 474,
+          "y": 75,
           "zOrder": 45,
           "numberProperties": [],
           "stringProperties": [],
@@ -12061,39 +12043,6 @@
           "x": 0,
           "y": 0,
           "zOrder": 91,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "Background",
-          "name": "Background2",
-          "persistentUuid": "668eb9f1-772c-4666-9e7b-b6edd5552798",
-          "width": 0,
-          "x": -1600,
-          "y": 320,
-          "zOrder": 92,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 1088,
-          "keepRatio": true,
-          "layer": "Background",
-          "name": "Background2",
-          "persistentUuid": "09a24ae5-0239-47bd-ab9f-9b985ef78f67",
-          "width": 1920,
-          "x": 0,
-          "y": 0,
-          "zOrder": 93,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -12177,6 +12126,22 @@
           "x": 1608,
           "y": 736,
           "zOrder": 104,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "HealthPotion",
+          "persistentUuid": "d915c3e0-cc56-43e1-9af8-6e534daea378",
+          "width": 0,
+          "x": 4192,
+          "y": -512,
+          "zOrder": 105,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -13273,7 +13238,7 @@
               },
               "parameters": [
                 "",
-                "Jump",
+                "assets\\jump_02.wav",
                 "",
                 "50",
                 ""
@@ -13313,7 +13278,7 @@
               },
               "parameters": [
                 "",
-                "b8a7683ddaf1a6f7501e14105285402c467cdd0509d84388620d8a0c7badef01_Powerup 10.aac",
+                "assets\\Apple Bite.mp3",
                 "",
                 "",
                 ""
@@ -14134,6 +14099,10 @@
           "type": "OpacityCapability::OpacityBehavior"
         },
         {
+          "name": "PixelPerfectPlatformerCharacter",
+          "type": "PixelPerfectMovement::PixelPerfectPlatformerCharacter"
+        },
+        {
           "name": "Platform",
           "type": "PlatformBehavior::PlatformBehavior"
         },
@@ -14191,7 +14160,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.2216924727500545,
+        "zoomFactor": 0.542792080247335,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -15940,39 +15909,6 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "Background",
-          "name": "Background2",
-          "persistentUuid": "f88be94b-9a86-4df6-bb85-760b425cc748",
-          "width": 0,
-          "x": 2560,
-          "y": 960,
-          "zOrder": 97,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 1088,
-          "keepRatio": true,
-          "layer": "Background",
-          "name": "Background2",
-          "persistentUuid": "162b234b-1137-41f4-b73c-1b153d1259a0",
-          "width": 1920,
-          "x": 0,
-          "y": 0,
-          "zOrder": 98,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
           "layer": "",
           "name": "Door",
           "persistentUuid": "3bced7ff-b09a-4f3b-b9bf-855dc265be41",
@@ -16099,14 +16035,6 @@
             }
           ],
           "actions": [
-            {
-              "type": {
-                "value": "PlayerAuthentication::DisplayAuthenticationBanner"
-              },
-              "parameters": [
-                ""
-              ]
-            },
             {
               "type": {
                 "value": "ZoomCamera"
@@ -16800,7 +16728,7 @@
               },
               "parameters": [
                 "",
-                "Pickup",
+                "assets\\Puppy Bark 6.mp3",
                 "",
                 "50",
                 ""
@@ -16861,7 +16789,7 @@
               },
               "parameters": [
                 "",
-                "b8a7683ddaf1a6f7501e14105285402c467cdd0509d84388620d8a0c7badef01_Powerup 10.aac",
+                "assets\\Apple Bite.mp3",
                 "",
                 "",
                 ""
@@ -17394,7 +17322,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.44485159988866535,
+        "zoomFactor": 0.8635277700823945,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -19939,6 +19867,22 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Door",
+          "persistentUuid": "ed97dec2-97b7-4b5b-8eeb-e33e97df3304",
+          "width": 0,
+          "x": 1809,
+          "y": 959,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -20520,7 +20464,7 @@
               },
               "parameters": [
                 "",
-                "assets\\Apple Bite.mp3",
+                "assets\\Puppy Bark 6.mp3",
                 "",
                 "100",
                 ""
@@ -21817,6 +21761,267 @@
         {
           "name": "Opacity",
           "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "PixelPerfectPlatformerCharacter",
+          "type": "PixelPerfectMovement::PixelPerfectPlatformerCharacter"
+        },
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
+        },
+        {
+          "name": "PlatformerCharacterAnimator",
+          "type": "PlatformerCharacterAnimator::PlatformerCharacterAnimator"
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior"
+        },
+        {
+          "name": "RectangleMovement",
+          "type": "RectangleMovement::RectangleMovement"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "SmoothCamera",
+          "type": "SmoothCamera::SmoothCamera"
+        },
+        {
+          "name": "SmoothPlatformerCamera",
+          "type": "SmoothCamera::SmoothPlatformerCamera"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
+        }
+      ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Credits",
+      "name": "Credits",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.40272258333259103,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 1216,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "f02010b6-ed17-42c3-8a37-34f531d8e96f",
+          "width": 2376,
+          "x": -101,
+          "y": -108,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 187,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewBitmapText",
+          "persistentUuid": "8a716fa3-976c-46cb-a64c-ff119ae53cbb",
+          "width": 2243,
+          "x": 51,
+          "y": 835,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 783,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewBitmapText2",
+          "persistentUuid": "1165b5e9-31f9-4f7e-bc5c-59bc9ea9d46b",
+          "width": 1829,
+          "x": 53,
+          "y": 61,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "assetStoreId": "",
+          "name": "NewBitmapText",
+          "type": "BitmapText::BitmapTextObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "text": "Thank you for playing our game!",
+            "opacity": 255,
+            "scale": 4,
+            "fontSize": 20,
+            "tint": "255;255;255",
+            "bitmapFontResourceName": "PixelOperator8-Bold.fnt",
+            "textureAtlasResourceName": "PixelOperator8-Bold.png",
+            "align": "left",
+            "wordWrap": true
+          }
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "NewTiledSprite",
+          "texture": "assets\\9patch_Redwood Background_center.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "name": "NewBitmapText2",
+          "type": "BitmapText::BitmapTextObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "text": "Made and developed by\n\nAbdoulaye Sow Ashutosh Kumar Sean Massa",
+            "opacity": 255,
+            "scale": 7,
+            "fontSize": 20,
+            "tint": "255;255;255",
+            "bitmapFontResourceName": "PixelOperator8-Bold.fnt",
+            "textureAtlasResourceName": "PixelOperator8-Bold.png",
+            "align": "left",
+            "wordWrap": true
+          }
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "NewBitmapText"
+          },
+          {
+            "objectName": "NewBitmapText2"
+          },
+          {
+            "objectName": "NewTiledSprite"
+          }
+        ]
+      },
+      "events": [],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "AdvancedJump",
+          "type": "AdvancedJump::AdvancedJump"
+        },
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flash",
+          "type": "Flash::Flash"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "PixelPerfectPlatformerCharacter",
+          "type": "PixelPerfectMovement::PixelPerfectPlatformerCharacter"
         },
         {
           "name": "Platform",
